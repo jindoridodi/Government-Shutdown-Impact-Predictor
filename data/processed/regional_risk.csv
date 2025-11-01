@@ -1,0 +1,16 @@
+region,state,lat,lon,risk_score,unemployment_rate
+Washington DC,DC,38.8951,-77.0364,0.89,4.5
+Fairfax County,VA,38.8462,-77.3064,0.74,3.9
+Montgomery County,MD,39.1547,-77.2405,0.68,4.1
+Prince George's County,MD,38.7849,-76.8721,0.73,5.4
+Arlington County,VA,38.8816,-77.0910,0.65,3.4
+Baltimore,MD,39.2904,-76.6122,0.79,6.7
+Atlanta,GA,33.7490,-84.3880,0.67,5.2
+Denver,CO,39.7392,-104.9903,0.62,4.0
+Seattle,WA,47.6062,-122.3321,0.58,3.8
+San Francisco,CA,37.7749,-122.4194,0.64,4.2
+Los Angeles,CA,34.0522,-118.2437,0.72,5.8
+New York,NY,40.7128,-74.0060,0.76,5.3
+Chicago,IL,41.8781,-87.6298,0.71,5.9
+Houston,TX,29.7604,-95.3698,0.66,4.7
+Phoenix,AZ,33.4484,-112.0740,0.60,4.4
