@@ -1,16 +1,13 @@
-
-# insights.py
-
 from PyQt6.QtWidgets import QWidget, QApplication, QPushButton, QVBoxLayout, QTextEdit, QProgressBar, QMessageBox
-from PyQt6.QtCore import Qt
+from PyQt6.QtCore import Qt, QUrl
 from PyQt6.QtNetwork import QNetworkAccessManager, QNetworkRequest
 import sys
 import json
-import requests
 
 class InsightsWidget(QWidget):
     def __init__(self):
         super().__init__()
+        self.manager = QNetworkAccessManager(self)  # keep it as an attribute
         self.initUI()
 
     def initUI(self):
@@ -22,8 +19,9 @@ class InsightsWidget(QWidget):
         self.text_edit.setAcceptRichText(False)
 
         self.progress_bar = QProgressBar(self)
-        self.progress_bar.setOrientation(Qt.Horizontal)
+        self.progress_bar.setOrientation(Qt.Orientation.Horizontal)
         self.progress_bar.setVisible(False)
+        self.progress_bar.setRange(0, 100)
 
         refresh_button = QPushButton('Refresh', self)
         refresh_button.clicked.connect(self.refresh_insights)
@@ -38,26 +36,41 @@ class InsightsWidget(QWidget):
         self.progress_bar.setVisible(True)
         self.progress_bar.setValue(0)
 
-        manager = QNetworkAccessManager(self)
-        request = QNetworkRequest(QUrl("http://127.0.0.1:8000/insights"))
-        self.progress_bar.setMaximum(100)
+        url = QUrl("http://127.0.0.1:8000/insights")
+        request = QNetworkRequest(url)
 
-        def update_progress(bytes_so_far, total_bytes):
-            progress = int(bytes_so_far * 100 / total_bytes)
-            self.progress_bar.setValue(progress)
+        reply = self.manager.get(request)  # single request
 
-        manager.get(request).finished.connect(lambda: self.handle_response(update_progress))
-        manager.get(request).downloadProgress.connect(update_progress)
+        # progress
+        reply.downloadProgress.connect(self._on_download_progress)
+        # finished
+        reply.finished.connect(lambda r=reply: self._handle_response(r))
 
-    def handle_response(self, update_progress):
+    def _on_download_progress(self, bytes_received: int, bytes_total: int):
+        if bytes_total > 0:
+            self.progress_bar.setValue(int(bytes_received * 100 / bytes_total))
+        else:
+            # unknown total size; show indeterminate
+            self.progress_bar.setRange(0, 0)
+
+    def _handle_response(self, reply):
         self.progress_bar.setVisible(False)
+        self.progress_bar.setRange(0, 100)
+
+        # Check for network errors
+        if reply.error():
+            QMessageBox.critical(self, "Error", f"Failed to fetch insights: {reply.errorString()}")
+            reply.deleteLater()
+            return
+
         try:
-            response = requests.get("http://127.0.0.1:8000/insights")
-            response.raise_for_status()
-            insights_data = response.json()
-            self.text_edit.setText(insights_data.get('summary', 'No insights available'))
-        except requests.exceptions.RequestException as e:
-            QMessageBox.critical(self, "Error", f"Failed to fetch insights: {e}")
+            data_bytes = reply.readAll().data()
+            payload = json.loads(data_bytes.decode("utf-8"))
+            self.text_edit.setPlainText(payload.get("summary", "No insights available"))
+        except Exception as e:
+            QMessageBox.critical(self, "Error", f"Invalid response: {e}")
+        finally:
+            reply.deleteLater()
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

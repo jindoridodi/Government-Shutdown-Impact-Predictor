@@ -6,10 +6,52 @@ import json
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 import logging
+import os
+from pathlib import Path
+import warnings
 
-# Replace with your actual IBM Cloud API key and IAM token
-API_KEY = 'YOUR_IBM_API_KEY'
+# Suppress urllib3 NotOpenSSLWarning when Python is linked against LibreSSL (common on macOS)
+# This is an environment-level warning; silencing it here keeps logs cleaner while you decide
+# whether to rebuild Python with OpenSSL or install an OpenSSL-backed Python.
+try:
+    from urllib3.exceptions import NotOpenSSLWarning
+    warnings.filterwarnings("ignore", category=NotOpenSSLWarning)
+except Exception:
+    # If urllib3 changes or import fails, just ignore and continue
+    pass
+
+# Replace with your actual IBM Cloud IAM token (optional). We'll load API_KEY from environment or .env.
+# Keep IAM_TOKEN for backward compatibility if you want to supply it directly.
 IAM_TOKEN = 'YOUR_IAM_TOKEN'
+
+# Load API_KEY from environment or from a .env file in the repository root if present.
+def _load_api_key():
+    # Prefer environment variable
+    key = os.getenv('API_KEY')
+    if key:
+        return key
+
+    # Look for a .env file in the repository root (one level above this models/ directory)
+    repo_root = Path(__file__).resolve().parents[1]
+    env_path = repo_root / '.env'
+    if env_path.exists():
+        try:
+            for line in env_path.read_text().splitlines():
+                line = line.strip()
+                if not line or line.startswith('#') or '=' not in line:
+                    continue
+                k, v = line.split('=', 1)
+                if k.strip() == 'API_KEY':
+                    return v.strip().strip('"').strip("'")
+        except Exception:
+            # If reading .env fails, fall back to default below
+            pass
+
+    # Fallback placeholder if not provided
+    return 'YOUR_IBM_API_KEY'
+
+# Module-level API_KEY (loaded once)
+API_KEY = _load_api_key()
 WATSONX_AI_BASE_URL = 'https://api.watsonx.ibm.com/v1/text-generation/models/Granite-3-8b-instruct/generate'
 
 def get_access_token(api_key):
