@@ -22,9 +22,10 @@ def create_heatmap(data_path, output_html):
 
     # Add heatmap layer
     folium.plugins.Heatmap(
-        gdf.geometry.apply(lambda x: [(x.bounds[1], x.bounds[0], x.bounds[3], x.bounds[2], data['risk_score'][i]]),
-                           radius=15).tolist(),
-        min_opacity=0.2, gradient={
+        gdf.geometry.apply(lambda x: [(x.bounds[1], x.bounds[0], x.bounds[3], x.bounds[2], data['risk_score'][i])]).tolist(),
+        radius=15,
+        min_opacity=0.2,
+        gradient={
             '0.25': 'blue',
             '0.5': 'green',
             '0.75': 'yellow',

@@ -4,7 +4,8 @@
 import requests
 import json
 from requests.adapters import HTTPAdapter
-from requests.packages.urllib3.util.retry import Retry
+from urllib3.util import Retry
+import logging
 
 # Replace with your actual IBM Cloud API key and IAM token
 API_KEY = 'YOUR_IBM_API_KEY'
@@ -15,16 +16,16 @@ def get_access_token(api_key):
     """
     Obtains an access token using the IBM Cloud API key.
     """
-    auth = (
-        'Bearer',
-        f'{API_KEY}:{IAM_TOKEN}'
-    )
-    response = requests.post(
-        'https://iam.cloud.ibm.com/oidc/token',
-        headers={'Content-Type': 'application/x-www-form-urlencoded'}
-    )
+    # IBM Cloud IAM token endpoint expects form-encoded data with the apikey and the grant_type
+    url = 'https://iam.cloud.ibm.com/identity/token'
+    headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+    payload = {
+        'grant_type': 'urn:ibm:params:oauth:grant-type:apikey',
+        'apikey': api_key
+    }
+    response = requests.post(url, headers=headers, data=payload)
     response.raise_for_status()
-    return response.json()['access_token']
+    return response.json().get('access_token')
 
 def summarize_impact(region_data):
     """
@@ -52,14 +53,22 @@ def summarize_impact(region_data):
     )
 
     adapter = HTTPAdapter(max_retries=retry_strategy)
-    http = requests.Session()
-    http.mount('https://', adapter)
-    http.mount('http://', adapter)
-
+    # Use a session context manager so the session/connection pool is properly closed
     try:
-        response = http.post(WATSONX_AI_BASE_URL, headers=headers, data=json.dumps(data))
-        response.raise_for_status()
-        return response.json()['choices'][0]['text']  # Return the generated summary
+        with requests.Session() as http:
+            http.mount('https://', adapter)
+            http.mount('http://', adapter)
+            response = http.post(WATSONX_AI_BASE_URL, headers=headers, data=json.dumps(data))
+            response.raise_for_status()
+            # Be defensive about the returned JSON structure
+            resp_json = response.json()
+            choices = resp_json.get('choices') or []
+            if choices and isinstance(choices, list):
+                first = choices[0]
+                # try multiple possible keys for text
+                return first.get('text') or first.get('output_text') or None
+            # Fallback to returning the whole response text if structure is unexpected
+            return resp_json
     except requests.exceptions.RequestException as e:
         logging.error(f"Error during watsonx.ai call: {e}")
         # Implement more sophisticated error handling or retry logic as needed
