@@ -1,6 +1,3 @@
-
-# visualization.py
-
 import pandas as pd
 import folium
 import plotly.express as px

@@ -1,6 +1,4 @@
 
-# watsonx_client.py
-
 import requests
 import json
 from requests.adapters import HTTPAdapter
