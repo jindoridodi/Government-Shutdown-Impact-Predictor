@@ -6,10 +6,19 @@ import json
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 import logging
+import os
+from pathlib import Path
+from dotenv import load_dotenv
 
-# Replace with your actual IBM Cloud API key and IAM token
-API_KEY = 'YOUR_IBM_API_KEY'
-IAM_TOKEN = 'YOUR_IAM_TOKEN'
+# Load environment variables from .env file
+load_dotenv()
+
+# Replace with your actual IBM Cloud IAM token (optional). We'll load API_KEY from environment or .env.
+# Keep IAM_TOKEN for backward compatibility if you want to supply it directly.
+IAM_TOKEN = os.getenv('IAM_TOKEN', 'YOUR_IAM_TOKEN')
+
+# Module-level API_KEY (loaded from .env or environment variable)
+API_KEY = os.getenv('API_KEY', 'YOUR_IBM_API_KEY')
 WATSONX_AI_BASE_URL = 'https://api.watsonx.ibm.com/v1/text-generation/models/Granite-3-8b-instruct/generate'
 
 def get_access_token(api_key):

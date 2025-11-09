@@ -1,97 +1,68 @@
+"""
+AI-Driven Regional Risk Forecasting using IBM watsonx.ai Granite Time Series Model
+Main orchestrator script that coordinates data preprocessing and forecasting.
+"""
 
-# predictor.py
+import sys
+from pathlib import Path
+
+# Add parent directory to path to allow importing from utils and models
+_repo_root = Path(__file__).resolve().parents[1]
+if str(_repo_root) not in sys.path:
+    sys.path.insert(0, str(_repo_root))
 
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
-import logging
+from typing import Optional
+from utils.data_processing import preprocess_data
+from models.forecasting import forecast_risk_by_county
+from models.watsonx_ts_client import initialize_client
+from utils.logger import logger
 
-# Configure logging
-logging.basicConfig(filename='predictor.log', level=logging.INFO, 
-                    format='%(asctime)s:%(levelname)s:%(message)s')
 
-def preprocess_data():
-    """
-    Loads, cleans, and merges datasets by region.
-    Calculates a composite 'risk_score' based on weighted factors.
-    Returns a DataFrame with 'risk_score' for each region.
-    """
-    logging.info("Starting data preprocessing...")
+def save_results(results: pd.DataFrame, output_dir: Optional[Path] = None) -> Path:
+    """Save forecast results to CSV file for heatmap visualization."""
+    if output_dir is None:
+        repo_root = Path(__file__).resolve().parents[1]
+        output_dir = repo_root / 'data' / 'processed'
+    else:
+        output_dir = Path(output_dir)
+    
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / 'regional_risk.csv'
+    
+    logger.info(f"Saving forecast results to {output_path}...")
+    results.to_csv(output_path, index=False)
+    logger.info(f"Forecast results saved. Total counties: {len(results)}")
+    return output_path
 
-    # Load datasets
-    federal_employment = pd.read_csv('/data/raw/federal_employment.csv')
-    contracts = pd.read_csv('/data/raw/government_contracts.csv')
-    unemployment = pd.read_csv('/data/raw/unemployment.csv')
-    benefits = pd.read_csv('/data/raw/benefits.csv')
 
-    # Cleaning and merging (assuming 'region' column exists in all files)
-    merged_data = pd.merge(federal_employment, contracts, on='region', how='left')
-    merged_data = pd.merge(merged_data, unemployment, on='region', how='left')
-    merged_data = pd.merge(merged_data, benefits, on='region', how='left')
-
-    # Calculate risk_score
-    merged_data['federal_employment_density'] = merged_data['federal_employment'] / merged_data['population']  # Assuming 'population' column exists
-    merged_data['contractor_dependence'] = merged_data['contract_value'] / merged_data['gdp']  # Assuming 'contract_value' and 'gdp' columns exist
-    merged_data['unemployment_rate'] = merged_data['unemployment_rate'] / 100  # Normalize to percentage
-    merged_data['benefit_dependency'] = merged_data['benefit_recipients'] / merged_data['population']
-
-    merged_data['risk_score'] = (
-        0.4 * merged_data['federal_employment_density'] +
-        0.3 * merged_data['contractor_dependence'] +
-        0.2 * merged_data['unemployment_rate'] +
-        0.1 * merged_data['benefit_dependency']
-    )
-
-    logging.info("Data preprocessing completed.")
-    return merged_data
-
-def train_model(data):
-    """
-    Trains a RandomForestRegressor on the preprocessed data.
-    """
-    logging.info("Starting model training...")
-
-    X = data[['federal_employment_density', 'contractor_dependence', 'unemployment_rate', 'benefit_dependency']]
-    y = data['risk_score']
-
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-    model = RandomForestRegressor(n_estimators=100, random_state=42)
-    model.fit(X_train, y_train)
-
-    logging.info("Model training completed.")
-    return model
-
-def predict_future_risk(model, new_data):
-    """
-    Predicts risk_scores for new data using the trained model.
-    """
-    logging.info("Starting risk predictions...")
-    predictions = model.predict(new_data)
-    return predictions
-
-def save_results(predictions, region_list):
-    """
-    Saves predictions to a CSV file.
-    """
-    logging.info("Saving predictions to file...")
-    result_df = pd.DataFrame({'region': region_list, 'predicted_risk_score': predictions})
-    result_df.to_csv('/data/processed/regional_risk.csv', index=False)
-    logging.info("Predictions saved.")
-
+# ------------------------------------------------------------
+# Main Execution
+# ------------------------------------------------------------
 if __name__ == "__main__":
-    # Preprocess data
-    data = preprocess_data()
-
-    # Train the model
-    model = train_model(data)
-
-    # Load new data for prediction (example - replace with actual data loading)
-    new_data = pd.read_csv('/data/raw/new_regional_data.csv')  # Assuming new data has the same features
-
-    # Make predictions
-    predictions = predict_future_risk(model, new_data)
-
-    # Save results
-    save_results(predictions, new_data['region'].tolist())
-
+    try:
+        print("Starting risk prediction pipeline...")
+        
+        print("Step 1: Preprocessing data from CSV files...")
+        data = preprocess_data()
+        print(f"  ✓ Loaded time series data for {data[['county', 'state']].drop_duplicates().shape[0]} counties")
+        
+        print("Step 2: Initializing watsonx.ai client for IBM Time Series Forecasting...")
+        client = initialize_client()
+        print("  ✓ Client initialized")
+        
+        print("Step 3: Forecasting risk for each county using IBM Time Series Forecasting...")
+        forecast_results = forecast_risk_by_county(data, client, forecast_horizon=3)
+        print(f"  ✓ Forecasted risk for {len(forecast_results)} counties")
+        
+        print("Step 4: Saving results...")
+        output_path = save_results(forecast_results)
+        print(f"  ✓ Results saved to {output_path}")
+        
+        print("\nForecast completed successfully!")
+        print(f"Results are ready for heatmap visualization at: {output_path}")
+        
+    except Exception as e:
+        logger.error(f"Error: {str(e)}", exc_info=True)
+        print(f"Error occurred: {str(e)}")
+        print("Check predictor.log for details.")
