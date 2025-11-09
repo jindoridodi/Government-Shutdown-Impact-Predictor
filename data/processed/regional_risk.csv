@@ -1,0 +1,3192 @@
+region,county,state,risk_score,lat,lon
+"Abbeville, SC",abbeville,SC,,33.856892,-80.945007
+"Acadia Parish, LA",acadia parish,LA,,31.169546,-91.867805
+"Accomack, VA",accomack,VA,,37.769337,-78.169968
+"Ada, ID",ada,ID,,44.240459,-114.478828
+"Adair, IA",adair,IA,,42.011539,-93.210526
+"Adair, KY",adair,KY,,37.66814,-84.670067
+"Adair, MO",adair,MO,,38.572954,-92.189283
+"Adair, OK",adair,OK,,35.565342,-96.928917
+"Adams, CO",adams,CO,,39.059811,-105.311104
+"Adams, IA",adams,IA,,42.011539,-93.210526
+"Adams, ID",adams,ID,,44.240459,-114.478828
+"Adams, IL",adams,IL,,40.349457,-88.986137
+"Adams, IN",adams,IN,,39.849426,-86.258278
+"Adams, MS",adams,MS,,32.741646,-89.678696
+"Adams, ND",adams,ND,,47.528912,-99.784012
+"Adams, NE",adams,NE,,41.12537,-98.268082
+"Adams, OH",adams,OH,,40.388783,-82.764915
+"Adams, PA",adams,PA,,40.590752,-77.209755
+"Adams, WA",adams,WA,,47.400902,-121.490494
+"Adams, WI",adams,WI,,44.268543,-89.616508
+"Addison, VT",addison,VT,,44.045876,-72.710686
+"Aiken, SC",aiken,SC,,33.856892,-80.945007
+"Aitkin, MN",aitkin,MN,,45.694454,-93.900192
+"Alachua, FL",alachua,FL,,27.766279,-81.686783
+"Alamance, NC",alamance,NC,,35.630066,-79.806419
+"Alameda, CA",alameda,CA,,36.116203,-119.681564
+"Alamosa, CO",alamosa,CO,,39.059811,-105.311104
+"Albany, NY",albany,NY,,42.165726,-74.948051
+"Albany, WY",albany,WY,,42.755966,-107.30249
+"Albemarle, VA",albemarle,VA,,37.769337,-78.169968
+"Alcona, MI",alcona,MI,,43.326618,-84.536095
+"Alcorn, MS",alcorn,MS,,32.741646,-89.678696
+"Aleutians East Borough, AK",aleutians east borough,AK,,61.370716,-152.404419
+"Aleutians West Census Area, AK",aleutians west census area,AK,,61.370716,-152.404419
+"Alexander, IL",alexander,IL,,40.349457,-88.986137
+"Alexander, NC",alexander,NC,,35.630066,-79.806419
+"Alexandria City, VA",alexandria city,VA,,37.769337,-78.169968
+"Alfalfa, OK",alfalfa,OK,,35.565342,-96.928917
+"Alger, MI",alger,MI,,43.326618,-84.536095
+"Allamakee, IA",allamakee,IA,,42.011539,-93.210526
+"Allegan, MI",allegan,MI,,43.326618,-84.536095
+"Allegany, MD",allegany,MD,,39.063946,-76.802101
+"Allegany, NY",allegany,NY,,42.165726,-74.948051
+"Alleghany, NC",alleghany,NC,,35.630066,-79.806419
+"Alleghany, VA",alleghany,VA,,37.769337,-78.169968
+"Allegheny, PA",allegheny,PA,,40.590752,-77.209755
+"Allen, IN",allen,IN,,39.849426,-86.258278
+"Allen, KS",allen,KS,,38.5266,-96.726486
+"Allen, KY",allen,KY,,37.66814,-84.670067
+"Allen, OH",allen,OH,,40.388783,-82.764915
+"Allen Parish, LA",allen parish,LA,,31.169546,-91.867805
+"Allendale, SC",allendale,SC,,33.856892,-80.945007
+"Alpena, MI",alpena,MI,,43.326618,-84.536095
+"Alpine, CA",alpine,CA,,36.116203,-119.681564
+"Amador, CA",amador,CA,,36.116203,-119.681564
+"Amelia, VA",amelia,VA,,37.769337,-78.169968
+"Amherst, VA",amherst,VA,,37.769337,-78.169968
+"Amite, MS",amite,MS,,32.741646,-89.678696
+"Anchorage Municipality, AK",anchorage municipality,AK,,61.370716,-152.404419
+"Anderson, KS",anderson,KS,,38.5266,-96.726486
+"Anderson, KY",anderson,KY,,37.66814,-84.670067
+"Anderson, SC",anderson,SC,,33.856892,-80.945007
+"Anderson, TN",anderson,TN,,35.747845,-86.692345
+"Anderson, TX",anderson,TX,,31.054487,-97.563461
+"Andrew, MO",andrew,MO,,38.572954,-92.189283
+"Andrews, TX",andrews,TX,,31.054487,-97.563461
+"Androscoggin, ME",androscoggin,ME,,44.323535,-69.765261
+"Angelina, TX",angelina,TX,,31.054487,-97.563461
+"Anne Arundel, MD",anne arundel,MD,,39.063946,-76.802101
+"Anoka, MN",anoka,MN,,45.694454,-93.900192
+"Anson, NC",anson,NC,,35.630066,-79.806419
+"Antelope, NE",antelope,NE,,41.12537,-98.268082
+"Antrim, MI",antrim,MI,,43.326618,-84.536095
+"Apache, AZ",apache,AZ,,33.729759,-111.431221
+"Appanoose, IA",appanoose,IA,,42.011539,-93.210526
+"Appling, GA",appling,GA,,33.040619,-83.643074
+"Appomattox, VA",appomattox,VA,,37.769337,-78.169968
+"Aransas, TX",aransas,TX,,31.054487,-97.563461
+"Arapahoe, CO",arapahoe,CO,,39.059811,-105.311104
+"Archer, TX",archer,TX,,31.054487,-97.563461
+"Archuleta, CO",archuleta,CO,,39.059811,-105.311104
+"Arenac, MI",arenac,MI,,43.326618,-84.536095
+"Arkansas, AR",arkansas,AR,,34.969704,-92.373123
+"Arlington, VA",arlington,VA,,37.769337,-78.169968
+"Armstrong, PA",armstrong,PA,,40.590752,-77.209755
+"Armstrong, TX",armstrong,TX,,31.054487,-97.563461
+"Aroostook, ME",aroostook,ME,,44.323535,-69.765261
+"Arthur, NE",arthur,NE,,41.12537,-98.268082
+"Ascension Parish, LA",ascension parish,LA,,31.169546,-91.867805
+"Ashe, NC",ashe,NC,,35.630066,-79.806419
+"Ashland, OH",ashland,OH,,40.388783,-82.764915
+"Ashland, WI",ashland,WI,,44.268543,-89.616508
+"Ashley, AR",ashley,AR,,34.969704,-92.373123
+"Ashtabula, OH",ashtabula,OH,,40.388783,-82.764915
+"Asotin, WA",asotin,WA,,47.400902,-121.490494
+"Assumption Parish, LA",assumption parish,LA,,31.169546,-91.867805
+"Atascosa, TX",atascosa,TX,,31.054487,-97.563461
+"Atchison, KS",atchison,KS,,38.5266,-96.726486
+"Atchison, MO",atchison,MO,,38.572954,-92.189283
+"Athens, OH",athens,OH,,40.388783,-82.764915
+"Atkinson, GA",atkinson,GA,,33.040619,-83.643074
+"Atlantic, NJ",atlantic,NJ,,40.298904,-74.521011
+"Atoka, OK",atoka,OK,,35.565342,-96.928917
+"Attala, MS",attala,MS,,32.741646,-89.678696
+"Audrain, MO",audrain,MO,,38.572954,-92.189283
+"Audubon, IA",audubon,IA,,42.011539,-93.210526
+"Auglaize, OH",auglaize,OH,,40.388783,-82.764915
+"Augusta, VA",augusta,VA,,37.769337,-78.169968
+"Aurora, SD",aurora,SD,,44.299782,-99.438828
+"Austin, TX",austin,TX,,31.054487,-97.563461
+"Autauga, AL",autauga,AL,,32.806671,-86.79113
+"Avery, NC",avery,NC,,35.630066,-79.806419
+"Avoyelles Parish, LA",avoyelles parish,LA,,31.169546,-91.867805
+"Baca, CO",baca,CO,,39.059811,-105.311104
+"Bacon, GA",bacon,GA,,33.040619,-83.643074
+"Bailey, TX",bailey,TX,,31.054487,-97.563461
+"Baker, FL",baker,FL,,27.766279,-81.686783
+"Baker, GA",baker,GA,,33.040619,-83.643074
+"Baker, OR",baker,OR,,44.572021,-122.070938
+"Baldwin, AL",baldwin,AL,,32.806671,-86.79113
+"Baldwin, GA",baldwin,GA,,33.040619,-83.643074
+"Ballard, KY",ballard,KY,,37.66814,-84.670067
+"Baltimore, MD",baltimore,MD,,39.063946,-76.802101
+"Baltimore City, MD",baltimore city,MD,,39.063946,-76.802101
+"Bamberg, SC",bamberg,SC,,33.856892,-80.945007
+"Bandera, TX",bandera,TX,,31.054487,-97.563461
+"Banks, GA",banks,GA,,33.040619,-83.643074
+"Banner, NE",banner,NE,,41.12537,-98.268082
+"Bannock, ID",bannock,ID,,44.240459,-114.478828
+"Baraga, MI",baraga,MI,,43.326618,-84.536095
+"Barber, KS",barber,KS,,38.5266,-96.726486
+"Barbour, AL",barbour,AL,,32.806671,-86.79113
+"Barbour, WV",barbour,WV,,38.491226,-80.954453
+"Barnes, ND",barnes,ND,,47.528912,-99.784012
+"Barnstable, MA",barnstable,MA,,42.230171,-71.530106
+"Barnwell, SC",barnwell,SC,,33.856892,-80.945007
+"Barren, KY",barren,KY,,37.66814,-84.670067
+"Barron, WI",barron,WI,,44.268543,-89.616508
+"Barrow, GA",barrow,GA,,33.040619,-83.643074
+"Barry, MI",barry,MI,,43.326618,-84.536095
+"Barry, MO",barry,MO,,38.572954,-92.189283
+"Bartholomew, IN",bartholomew,IN,,39.849426,-86.258278
+"Barton, KS",barton,KS,,38.5266,-96.726486
+"Barton, MO",barton,MO,,38.572954,-92.189283
+"Bartow, GA",bartow,GA,,33.040619,-83.643074
+"Bastrop, TX",bastrop,TX,,31.054487,-97.563461
+"Bates, MO",bates,MO,,38.572954,-92.189283
+"Bath, KY",bath,KY,,37.66814,-84.670067
+"Bath, VA",bath,VA,,37.769337,-78.169968
+"Baxter, AR",baxter,AR,,34.969704,-92.373123
+"Bay, FL",bay,FL,,27.766279,-81.686783
+"Bay, MI",bay,MI,,43.326618,-84.536095
+"Bayfield, WI",bayfield,WI,,44.268543,-89.616508
+"Baylor, TX",baylor,TX,,31.054487,-97.563461
+"Beadle, SD",beadle,SD,,44.299782,-99.438828
+"Bear Lake, ID",bear lake,ID,,44.240459,-114.478828
+"Beaufort, NC",beaufort,NC,,35.630066,-79.806419
+"Beaufort, SC",beaufort,SC,,33.856892,-80.945007
+"Beauregard Parish, LA",beauregard parish,LA,,31.169546,-91.867805
+"Beaver, OK",beaver,OK,,35.565342,-96.928917
+"Beaver, PA",beaver,PA,,40.590752,-77.209755
+"Beaver, UT",beaver,UT,,40.150032,-111.862434
+"Beaverhead, MT",beaverhead,MT,,46.921925,-110.454353
+"Becker, MN",becker,MN,,45.694454,-93.900192
+"Beckham, OK",beckham,OK,,35.565342,-96.928917
+"Bedford, PA",bedford,PA,,40.590752,-77.209755
+"Bedford, TN",bedford,TN,,35.747845,-86.692345
+"Bedford, VA",bedford,VA,,37.769337,-78.169968
+"Bee, TX",bee,TX,,31.054487,-97.563461
+"Belknap, NH",belknap,NH,,43.452492,-71.563896
+"Bell, KY",bell,KY,,37.66814,-84.670067
+"Bell, TX",bell,TX,,31.054487,-97.563461
+"Belmont, OH",belmont,OH,,40.388783,-82.764915
+"Beltrami, MN",beltrami,MN,,45.694454,-93.900192
+"Ben Hill, GA",ben hill,GA,,33.040619,-83.643074
+"Benewah, ID",benewah,ID,,44.240459,-114.478828
+"Bennett, SD",bennett,SD,,44.299782,-99.438828
+"Bennington, VT",bennington,VT,,44.045876,-72.710686
+"Benson, ND",benson,ND,,47.528912,-99.784012
+"Bent, CO",bent,CO,,39.059811,-105.311104
+"Benton, AR",benton,AR,,34.969704,-92.373123
+"Benton, IA",benton,IA,,42.011539,-93.210526
+"Benton, IN",benton,IN,,39.849426,-86.258278
+"Benton, MN",benton,MN,,45.694454,-93.900192
+"Benton, MO",benton,MO,,38.572954,-92.189283
+"Benton, MS",benton,MS,,32.741646,-89.678696
+"Benton, OR",benton,OR,,44.572021,-122.070938
+"Benton, TN",benton,TN,,35.747845,-86.692345
+"Benton, WA",benton,WA,,47.400902,-121.490494
+"Benzie, MI",benzie,MI,,43.326618,-84.536095
+"Bergen, NJ",bergen,NJ,,40.298904,-74.521011
+"Berkeley, SC",berkeley,SC,,33.856892,-80.945007
+"Berkeley, WV",berkeley,WV,,38.491226,-80.954453
+"Berks, PA",berks,PA,,40.590752,-77.209755
+"Berkshire, MA",berkshire,MA,,42.230171,-71.530106
+"Bernalillo, NM",bernalillo,NM,,34.840515,-106.248482
+"Berrien, GA",berrien,GA,,33.040619,-83.643074
+"Berrien, MI",berrien,MI,,43.326618,-84.536095
+"Bertie, NC",bertie,NC,,35.630066,-79.806419
+"Bethel Census Area, AK",bethel census area,AK,,61.370716,-152.404419
+"Bexar, TX",bexar,TX,,31.054487,-97.563461
+"Bibb, AL",bibb,AL,,32.806671,-86.79113
+"Bibb, GA",bibb,GA,,33.040619,-83.643074
+"Bienville Parish, LA",bienville parish,LA,,31.169546,-91.867805
+"Big Horn, MT",big horn,MT,,46.921925,-110.454353
+"Big Horn, WY",big horn,WY,,42.755966,-107.30249
+"Big Stone, MN",big stone,MN,,45.694454,-93.900192
+"Billings, ND",billings,ND,,47.528912,-99.784012
+"Bingham, ID",bingham,ID,,44.240459,-114.478828
+"Black Hawk, IA",black hawk,IA,,42.011539,-93.210526
+"Blackford, IN",blackford,IN,,39.849426,-86.258278
+"Bladen, NC",bladen,NC,,35.630066,-79.806419
+"Blaine, ID",blaine,ID,,44.240459,-114.478828
+"Blaine, MT",blaine,MT,,46.921925,-110.454353
+"Blaine, NE",blaine,NE,,41.12537,-98.268082
+"Blaine, OK",blaine,OK,,35.565342,-96.928917
+"Blair, PA",blair,PA,,40.590752,-77.209755
+"Blanco, TX",blanco,TX,,31.054487,-97.563461
+"Bland, VA",bland,VA,,37.769337,-78.169968
+"Bleckley, GA",bleckley,GA,,33.040619,-83.643074
+"Bledsoe, TN",bledsoe,TN,,35.747845,-86.692345
+"Blount, AL",blount,AL,,32.806671,-86.79113
+"Blount, TN",blount,TN,,35.747845,-86.692345
+"Blue Earth, MN",blue earth,MN,,45.694454,-93.900192
+"Boise, ID",boise,ID,,44.240459,-114.478828
+"Bolivar, MS",bolivar,MS,,32.741646,-89.678696
+"Bollinger, MO",bollinger,MO,,38.572954,-92.189283
+"Bon Homme, SD",bon homme,SD,,44.299782,-99.438828
+"Bond, IL",bond,IL,,40.349457,-88.986137
+"Bonner, ID",bonner,ID,,44.240459,-114.478828
+"Bonneville, ID",bonneville,ID,,44.240459,-114.478828
+"Boone, AR",boone,AR,,34.969704,-92.373123
+"Boone, IA",boone,IA,,42.011539,-93.210526
+"Boone, IL",boone,IL,,40.349457,-88.986137
+"Boone, IN",boone,IN,,39.849426,-86.258278
+"Boone, KY",boone,KY,,37.66814,-84.670067
+"Boone, MO",boone,MO,,38.572954,-92.189283
+"Boone, NE",boone,NE,,41.12537,-98.268082
+"Boone, WV",boone,WV,,38.491226,-80.954453
+"Borden, TX",borden,TX,,31.054487,-97.563461
+"Bosque, TX",bosque,TX,,31.054487,-97.563461
+"Bossier Parish, LA",bossier parish,LA,,31.169546,-91.867805
+"Botetourt, VA",botetourt,VA,,37.769337,-78.169968
+"Bottineau, ND",bottineau,ND,,47.528912,-99.784012
+"Boulder, CO",boulder,CO,,39.059811,-105.311104
+"Boundary, ID",boundary,ID,,44.240459,-114.478828
+"Bourbon, KS",bourbon,KS,,38.5266,-96.726486
+"Bourbon, KY",bourbon,KY,,37.66814,-84.670067
+"Bowie, TX",bowie,TX,,31.054487,-97.563461
+"Bowman, ND",bowman,ND,,47.528912,-99.784012
+"Box Butte, NE",box butte,NE,,41.12537,-98.268082
+"Box Elder, UT",box elder,UT,,40.150032,-111.862434
+"Boyd, KY",boyd,KY,,37.66814,-84.670067
+"Boyd, NE",boyd,NE,,41.12537,-98.268082
+"Boyle, KY",boyle,KY,,37.66814,-84.670067
+"Bracken, KY",bracken,KY,,37.66814,-84.670067
+"Bradford, FL",bradford,FL,,27.766279,-81.686783
+"Bradford, PA",bradford,PA,,40.590752,-77.209755
+"Bradley, AR",bradley,AR,,34.969704,-92.373123
+"Bradley, TN",bradley,TN,,35.747845,-86.692345
+"Branch, MI",branch,MI,,43.326618,-84.536095
+"Brantley, GA",brantley,GA,,33.040619,-83.643074
+"Braxton, WV",braxton,WV,,38.491226,-80.954453
+"Brazoria, TX",brazoria,TX,,31.054487,-97.563461
+"Brazos, TX",brazos,TX,,31.054487,-97.563461
+"Breathitt, KY",breathitt,KY,,37.66814,-84.670067
+"Breckinridge, KY",breckinridge,KY,,37.66814,-84.670067
+"Bremer, IA",bremer,IA,,42.011539,-93.210526
+"Brevard, FL",brevard,FL,,27.766279,-81.686783
+"Brewster, TX",brewster,TX,,31.054487,-97.563461
+"Briscoe, TX",briscoe,TX,,31.054487,-97.563461
+"Bristol, MA",bristol,MA,,42.230171,-71.530106
+"Bristol, RI",bristol,RI,,41.680893,-71.51178
+"Bristol Bay Borough, AK",bristol bay borough,AK,,61.370716,-152.404419
+"Bristol City, VA",bristol city,VA,,37.769337,-78.169968
+"Broadwater, MT",broadwater,MT,,46.921925,-110.454353
+"Bronx, NY",bronx,NY,,42.165726,-74.948051
+"Brooke, WV",brooke,WV,,38.491226,-80.954453
+"Brookings, SD",brookings,SD,,44.299782,-99.438828
+"Brooks, GA",brooks,GA,,33.040619,-83.643074
+"Brooks, TX",brooks,TX,,31.054487,-97.563461
+"Broome, NY",broome,NY,,42.165726,-74.948051
+"Broomfield, CO",broomfield,CO,,39.059811,-105.311104
+"Broward, FL",broward,FL,,27.766279,-81.686783
+"Brown, IL",brown,IL,,40.349457,-88.986137
+"Brown, IN",brown,IN,,39.849426,-86.258278
+"Brown, KS",brown,KS,,38.5266,-96.726486
+"Brown, MN",brown,MN,,45.694454,-93.900192
+"Brown, NE",brown,NE,,41.12537,-98.268082
+"Brown, OH",brown,OH,,40.388783,-82.764915
+"Brown, SD",brown,SD,,44.299782,-99.438828
+"Brown, TX",brown,TX,,31.054487,-97.563461
+"Brown, WI",brown,WI,,44.268543,-89.616508
+"Brule, SD",brule,SD,,44.299782,-99.438828
+"Brunswick, NC",brunswick,NC,,35.630066,-79.806419
+"Brunswick, VA",brunswick,VA,,37.769337,-78.169968
+"Bryan, GA",bryan,GA,,33.040619,-83.643074
+"Bryan, OK",bryan,OK,,35.565342,-96.928917
+"Buchanan, IA",buchanan,IA,,42.011539,-93.210526
+"Buchanan, MO",buchanan,MO,,38.572954,-92.189283
+"Buchanan, VA",buchanan,VA,,37.769337,-78.169968
+"Buckingham, VA",buckingham,VA,,37.769337,-78.169968
+"Bucks, PA",bucks,PA,,40.590752,-77.209755
+"Buena Vista, IA",buena vista,IA,,42.011539,-93.210526
+"Buena Vista City, VA",buena vista city,VA,,37.769337,-78.169968
+"Buffalo, NE",buffalo,NE,,41.12537,-98.268082
+"Buffalo, SD",buffalo,SD,,44.299782,-99.438828
+"Buffalo, WI",buffalo,WI,,44.268543,-89.616508
+"Bullitt, KY",bullitt,KY,,37.66814,-84.670067
+"Bulloch, GA",bulloch,GA,,33.040619,-83.643074
+"Bullock, AL",bullock,AL,,32.806671,-86.79113
+"Buncombe, NC",buncombe,NC,,35.630066,-79.806419
+"Bureau, IL",bureau,IL,,40.349457,-88.986137
+"Burke, GA",burke,GA,,33.040619,-83.643074
+"Burke, NC",burke,NC,,35.630066,-79.806419
+"Burke, ND",burke,ND,,47.528912,-99.784012
+"Burleigh, ND",burleigh,ND,,47.528912,-99.784012
+"Burleson, TX",burleson,TX,,31.054487,-97.563461
+"Burlington, NJ",burlington,NJ,,40.298904,-74.521011
+"Burnet, TX",burnet,TX,,31.054487,-97.563461
+"Burnett, WI",burnett,WI,,44.268543,-89.616508
+"Burt, NE",burt,NE,,41.12537,-98.268082
+"Butler, AL",butler,AL,,32.806671,-86.79113
+"Butler, IA",butler,IA,,42.011539,-93.210526
+"Butler, KS",butler,KS,,38.5266,-96.726486
+"Butler, KY",butler,KY,,37.66814,-84.670067
+"Butler, MO",butler,MO,,38.572954,-92.189283
+"Butler, NE",butler,NE,,41.12537,-98.268082
+"Butler, OH",butler,OH,,40.388783,-82.764915
+"Butler, PA",butler,PA,,40.590752,-77.209755
+"Butte, CA",butte,CA,,36.116203,-119.681564
+"Butte, ID",butte,ID,,44.240459,-114.478828
+"Butte, SD",butte,SD,,44.299782,-99.438828
+"Butts, GA",butts,GA,,33.040619,-83.643074
+"Cabarrus, NC",cabarrus,NC,,35.630066,-79.806419
+"Cabell, WV",cabell,WV,,38.491226,-80.954453
+"Cache, UT",cache,UT,,40.150032,-111.862434
+"Caddo, OK",caddo,OK,,35.565342,-96.928917
+"Caddo Parish, LA",caddo parish,LA,,31.169546,-91.867805
+"Calaveras, CA",calaveras,CA,,36.116203,-119.681564
+"Calcasieu Parish, LA",calcasieu parish,LA,,31.169546,-91.867805
+"Caldwell, KY",caldwell,KY,,37.66814,-84.670067
+"Caldwell, MO",caldwell,MO,,38.572954,-92.189283
+"Caldwell, NC",caldwell,NC,,35.630066,-79.806419
+"Caldwell, TX",caldwell,TX,,31.054487,-97.563461
+"Caldwell Parish, LA",caldwell parish,LA,,31.169546,-91.867805
+"Caledonia, VT",caledonia,VT,,44.045876,-72.710686
+"Calhoun, AL",calhoun,AL,,32.806671,-86.79113
+"Calhoun, AR",calhoun,AR,,34.969704,-92.373123
+"Calhoun, FL",calhoun,FL,,27.766279,-81.686783
+"Calhoun, GA",calhoun,GA,,33.040619,-83.643074
+"Calhoun, IA",calhoun,IA,,42.011539,-93.210526
+"Calhoun, IL",calhoun,IL,,40.349457,-88.986137
+"Calhoun, MI",calhoun,MI,,43.326618,-84.536095
+"Calhoun, MS",calhoun,MS,,32.741646,-89.678696
+"Calhoun, SC",calhoun,SC,,33.856892,-80.945007
+"Calhoun, TX",calhoun,TX,,31.054487,-97.563461
+"Calhoun, WV",calhoun,WV,,38.491226,-80.954453
+"Callahan, TX",callahan,TX,,31.054487,-97.563461
+"Callaway, MO",callaway,MO,,38.572954,-92.189283
+"Calloway, KY",calloway,KY,,37.66814,-84.670067
+"Calumet, WI",calumet,WI,,44.268543,-89.616508
+"Calvert, MD",calvert,MD,,39.063946,-76.802101
+"Camas, ID",camas,ID,,44.240459,-114.478828
+"Cambria, PA",cambria,PA,,40.590752,-77.209755
+"Camden, GA",camden,GA,,33.040619,-83.643074
+"Camden, MO",camden,MO,,38.572954,-92.189283
+"Camden, NC",camden,NC,,35.630066,-79.806419
+"Camden, NJ",camden,NJ,,40.298904,-74.521011
+"Cameron, PA",cameron,PA,,40.590752,-77.209755
+"Cameron, TX",cameron,TX,,31.054487,-97.563461
+"Cameron Parish, LA",cameron parish,LA,,31.169546,-91.867805
+"Camp, TX",camp,TX,,31.054487,-97.563461
+"Campbell, KY",campbell,KY,,37.66814,-84.670067
+"Campbell, SD",campbell,SD,,44.299782,-99.438828
+"Campbell, TN",campbell,TN,,35.747845,-86.692345
+"Campbell, VA",campbell,VA,,37.769337,-78.169968
+"Campbell, WY",campbell,WY,,42.755966,-107.30249
+"Canadian, OK",canadian,OK,,35.565342,-96.928917
+"Candler, GA",candler,GA,,33.040619,-83.643074
+"Cannon, TN",cannon,TN,,35.747845,-86.692345
+"Canyon, ID",canyon,ID,,44.240459,-114.478828
+"Cape Girardeau, MO",cape girardeau,MO,,38.572954,-92.189283
+"Cape May, NJ",cape may,NJ,,40.298904,-74.521011
+"Capitol Planning Region, CT",capitol planning region,CT,,41.597782,-72.755371
+"Carbon, MT",carbon,MT,,46.921925,-110.454353
+"Carbon, PA",carbon,PA,,40.590752,-77.209755
+"Carbon, UT",carbon,UT,,40.150032,-111.862434
+"Carbon, WY",carbon,WY,,42.755966,-107.30249
+"Caribou, ID",caribou,ID,,44.240459,-114.478828
+"Carlisle, KY",carlisle,KY,,37.66814,-84.670067
+"Carlton, MN",carlton,MN,,45.694454,-93.900192
+"Caroline, MD",caroline,MD,,39.063946,-76.802101
+"Caroline, VA",caroline,VA,,37.769337,-78.169968
+"Carroll, AR",carroll,AR,,34.969704,-92.373123
+"Carroll, GA",carroll,GA,,33.040619,-83.643074
+"Carroll, IA",carroll,IA,,42.011539,-93.210526
+"Carroll, IL",carroll,IL,,40.349457,-88.986137
+"Carroll, IN",carroll,IN,,39.849426,-86.258278
+"Carroll, KY",carroll,KY,,37.66814,-84.670067
+"Carroll, MD",carroll,MD,,39.063946,-76.802101
+"Carroll, MO",carroll,MO,,38.572954,-92.189283
+"Carroll, MS",carroll,MS,,32.741646,-89.678696
+"Carroll, NH",carroll,NH,,43.452492,-71.563896
+"Carroll, OH",carroll,OH,,40.388783,-82.764915
+"Carroll, TN",carroll,TN,,35.747845,-86.692345
+"Carroll, VA",carroll,VA,,37.769337,-78.169968
+"Carson, TX",carson,TX,,31.054487,-97.563461
+"Carson City, NV",carson city,NV,,38.313515,-117.055374
+"Carter, KY",carter,KY,,37.66814,-84.670067
+"Carter, MO",carter,MO,,38.572954,-92.189283
+"Carter, MT",carter,MT,,46.921925,-110.454353
+"Carter, OK",carter,OK,,35.565342,-96.928917
+"Carter, TN",carter,TN,,35.747845,-86.692345
+"Carteret, NC",carteret,NC,,35.630066,-79.806419
+"Carver, MN",carver,MN,,45.694454,-93.900192
+"Cascade, MT",cascade,MT,,46.921925,-110.454353
+"Casey, KY",casey,KY,,37.66814,-84.670067
+"Cass, IA",cass,IA,,42.011539,-93.210526
+"Cass, IL",cass,IL,,40.349457,-88.986137
+"Cass, IN",cass,IN,,39.849426,-86.258278
+"Cass, MI",cass,MI,,43.326618,-84.536095
+"Cass, MN",cass,MN,,45.694454,-93.900192
+"Cass, MO",cass,MO,,38.572954,-92.189283
+"Cass, ND",cass,ND,,47.528912,-99.784012
+"Cass, NE",cass,NE,,41.12537,-98.268082
+"Cass, TX",cass,TX,,31.054487,-97.563461
+"Cassia, ID",cassia,ID,,44.240459,-114.478828
+"Castro, TX",castro,TX,,31.054487,-97.563461
+"Caswell, NC",caswell,NC,,35.630066,-79.806419
+"Catahoula Parish, LA",catahoula parish,LA,,31.169546,-91.867805
+"Catawba, NC",catawba,NC,,35.630066,-79.806419
+"Catoosa, GA",catoosa,GA,,33.040619,-83.643074
+"Catron, NM",catron,NM,,34.840515,-106.248482
+"Cattaraugus, NY",cattaraugus,NY,,42.165726,-74.948051
+"Cavalier, ND",cavalier,ND,,47.528912,-99.784012
+"Cayuga, NY",cayuga,NY,,42.165726,-74.948051
+"Cecil, MD",cecil,MD,,39.063946,-76.802101
+"Cedar, IA",cedar,IA,,42.011539,-93.210526
+"Cedar, MO",cedar,MO,,38.572954,-92.189283
+"Cedar, NE",cedar,NE,,41.12537,-98.268082
+"Centre, PA",centre,PA,,40.590752,-77.209755
+"Cerro Gordo, IA",cerro gordo,IA,,42.011539,-93.210526
+"Chaffee, CO",chaffee,CO,,39.059811,-105.311104
+"Chambers, AL",chambers,AL,,32.806671,-86.79113
+"Chambers, TX",chambers,TX,,31.054487,-97.563461
+"Champaign, IL",champaign,IL,,40.349457,-88.986137
+"Champaign, OH",champaign,OH,,40.388783,-82.764915
+"Chariton, MO",chariton,MO,,38.572954,-92.189283
+"Charles, MD",charles,MD,,39.063946,-76.802101
+"Charles City, VA",charles city,VA,,37.769337,-78.169968
+"Charles Mix, SD",charles mix,SD,,44.299782,-99.438828
+"Charleston, SC",charleston,SC,,33.856892,-80.945007
+"Charlevoix, MI",charlevoix,MI,,43.326618,-84.536095
+"Charlotte, FL",charlotte,FL,,27.766279,-81.686783
+"Charlotte, VA",charlotte,VA,,37.769337,-78.169968
+"Charlottesville City, VA",charlottesville city,VA,,37.769337,-78.169968
+"Charlton, GA",charlton,GA,,33.040619,-83.643074
+"Chase, KS",chase,KS,,38.5266,-96.726486
+"Chase, NE",chase,NE,,41.12537,-98.268082
+"Chatham, GA",chatham,GA,,33.040619,-83.643074
+"Chatham, NC",chatham,NC,,35.630066,-79.806419
+"Chattahoochee, GA",chattahoochee,GA,,33.040619,-83.643074
+"Chattooga, GA",chattooga,GA,,33.040619,-83.643074
+"Chautauqua, KS",chautauqua,KS,,38.5266,-96.726486
+"Chautauqua, NY",chautauqua,NY,,42.165726,-74.948051
+"Chaves, NM",chaves,NM,,34.840515,-106.248482
+"Cheatham, TN",cheatham,TN,,35.747845,-86.692345
+"Cheboygan, MI",cheboygan,MI,,43.326618,-84.536095
+"Chelan, WA",chelan,WA,,47.400902,-121.490494
+"Chemung, NY",chemung,NY,,42.165726,-74.948051
+"Chenango, NY",chenango,NY,,42.165726,-74.948051
+"Cherokee, AL",cherokee,AL,,32.806671,-86.79113
+"Cherokee, GA",cherokee,GA,,33.040619,-83.643074
+"Cherokee, IA",cherokee,IA,,42.011539,-93.210526
+"Cherokee, KS",cherokee,KS,,38.5266,-96.726486
+"Cherokee, NC",cherokee,NC,,35.630066,-79.806419
+"Cherokee, OK",cherokee,OK,,35.565342,-96.928917
+"Cherokee, SC",cherokee,SC,,33.856892,-80.945007
+"Cherokee, TX",cherokee,TX,,31.054487,-97.563461
+"Cherry, NE",cherry,NE,,41.12537,-98.268082
+"Chesapeake City, VA",chesapeake city,VA,,37.769337,-78.169968
+"Cheshire, NH",cheshire,NH,,43.452492,-71.563896
+"Chester, PA",chester,PA,,40.590752,-77.209755
+"Chester, SC",chester,SC,,33.856892,-80.945007
+"Chester, TN",chester,TN,,35.747845,-86.692345
+"Chesterfield, SC",chesterfield,SC,,33.856892,-80.945007
+"Chesterfield, VA",chesterfield,VA,,37.769337,-78.169968
+"Cheyenne, CO",cheyenne,CO,,39.059811,-105.311104
+"Cheyenne, KS",cheyenne,KS,,38.5266,-96.726486
+"Cheyenne, NE",cheyenne,NE,,41.12537,-98.268082
+"Chickasaw, IA",chickasaw,IA,,42.011539,-93.210526
+"Chickasaw, MS",chickasaw,MS,,32.741646,-89.678696
+"Chicot, AR",chicot,AR,,34.969704,-92.373123
+"Childress, TX",childress,TX,,31.054487,-97.563461
+"Chilton, AL",chilton,AL,,32.806671,-86.79113
+"Chippewa, MI",chippewa,MI,,43.326618,-84.536095
+"Chippewa, MN",chippewa,MN,,45.694454,-93.900192
+"Chippewa, WI",chippewa,WI,,44.268543,-89.616508
+"Chisago, MN",chisago,MN,,45.694454,-93.900192
+"Chittenden, VT",chittenden,VT,,44.045876,-72.710686
+"Choctaw, AL",choctaw,AL,,32.806671,-86.79113
+"Choctaw, MS",choctaw,MS,,32.741646,-89.678696
+"Choctaw, OK",choctaw,OK,,35.565342,-96.928917
+"Chouteau, MT",chouteau,MT,,46.921925,-110.454353
+"Chowan, NC",chowan,NC,,35.630066,-79.806419
+"Christian, IL",christian,IL,,40.349457,-88.986137
+"Christian, KY",christian,KY,,37.66814,-84.670067
+"Christian, MO",christian,MO,,38.572954,-92.189283
+"Chugach Census Area, AK",chugach census area,AK,,61.370716,-152.404419
+"Churchill, NV",churchill,NV,,38.313515,-117.055374
+"Cibola, NM",cibola,NM,,34.840515,-106.248482
+"Cimarron, OK",cimarron,OK,,35.565342,-96.928917
+"Citrus, FL",citrus,FL,,27.766279,-81.686783
+"Clackamas, OR",clackamas,OR,,44.572021,-122.070938
+"Claiborne, MS",claiborne,MS,,32.741646,-89.678696
+"Claiborne, TN",claiborne,TN,,35.747845,-86.692345
+"Claiborne Parish, LA",claiborne parish,LA,,31.169546,-91.867805
+"Clallam, WA",clallam,WA,,47.400902,-121.490494
+"Clare, MI",clare,MI,,43.326618,-84.536095
+"Clarendon, SC",clarendon,SC,,33.856892,-80.945007
+"Clarion, PA",clarion,PA,,40.590752,-77.209755
+"Clark, AR",clark,AR,,34.969704,-92.373123
+"Clark, ID",clark,ID,,44.240459,-114.478828
+"Clark, IL",clark,IL,,40.349457,-88.986137
+"Clark, IN",clark,IN,,39.849426,-86.258278
+"Clark, KS",clark,KS,,38.5266,-96.726486
+"Clark, KY",clark,KY,,37.66814,-84.670067
+"Clark, MO",clark,MO,,38.572954,-92.189283
+"Clark, NV",clark,NV,,38.313515,-117.055374
+"Clark, OH",clark,OH,,40.388783,-82.764915
+"Clark, SD",clark,SD,,44.299782,-99.438828
+"Clark, WA",clark,WA,,47.400902,-121.490494
+"Clark, WI",clark,WI,,44.268543,-89.616508
+"Clarke, AL",clarke,AL,,32.806671,-86.79113
+"Clarke, GA",clarke,GA,,33.040619,-83.643074
+"Clarke, IA",clarke,IA,,42.011539,-93.210526
+"Clarke, MS",clarke,MS,,32.741646,-89.678696
+"Clarke, VA",clarke,VA,,37.769337,-78.169968
+"Clatsop, OR",clatsop,OR,,44.572021,-122.070938
+"Clay, AL",clay,AL,,32.806671,-86.79113
+"Clay, AR",clay,AR,,34.969704,-92.373123
+"Clay, FL",clay,FL,,27.766279,-81.686783
+"Clay, GA",clay,GA,,33.040619,-83.643074
+"Clay, IA",clay,IA,,42.011539,-93.210526
+"Clay, IL",clay,IL,,40.349457,-88.986137
+"Clay, IN",clay,IN,,39.849426,-86.258278
+"Clay, KS",clay,KS,,38.5266,-96.726486
+"Clay, KY",clay,KY,,37.66814,-84.670067
+"Clay, MN",clay,MN,,45.694454,-93.900192
+"Clay, MO",clay,MO,,38.572954,-92.189283
+"Clay, MS",clay,MS,,32.741646,-89.678696
+"Clay, NC",clay,NC,,35.630066,-79.806419
+"Clay, NE",clay,NE,,41.12537,-98.268082
+"Clay, SD",clay,SD,,44.299782,-99.438828
+"Clay, TN",clay,TN,,35.747845,-86.692345
+"Clay, TX",clay,TX,,31.054487,-97.563461
+"Clay, WV",clay,WV,,38.491226,-80.954453
+"Clayton, GA",clayton,GA,,33.040619,-83.643074
+"Clayton, IA",clayton,IA,,42.011539,-93.210526
+"Clear Creek, CO",clear creek,CO,,39.059811,-105.311104
+"Clearfield, PA",clearfield,PA,,40.590752,-77.209755
+"Clearwater, ID",clearwater,ID,,44.240459,-114.478828
+"Clearwater, MN",clearwater,MN,,45.694454,-93.900192
+"Cleburne, AL",cleburne,AL,,32.806671,-86.79113
+"Cleburne, AR",cleburne,AR,,34.969704,-92.373123
+"Clermont, OH",clermont,OH,,40.388783,-82.764915
+"Cleveland, AR",cleveland,AR,,34.969704,-92.373123
+"Cleveland, NC",cleveland,NC,,35.630066,-79.806419
+"Cleveland, OK",cleveland,OK,,35.565342,-96.928917
+"Clinch, GA",clinch,GA,,33.040619,-83.643074
+"Clinton, IA",clinton,IA,,42.011539,-93.210526
+"Clinton, IL",clinton,IL,,40.349457,-88.986137
+"Clinton, IN",clinton,IN,,39.849426,-86.258278
+"Clinton, KY",clinton,KY,,37.66814,-84.670067
+"Clinton, MI",clinton,MI,,43.326618,-84.536095
+"Clinton, MO",clinton,MO,,38.572954,-92.189283
+"Clinton, NY",clinton,NY,,42.165726,-74.948051
+"Clinton, OH",clinton,OH,,40.388783,-82.764915
+"Clinton, PA",clinton,PA,,40.590752,-77.209755
+"Cloud, KS",cloud,KS,,38.5266,-96.726486
+"Coahoma, MS",coahoma,MS,,32.741646,-89.678696
+"Coal, OK",coal,OK,,35.565342,-96.928917
+"Cobb, GA",cobb,GA,,33.040619,-83.643074
+"Cochise, AZ",cochise,AZ,,33.729759,-111.431221
+"Cochran, TX",cochran,TX,,31.054487,-97.563461
+"Cocke, TN",cocke,TN,,35.747845,-86.692345
+"Coconino, AZ",coconino,AZ,,33.729759,-111.431221
+"Codington, SD",codington,SD,,44.299782,-99.438828
+"Coffee, AL",coffee,AL,,32.806671,-86.79113
+"Coffee, GA",coffee,GA,,33.040619,-83.643074
+"Coffee, TN",coffee,TN,,35.747845,-86.692345
+"Coffey, KS",coffey,KS,,38.5266,-96.726486
+"Coke, TX",coke,TX,,31.054487,-97.563461
+"Colbert, AL",colbert,AL,,32.806671,-86.79113
+"Cole, MO",cole,MO,,38.572954,-92.189283
+"Coleman, TX",coleman,TX,,31.054487,-97.563461
+"Coles, IL",coles,IL,,40.349457,-88.986137
+"Colfax, NE",colfax,NE,,41.12537,-98.268082
+"Colfax, NM",colfax,NM,,34.840515,-106.248482
+"Colleton, SC",colleton,SC,,33.856892,-80.945007
+"Collier, FL",collier,FL,,27.766279,-81.686783
+"Collin, TX",collin,TX,,31.054487,-97.563461
+"Collingsworth, TX",collingsworth,TX,,31.054487,-97.563461
+"Colonial Heights City, VA",colonial heights city,VA,,37.769337,-78.169968
+"Colorado, TX",colorado,TX,,31.054487,-97.563461
+"Colquitt, GA",colquitt,GA,,33.040619,-83.643074
+"Columbia, AR",columbia,AR,,34.969704,-92.373123
+"Columbia, FL",columbia,FL,,27.766279,-81.686783
+"Columbia, GA",columbia,GA,,33.040619,-83.643074
+"Columbia, NY",columbia,NY,,42.165726,-74.948051
+"Columbia, OR",columbia,OR,,44.572021,-122.070938
+"Columbia, PA",columbia,PA,,40.590752,-77.209755
+"Columbia, WA",columbia,WA,,47.400902,-121.490494
+"Columbia, WI",columbia,WI,,44.268543,-89.616508
+"Columbiana, OH",columbiana,OH,,40.388783,-82.764915
+"Columbus, NC",columbus,NC,,35.630066,-79.806419
+"Colusa, CA",colusa,CA,,36.116203,-119.681564
+"Comal, TX",comal,TX,,31.054487,-97.563461
+"Comanche, KS",comanche,KS,,38.5266,-96.726486
+"Comanche, OK",comanche,OK,,35.565342,-96.928917
+"Comanche, TX",comanche,TX,,31.054487,-97.563461
+"Concho, TX",concho,TX,,31.054487,-97.563461
+"Concordia Parish, LA",concordia parish,LA,,31.169546,-91.867805
+"Conecuh, AL",conecuh,AL,,32.806671,-86.79113
+"Conejos, CO",conejos,CO,,39.059811,-105.311104
+"Contra Costa, CA",contra costa,CA,,36.116203,-119.681564
+"Converse, WY",converse,WY,,42.755966,-107.30249
+"Conway, AR",conway,AR,,34.969704,-92.373123
+"Cook, GA",cook,GA,,33.040619,-83.643074
+"Cook, IL",cook,IL,,40.349457,-88.986137
+"Cook, MN",cook,MN,,45.694454,-93.900192
+"Cooke, TX",cooke,TX,,31.054487,-97.563461
+"Cooper, MO",cooper,MO,,38.572954,-92.189283
+"Coos, NH",coos,NH,,43.452492,-71.563896
+"Coos, OR",coos,OR,,44.572021,-122.070938
+"Coosa, AL",coosa,AL,,32.806671,-86.79113
+"Copiah, MS",copiah,MS,,32.741646,-89.678696
+"Copper River Census Area, AK",copper river census area,AK,,61.370716,-152.404419
+"Corson, SD",corson,SD,,44.299782,-99.438828
+"Cortland, NY",cortland,NY,,42.165726,-74.948051
+"Coryell, TX",coryell,TX,,31.054487,-97.563461
+"Coshocton, OH",coshocton,OH,,40.388783,-82.764915
+"Costilla, CO",costilla,CO,,39.059811,-105.311104
+"Cottle, TX",cottle,TX,,31.054487,-97.563461
+"Cotton, OK",cotton,OK,,35.565342,-96.928917
+"Cottonwood, MN",cottonwood,MN,,45.694454,-93.900192
+"Covington, AL",covington,AL,,32.806671,-86.79113
+"Covington, MS",covington,MS,,32.741646,-89.678696
+"Covington City, VA",covington city,VA,,37.769337,-78.169968
+"Coweta, GA",coweta,GA,,33.040619,-83.643074
+"Cowley, KS",cowley,KS,,38.5266,-96.726486
+"Cowlitz, WA",cowlitz,WA,,47.400902,-121.490494
+"Craig, OK",craig,OK,,35.565342,-96.928917
+"Craig, VA",craig,VA,,37.769337,-78.169968
+"Craighead, AR",craighead,AR,,34.969704,-92.373123
+"Crane, TX",crane,TX,,31.054487,-97.563461
+"Craven, NC",craven,NC,,35.630066,-79.806419
+"Crawford, AR",crawford,AR,,34.969704,-92.373123
+"Crawford, GA",crawford,GA,,33.040619,-83.643074
+"Crawford, IA",crawford,IA,,42.011539,-93.210526
+"Crawford, IL",crawford,IL,,40.349457,-88.986137
+"Crawford, IN",crawford,IN,,39.849426,-86.258278
+"Crawford, KS",crawford,KS,,38.5266,-96.726486
+"Crawford, MI",crawford,MI,,43.326618,-84.536095
+"Crawford, MO",crawford,MO,,38.572954,-92.189283
+"Crawford, OH",crawford,OH,,40.388783,-82.764915
+"Crawford, PA",crawford,PA,,40.590752,-77.209755
+"Crawford, WI",crawford,WI,,44.268543,-89.616508
+"Creek, OK",creek,OK,,35.565342,-96.928917
+"Crenshaw, AL",crenshaw,AL,,32.806671,-86.79113
+"Crisp, GA",crisp,GA,,33.040619,-83.643074
+"Crittenden, AR",crittenden,AR,,34.969704,-92.373123
+"Crittenden, KY",crittenden,KY,,37.66814,-84.670067
+"Crockett, TN",crockett,TN,,35.747845,-86.692345
+"Crockett, TX",crockett,TX,,31.054487,-97.563461
+"Crook, OR",crook,OR,,44.572021,-122.070938
+"Crook, WY",crook,WY,,42.755966,-107.30249
+"Crosby, TX",crosby,TX,,31.054487,-97.563461
+"Cross, AR",cross,AR,,34.969704,-92.373123
+"Crow Wing, MN",crow wing,MN,,45.694454,-93.900192
+"Crowley, CO",crowley,CO,,39.059811,-105.311104
+"Culberson, TX",culberson,TX,,31.054487,-97.563461
+"Cullman, AL",cullman,AL,,32.806671,-86.79113
+"Culpeper, VA",culpeper,VA,,37.769337,-78.169968
+"Cumberland, IL",cumberland,IL,,40.349457,-88.986137
+"Cumberland, KY",cumberland,KY,,37.66814,-84.670067
+"Cumberland, ME",cumberland,ME,,44.323535,-69.765261
+"Cumberland, NC",cumberland,NC,,35.630066,-79.806419
+"Cumberland, NJ",cumberland,NJ,,40.298904,-74.521011
+"Cumberland, PA",cumberland,PA,,40.590752,-77.209755
+"Cumberland, TN",cumberland,TN,,35.747845,-86.692345
+"Cumberland, VA",cumberland,VA,,37.769337,-78.169968
+"Cuming, NE",cuming,NE,,41.12537,-98.268082
+"Currituck, NC",currituck,NC,,35.630066,-79.806419
+"Curry, NM",curry,NM,,34.840515,-106.248482
+"Curry, OR",curry,OR,,44.572021,-122.070938
+"Custer, CO",custer,CO,,39.059811,-105.311104
+"Custer, ID",custer,ID,,44.240459,-114.478828
+"Custer, MT",custer,MT,,46.921925,-110.454353
+"Custer, NE",custer,NE,,41.12537,-98.268082
+"Custer, OK",custer,OK,,35.565342,-96.928917
+"Custer, SD",custer,SD,,44.299782,-99.438828
+"Cuyahoga, OH",cuyahoga,OH,,40.388783,-82.764915
+"Dade, GA",dade,GA,,33.040619,-83.643074
+"Dade, MO",dade,MO,,38.572954,-92.189283
+"Daggett, UT",daggett,UT,,40.150032,-111.862434
+"Dakota, MN",dakota,MN,,45.694454,-93.900192
+"Dakota, NE",dakota,NE,,41.12537,-98.268082
+"Dale, AL",dale,AL,,32.806671,-86.79113
+"Dallam, TX",dallam,TX,,31.054487,-97.563461
+"Dallas, AL",dallas,AL,,32.806671,-86.79113
+"Dallas, AR",dallas,AR,,34.969704,-92.373123
+"Dallas, IA",dallas,IA,,42.011539,-93.210526
+"Dallas, MO",dallas,MO,,38.572954,-92.189283
+"Dallas, TX",dallas,TX,,31.054487,-97.563461
+"Dane, WI",dane,WI,,44.268543,-89.616508
+"Daniels, MT",daniels,MT,,46.921925,-110.454353
+"Danville City, VA",danville city,VA,,37.769337,-78.169968
+"Dare, NC",dare,NC,,35.630066,-79.806419
+"Darke, OH",darke,OH,,40.388783,-82.764915
+"Darlington, SC",darlington,SC,,33.856892,-80.945007
+"Dauphin, PA",dauphin,PA,,40.590752,-77.209755
+"Davidson, NC",davidson,NC,,35.630066,-79.806419
+"Davidson, TN",davidson,TN,,35.747845,-86.692345
+"Davie, NC",davie,NC,,35.630066,-79.806419
+"Daviess, IN",daviess,IN,,39.849426,-86.258278
+"Daviess, KY",daviess,KY,,37.66814,-84.670067
+"Daviess, MO",daviess,MO,,38.572954,-92.189283
+"Davis, IA",davis,IA,,42.011539,-93.210526
+"Davis, UT",davis,UT,,40.150032,-111.862434
+"Davison, SD",davison,SD,,44.299782,-99.438828
+"Dawes, NE",dawes,NE,,41.12537,-98.268082
+"Dawson, GA",dawson,GA,,33.040619,-83.643074
+"Dawson, MT",dawson,MT,,46.921925,-110.454353
+"Dawson, NE",dawson,NE,,41.12537,-98.268082
+"Dawson, TX",dawson,TX,,31.054487,-97.563461
+"Day, SD",day,SD,,44.299782,-99.438828
+"De Baca, NM",de baca,NM,,34.840515,-106.248482
+"De Soto Parish, LA",de soto parish,LA,,31.169546,-91.867805
+"De Witt, IL",de witt,IL,,40.349457,-88.986137
+"Deaf Smith, TX",deaf smith,TX,,31.054487,-97.563461
+"Dearborn, IN",dearborn,IN,,39.849426,-86.258278
+"Decatur, GA",decatur,GA,,33.040619,-83.643074
+"Decatur, IA",decatur,IA,,42.011539,-93.210526
+"Decatur, IN",decatur,IN,,39.849426,-86.258278
+"Decatur, KS",decatur,KS,,38.5266,-96.726486
+"Decatur, TN",decatur,TN,,35.747845,-86.692345
+"Deer Lodge, MT",deer lodge,MT,,46.921925,-110.454353
+"Defiance, OH",defiance,OH,,40.388783,-82.764915
+"Dekalb, AL",dekalb,AL,,32.806671,-86.79113
+"Dekalb, GA",dekalb,GA,,33.040619,-83.643074
+"Dekalb, IL",dekalb,IL,,40.349457,-88.986137
+"Dekalb, IN",dekalb,IN,,39.849426,-86.258278
+"Dekalb, MO",dekalb,MO,,38.572954,-92.189283
+"Dekalb, TN",dekalb,TN,,35.747845,-86.692345
+"Del Norte, CA",del norte,CA,,36.116203,-119.681564
+"Delaware, IA",delaware,IA,,42.011539,-93.210526
+"Delaware, IN",delaware,IN,,39.849426,-86.258278
+"Delaware, NY",delaware,NY,,42.165726,-74.948051
+"Delaware, OH",delaware,OH,,40.388783,-82.764915
+"Delaware, OK",delaware,OK,,35.565342,-96.928917
+"Delaware, PA",delaware,PA,,40.590752,-77.209755
+"Delta, CO",delta,CO,,39.059811,-105.311104
+"Delta, MI",delta,MI,,43.326618,-84.536095
+"Delta, TX",delta,TX,,31.054487,-97.563461
+"Denali Borough, AK",denali borough,AK,,61.370716,-152.404419
+"Dent, MO",dent,MO,,38.572954,-92.189283
+"Denton, TX",denton,TX,,31.054487,-97.563461
+"Denver, CO",denver,CO,,39.059811,-105.311104
+"Des Moines, IA",des moines,IA,,42.011539,-93.210526
+"Deschutes, OR",deschutes,OR,,44.572021,-122.070938
+"Desha, AR",desha,AR,,34.969704,-92.373123
+"Desoto, FL",desoto,FL,,27.766279,-81.686783
+"Desoto, MS",desoto,MS,,32.741646,-89.678696
+"Deuel, NE",deuel,NE,,41.12537,-98.268082
+"Deuel, SD",deuel,SD,,44.299782,-99.438828
+"Dewey, OK",dewey,OK,,35.565342,-96.928917
+"Dewey, SD",dewey,SD,,44.299782,-99.438828
+"Dewitt, TX",dewitt,TX,,31.054487,-97.563461
+"Dickens, TX",dickens,TX,,31.054487,-97.563461
+"Dickenson, VA",dickenson,VA,,37.769337,-78.169968
+"Dickey, ND",dickey,ND,,47.528912,-99.784012
+"Dickinson, IA",dickinson,IA,,42.011539,-93.210526
+"Dickinson, KS",dickinson,KS,,38.5266,-96.726486
+"Dickinson, MI",dickinson,MI,,43.326618,-84.536095
+"Dickson, TN",dickson,TN,,35.747845,-86.692345
+"Dillingham Census Area, AK",dillingham census area,AK,,61.370716,-152.404419
+"Dillon, SC",dillon,SC,,33.856892,-80.945007
+"Dimmit, TX",dimmit,TX,,31.054487,-97.563461
+"Dinwiddie, VA",dinwiddie,VA,,37.769337,-78.169968
+"District Of Columbia, DC",district of columbia,DC,,38.907192,-77.036873
+"Divide, ND",divide,ND,,47.528912,-99.784012
+"Dixie, FL",dixie,FL,,27.766279,-81.686783
+"Dixon, NE",dixon,NE,,41.12537,-98.268082
+"Doddridge, WV",doddridge,WV,,38.491226,-80.954453
+"Dodge, GA",dodge,GA,,33.040619,-83.643074
+"Dodge, MN",dodge,MN,,45.694454,-93.900192
+"Dodge, NE",dodge,NE,,41.12537,-98.268082
+"Dodge, WI",dodge,WI,,44.268543,-89.616508
+"Dolores, CO",dolores,CO,,39.059811,-105.311104
+"Dona Ana, NM",dona ana,NM,,34.840515,-106.248482
+"Doniphan, KS",doniphan,KS,,38.5266,-96.726486
+"Donley, TX",donley,TX,,31.054487,-97.563461
+"Dooly, GA",dooly,GA,,33.040619,-83.643074
+"Door, WI",door,WI,,44.268543,-89.616508
+"Dorchester, MD",dorchester,MD,,39.063946,-76.802101
+"Dorchester, SC",dorchester,SC,,33.856892,-80.945007
+"Dougherty, GA",dougherty,GA,,33.040619,-83.643074
+"Douglas, CO",douglas,CO,,39.059811,-105.311104
+"Douglas, GA",douglas,GA,,33.040619,-83.643074
+"Douglas, IL",douglas,IL,,40.349457,-88.986137
+"Douglas, KS",douglas,KS,,38.5266,-96.726486
+"Douglas, MN",douglas,MN,,45.694454,-93.900192
+"Douglas, MO",douglas,MO,,38.572954,-92.189283
+"Douglas, NE",douglas,NE,,41.12537,-98.268082
+"Douglas, NV",douglas,NV,,38.313515,-117.055374
+"Douglas, OR",douglas,OR,,44.572021,-122.070938
+"Douglas, SD",douglas,SD,,44.299782,-99.438828
+"Douglas, WA",douglas,WA,,47.400902,-121.490494
+"Douglas, WI",douglas,WI,,44.268543,-89.616508
+"Drew, AR",drew,AR,,34.969704,-92.373123
+"Dubois, IN",dubois,IN,,39.849426,-86.258278
+"Dubuque, IA",dubuque,IA,,42.011539,-93.210526
+"Duchesne, UT",duchesne,UT,,40.150032,-111.862434
+"Dukes, MA",dukes,MA,,42.230171,-71.530106
+"Dundy, NE",dundy,NE,,41.12537,-98.268082
+"Dunklin, MO",dunklin,MO,,38.572954,-92.189283
+"Dunn, ND",dunn,ND,,47.528912,-99.784012
+"Dunn, WI",dunn,WI,,44.268543,-89.616508
+"Dupage, IL",dupage,IL,,40.349457,-88.986137
+"Duplin, NC",duplin,NC,,35.630066,-79.806419
+"Durham, NC",durham,NC,,35.630066,-79.806419
+"Dutchess, NY",dutchess,NY,,42.165726,-74.948051
+"Duval, FL",duval,FL,,27.766279,-81.686783
+"Duval, TX",duval,TX,,31.054487,-97.563461
+"Dyer, TN",dyer,TN,,35.747845,-86.692345
+"Eagle, CO",eagle,CO,,39.059811,-105.311104
+"Early, GA",early,GA,,33.040619,-83.643074
+"East Baton Rouge Parish, LA",east baton rouge parish,LA,,31.169546,-91.867805
+"East Carroll Parish, LA",east carroll parish,LA,,31.169546,-91.867805
+"East Feliciana Parish, LA",east feliciana parish,LA,,31.169546,-91.867805
+"Eastland, TX",eastland,TX,,31.054487,-97.563461
+"Eaton, MI",eaton,MI,,43.326618,-84.536095
+"Eau Claire, WI",eau claire,WI,,44.268543,-89.616508
+"Echols, GA",echols,GA,,33.040619,-83.643074
+"Ector, TX",ector,TX,,31.054487,-97.563461
+"Eddy, ND",eddy,ND,,47.528912,-99.784012
+"Eddy, NM",eddy,NM,,34.840515,-106.248482
+"Edgar, IL",edgar,IL,,40.349457,-88.986137
+"Edgecombe, NC",edgecombe,NC,,35.630066,-79.806419
+"Edgefield, SC",edgefield,SC,,33.856892,-80.945007
+"Edmonson, KY",edmonson,KY,,37.66814,-84.670067
+"Edmunds, SD",edmunds,SD,,44.299782,-99.438828
+"Edwards, IL",edwards,IL,,40.349457,-88.986137
+"Edwards, KS",edwards,KS,,38.5266,-96.726486
+"Edwards, TX",edwards,TX,,31.054487,-97.563461
+"Effingham, GA",effingham,GA,,33.040619,-83.643074
+"Effingham, IL",effingham,IL,,40.349457,-88.986137
+"El Dorado, CA",el dorado,CA,,36.116203,-119.681564
+"El Paso, CO",el paso,CO,,39.059811,-105.311104
+"El Paso, TX",el paso,TX,,31.054487,-97.563461
+"Elbert, CO",elbert,CO,,39.059811,-105.311104
+"Elbert, GA",elbert,GA,,33.040619,-83.643074
+"Elk, KS",elk,KS,,38.5266,-96.726486
+"Elk, PA",elk,PA,,40.590752,-77.209755
+"Elkhart, IN",elkhart,IN,,39.849426,-86.258278
+"Elko, NV",elko,NV,,38.313515,-117.055374
+"Elliott, KY",elliott,KY,,37.66814,-84.670067
+"Ellis, KS",ellis,KS,,38.5266,-96.726486
+"Ellis, OK",ellis,OK,,35.565342,-96.928917
+"Ellis, TX",ellis,TX,,31.054487,-97.563461
+"Ellsworth, KS",ellsworth,KS,,38.5266,-96.726486
+"Elmore, AL",elmore,AL,,32.806671,-86.79113
+"Elmore, ID",elmore,ID,,44.240459,-114.478828
+"Emanuel, GA",emanuel,GA,,33.040619,-83.643074
+"Emery, UT",emery,UT,,40.150032,-111.862434
+"Emmet, IA",emmet,IA,,42.011539,-93.210526
+"Emmet, MI",emmet,MI,,43.326618,-84.536095
+"Emmons, ND",emmons,ND,,47.528912,-99.784012
+"Emporia City, VA",emporia city,VA,,37.769337,-78.169968
+"Erath, TX",erath,TX,,31.054487,-97.563461
+"Erie, NY",erie,NY,,42.165726,-74.948051
+"Erie, OH",erie,OH,,40.388783,-82.764915
+"Erie, PA",erie,PA,,40.590752,-77.209755
+"Escambia, AL",escambia,AL,,32.806671,-86.79113
+"Escambia, FL",escambia,FL,,27.766279,-81.686783
+"Esmeralda, NV",esmeralda,NV,,38.313515,-117.055374
+"Essex, MA",essex,MA,,42.230171,-71.530106
+"Essex, NJ",essex,NJ,,40.298904,-74.521011
+"Essex, NY",essex,NY,,42.165726,-74.948051
+"Essex, VA",essex,VA,,37.769337,-78.169968
+"Essex, VT",essex,VT,,44.045876,-72.710686
+"Estill, KY",estill,KY,,37.66814,-84.670067
+"Etowah, AL",etowah,AL,,32.806671,-86.79113
+"Eureka, NV",eureka,NV,,38.313515,-117.055374
+"Evangeline Parish, LA",evangeline parish,LA,,31.169546,-91.867805
+"Evans, GA",evans,GA,,33.040619,-83.643074
+"Fairbanks North Star Borough, AK",fairbanks north star borough,AK,,61.370716,-152.404419
+"Fairfax, VA",fairfax,VA,,37.769337,-78.169968
+"Fairfax City, VA",fairfax city,VA,,37.769337,-78.169968
+"Fairfield, OH",fairfield,OH,,40.388783,-82.764915
+"Fairfield, SC",fairfield,SC,,33.856892,-80.945007
+"Fall River, SD",fall river,SD,,44.299782,-99.438828
+"Fallon, MT",fallon,MT,,46.921925,-110.454353
+"Falls, TX",falls,TX,,31.054487,-97.563461
+"Falls Church City, VA",falls church city,VA,,37.769337,-78.169968
+"Fannin, GA",fannin,GA,,33.040619,-83.643074
+"Fannin, TX",fannin,TX,,31.054487,-97.563461
+"Faribault, MN",faribault,MN,,45.694454,-93.900192
+"Faulk, SD",faulk,SD,,44.299782,-99.438828
+"Faulkner, AR",faulkner,AR,,34.969704,-92.373123
+"Fauquier, VA",fauquier,VA,,37.769337,-78.169968
+"Fayette, AL",fayette,AL,,32.806671,-86.79113
+"Fayette, GA",fayette,GA,,33.040619,-83.643074
+"Fayette, IA",fayette,IA,,42.011539,-93.210526
+"Fayette, IL",fayette,IL,,40.349457,-88.986137
+"Fayette, IN",fayette,IN,,39.849426,-86.258278
+"Fayette, KY",fayette,KY,,37.66814,-84.670067
+"Fayette, OH",fayette,OH,,40.388783,-82.764915
+"Fayette, PA",fayette,PA,,40.590752,-77.209755
+"Fayette, TN",fayette,TN,,35.747845,-86.692345
+"Fayette, TX",fayette,TX,,31.054487,-97.563461
+"Fayette, WV",fayette,WV,,38.491226,-80.954453
+"Fentress, TN",fentress,TN,,35.747845,-86.692345
+"Fergus, MT",fergus,MT,,46.921925,-110.454353
+"Ferry, WA",ferry,WA,,47.400902,-121.490494
+"Fillmore, MN",fillmore,MN,,45.694454,-93.900192
+"Fillmore, NE",fillmore,NE,,41.12537,-98.268082
+"Finney, KS",finney,KS,,38.5266,-96.726486
+"Fisher, TX",fisher,TX,,31.054487,-97.563461
+"Flagler, FL",flagler,FL,,27.766279,-81.686783
+"Flathead, MT",flathead,MT,,46.921925,-110.454353
+"Fleming, KY",fleming,KY,,37.66814,-84.670067
+"Florence, SC",florence,SC,,33.856892,-80.945007
+"Florence, WI",florence,WI,,44.268543,-89.616508
+"Floyd, GA",floyd,GA,,33.040619,-83.643074
+"Floyd, IA",floyd,IA,,42.011539,-93.210526
+"Floyd, IN",floyd,IN,,39.849426,-86.258278
+"Floyd, KY",floyd,KY,,37.66814,-84.670067
+"Floyd, TX",floyd,TX,,31.054487,-97.563461
+"Floyd, VA",floyd,VA,,37.769337,-78.169968
+"Fluvanna, VA",fluvanna,VA,,37.769337,-78.169968
+"Foard, TX",foard,TX,,31.054487,-97.563461
+"Fond Du Lac, WI",fond du lac,WI,,44.268543,-89.616508
+"Ford, IL",ford,IL,,40.349457,-88.986137
+"Ford, KS",ford,KS,,38.5266,-96.726486
+"Forest, PA",forest,PA,,40.590752,-77.209755
+"Forest, WI",forest,WI,,44.268543,-89.616508
+"Forrest, MS",forrest,MS,,32.741646,-89.678696
+"Forsyth, GA",forsyth,GA,,33.040619,-83.643074
+"Forsyth, NC",forsyth,NC,,35.630066,-79.806419
+"Fort Bend, TX",fort bend,TX,,31.054487,-97.563461
+"Foster, ND",foster,ND,,47.528912,-99.784012
+"Fountain, IN",fountain,IN,,39.849426,-86.258278
+"Franklin, AL",franklin,AL,,32.806671,-86.79113
+"Franklin, AR",franklin,AR,,34.969704,-92.373123
+"Franklin, FL",franklin,FL,,27.766279,-81.686783
+"Franklin, GA",franklin,GA,,33.040619,-83.643074
+"Franklin, IA",franklin,IA,,42.011539,-93.210526
+"Franklin, ID",franklin,ID,,44.240459,-114.478828
+"Franklin, IL",franklin,IL,,40.349457,-88.986137
+"Franklin, IN",franklin,IN,,39.849426,-86.258278
+"Franklin, KS",franklin,KS,,38.5266,-96.726486
+"Franklin, KY",franklin,KY,,37.66814,-84.670067
+"Franklin, MA",franklin,MA,,42.230171,-71.530106
+"Franklin, ME",franklin,ME,,44.323535,-69.765261
+"Franklin, MO",franklin,MO,,38.572954,-92.189283
+"Franklin, MS",franklin,MS,,32.741646,-89.678696
+"Franklin, NC",franklin,NC,,35.630066,-79.806419
+"Franklin, NE",franklin,NE,,41.12537,-98.268082
+"Franklin, NY",franklin,NY,,42.165726,-74.948051
+"Franklin, OH",franklin,OH,,40.388783,-82.764915
+"Franklin, PA",franklin,PA,,40.590752,-77.209755
+"Franklin, TN",franklin,TN,,35.747845,-86.692345
+"Franklin, TX",franklin,TX,,31.054487,-97.563461
+"Franklin, VA",franklin,VA,,37.769337,-78.169968
+"Franklin, VT",franklin,VT,,44.045876,-72.710686
+"Franklin, WA",franklin,WA,,47.400902,-121.490494
+"Franklin City, VA",franklin city,VA,,37.769337,-78.169968
+"Franklin Parish, LA",franklin parish,LA,,31.169546,-91.867805
+"Frederick, MD",frederick,MD,,39.063946,-76.802101
+"Frederick, VA",frederick,VA,,37.769337,-78.169968
+"Fredericksburg City, VA",fredericksburg city,VA,,37.769337,-78.169968
+"Freeborn, MN",freeborn,MN,,45.694454,-93.900192
+"Freestone, TX",freestone,TX,,31.054487,-97.563461
+"Fremont, CO",fremont,CO,,39.059811,-105.311104
+"Fremont, IA",fremont,IA,,42.011539,-93.210526
+"Fremont, ID",fremont,ID,,44.240459,-114.478828
+"Fremont, WY",fremont,WY,,42.755966,-107.30249
+"Fresno, CA",fresno,CA,,36.116203,-119.681564
+"Frio, TX",frio,TX,,31.054487,-97.563461
+"Frontier, NE",frontier,NE,,41.12537,-98.268082
+"Fulton, AR",fulton,AR,,34.969704,-92.373123
+"Fulton, GA",fulton,GA,,33.040619,-83.643074
+"Fulton, IL",fulton,IL,,40.349457,-88.986137
+"Fulton, IN",fulton,IN,,39.849426,-86.258278
+"Fulton, KY",fulton,KY,,37.66814,-84.670067
+"Fulton, NY",fulton,NY,,42.165726,-74.948051
+"Fulton, OH",fulton,OH,,40.388783,-82.764915
+"Fulton, PA",fulton,PA,,40.590752,-77.209755
+"Furnas, NE",furnas,NE,,41.12537,-98.268082
+"Gadsden, FL",gadsden,FL,,27.766279,-81.686783
+"Gage, NE",gage,NE,,41.12537,-98.268082
+"Gaines, TX",gaines,TX,,31.054487,-97.563461
+"Galax City, VA",galax city,VA,,37.769337,-78.169968
+"Gallatin, IL",gallatin,IL,,40.349457,-88.986137
+"Gallatin, KY",gallatin,KY,,37.66814,-84.670067
+"Gallatin, MT",gallatin,MT,,46.921925,-110.454353
+"Gallia, OH",gallia,OH,,40.388783,-82.764915
+"Galveston, TX",galveston,TX,,31.054487,-97.563461
+"Garden, NE",garden,NE,,41.12537,-98.268082
+"Garfield, CO",garfield,CO,,39.059811,-105.311104
+"Garfield, MT",garfield,MT,,46.921925,-110.454353
+"Garfield, NE",garfield,NE,,41.12537,-98.268082
+"Garfield, OK",garfield,OK,,35.565342,-96.928917
+"Garfield, UT",garfield,UT,,40.150032,-111.862434
+"Garfield, WA",garfield,WA,,47.400902,-121.490494
+"Garland, AR",garland,AR,,34.969704,-92.373123
+"Garrard, KY",garrard,KY,,37.66814,-84.670067
+"Garrett, MD",garrett,MD,,39.063946,-76.802101
+"Garvin, OK",garvin,OK,,35.565342,-96.928917
+"Garza, TX",garza,TX,,31.054487,-97.563461
+"Gasconade, MO",gasconade,MO,,38.572954,-92.189283
+"Gaston, NC",gaston,NC,,35.630066,-79.806419
+"Gates, NC",gates,NC,,35.630066,-79.806419
+"Geary, KS",geary,KS,,38.5266,-96.726486
+"Geauga, OH",geauga,OH,,40.388783,-82.764915
+"Gem, ID",gem,ID,,44.240459,-114.478828
+"Genesee, MI",genesee,MI,,43.326618,-84.536095
+"Genesee, NY",genesee,NY,,42.165726,-74.948051
+"Geneva, AL",geneva,AL,,32.806671,-86.79113
+"Gentry, MO",gentry,MO,,38.572954,-92.189283
+"George, MS",george,MS,,32.741646,-89.678696
+"Georgetown, SC",georgetown,SC,,33.856892,-80.945007
+"Gibson, IN",gibson,IN,,39.849426,-86.258278
+"Gibson, TN",gibson,TN,,35.747845,-86.692345
+"Gila, AZ",gila,AZ,,33.729759,-111.431221
+"Gilchrist, FL",gilchrist,FL,,27.766279,-81.686783
+"Giles, TN",giles,TN,,35.747845,-86.692345
+"Giles, VA",giles,VA,,37.769337,-78.169968
+"Gillespie, TX",gillespie,TX,,31.054487,-97.563461
+"Gilliam, OR",gilliam,OR,,44.572021,-122.070938
+"Gilmer, GA",gilmer,GA,,33.040619,-83.643074
+"Gilmer, WV",gilmer,WV,,38.491226,-80.954453
+"Gilpin, CO",gilpin,CO,,39.059811,-105.311104
+"Glacier, MT",glacier,MT,,46.921925,-110.454353
+"Glades, FL",glades,FL,,27.766279,-81.686783
+"Gladwin, MI",gladwin,MI,,43.326618,-84.536095
+"Glascock, GA",glascock,GA,,33.040619,-83.643074
+"Glasscock, TX",glasscock,TX,,31.054487,-97.563461
+"Glenn, CA",glenn,CA,,36.116203,-119.681564
+"Gloucester, NJ",gloucester,NJ,,40.298904,-74.521011
+"Gloucester, VA",gloucester,VA,,37.769337,-78.169968
+"Glynn, GA",glynn,GA,,33.040619,-83.643074
+"Gogebic, MI",gogebic,MI,,43.326618,-84.536095
+"Golden Valley, MT",golden valley,MT,,46.921925,-110.454353
+"Golden Valley, ND",golden valley,ND,,47.528912,-99.784012
+"Goliad, TX",goliad,TX,,31.054487,-97.563461
+"Gonzales, TX",gonzales,TX,,31.054487,-97.563461
+"Goochland, VA",goochland,VA,,37.769337,-78.169968
+"Goodhue, MN",goodhue,MN,,45.694454,-93.900192
+"Gooding, ID",gooding,ID,,44.240459,-114.478828
+"Gordon, GA",gordon,GA,,33.040619,-83.643074
+"Goshen, WY",goshen,WY,,42.755966,-107.30249
+"Gosper, NE",gosper,NE,,41.12537,-98.268082
+"Gove, KS",gove,KS,,38.5266,-96.726486
+"Grady, GA",grady,GA,,33.040619,-83.643074
+"Grady, OK",grady,OK,,35.565342,-96.928917
+"Grafton, NH",grafton,NH,,43.452492,-71.563896
+"Graham, AZ",graham,AZ,,33.729759,-111.431221
+"Graham, KS",graham,KS,,38.5266,-96.726486
+"Graham, NC",graham,NC,,35.630066,-79.806419
+"Grainger, TN",grainger,TN,,35.747845,-86.692345
+"Grand, CO",grand,CO,,39.059811,-105.311104
+"Grand, UT",grand,UT,,40.150032,-111.862434
+"Grand Forks, ND",grand forks,ND,,47.528912,-99.784012
+"Grand Isle, VT",grand isle,VT,,44.045876,-72.710686
+"Grand Traverse, MI",grand traverse,MI,,43.326618,-84.536095
+"Granite, MT",granite,MT,,46.921925,-110.454353
+"Grant, AR",grant,AR,,34.969704,-92.373123
+"Grant, IN",grant,IN,,39.849426,-86.258278
+"Grant, KS",grant,KS,,38.5266,-96.726486
+"Grant, KY",grant,KY,,37.66814,-84.670067
+"Grant, MN",grant,MN,,45.694454,-93.900192
+"Grant, ND",grant,ND,,47.528912,-99.784012
+"Grant, NE",grant,NE,,41.12537,-98.268082
+"Grant, NM",grant,NM,,34.840515,-106.248482
+"Grant, OK",grant,OK,,35.565342,-96.928917
+"Grant, OR",grant,OR,,44.572021,-122.070938
+"Grant, SD",grant,SD,,44.299782,-99.438828
+"Grant, WA",grant,WA,,47.400902,-121.490494
+"Grant, WI",grant,WI,,44.268543,-89.616508
+"Grant, WV",grant,WV,,38.491226,-80.954453
+"Grant Parish, LA",grant parish,LA,,31.169546,-91.867805
+"Granville, NC",granville,NC,,35.630066,-79.806419
+"Gratiot, MI",gratiot,MI,,43.326618,-84.536095
+"Graves, KY",graves,KY,,37.66814,-84.670067
+"Gray, KS",gray,KS,,38.5266,-96.726486
+"Gray, TX",gray,TX,,31.054487,-97.563461
+"Grays Harbor, WA",grays harbor,WA,,47.400902,-121.490494
+"Grayson, KY",grayson,KY,,37.66814,-84.670067
+"Grayson, TX",grayson,TX,,31.054487,-97.563461
+"Grayson, VA",grayson,VA,,37.769337,-78.169968
+"Greater Bridgeport Planning Region, CT",greater bridgeport planning region,CT,,41.597782,-72.755371
+"Greeley, KS",greeley,KS,,38.5266,-96.726486
+"Greeley, NE",greeley,NE,,41.12537,-98.268082
+"Green, KY",green,KY,,37.66814,-84.670067
+"Green, WI",green,WI,,44.268543,-89.616508
+"Green Lake, WI",green lake,WI,,44.268543,-89.616508
+"Greenbrier, WV",greenbrier,WV,,38.491226,-80.954453
+"Greene, AL",greene,AL,,32.806671,-86.79113
+"Greene, AR",greene,AR,,34.969704,-92.373123
+"Greene, GA",greene,GA,,33.040619,-83.643074
+"Greene, IA",greene,IA,,42.011539,-93.210526
+"Greene, IL",greene,IL,,40.349457,-88.986137
+"Greene, IN",greene,IN,,39.849426,-86.258278
+"Greene, MO",greene,MO,,38.572954,-92.189283
+"Greene, MS",greene,MS,,32.741646,-89.678696
+"Greene, NC",greene,NC,,35.630066,-79.806419
+"Greene, NY",greene,NY,,42.165726,-74.948051
+"Greene, OH",greene,OH,,40.388783,-82.764915
+"Greene, PA",greene,PA,,40.590752,-77.209755
+"Greene, TN",greene,TN,,35.747845,-86.692345
+"Greene, VA",greene,VA,,37.769337,-78.169968
+"Greenlee, AZ",greenlee,AZ,,33.729759,-111.431221
+"Greensville, VA",greensville,VA,,37.769337,-78.169968
+"Greenup, KY",greenup,KY,,37.66814,-84.670067
+"Greenville, SC",greenville,SC,,33.856892,-80.945007
+"Greenwood, KS",greenwood,KS,,38.5266,-96.726486
+"Greenwood, SC",greenwood,SC,,33.856892,-80.945007
+"Greer, OK",greer,OK,,35.565342,-96.928917
+"Gregg, TX",gregg,TX,,31.054487,-97.563461
+"Gregory, SD",gregory,SD,,44.299782,-99.438828
+"Grenada, MS",grenada,MS,,32.741646,-89.678696
+"Griggs, ND",griggs,ND,,47.528912,-99.784012
+"Grimes, TX",grimes,TX,,31.054487,-97.563461
+"Grundy, IA",grundy,IA,,42.011539,-93.210526
+"Grundy, IL",grundy,IL,,40.349457,-88.986137
+"Grundy, MO",grundy,MO,,38.572954,-92.189283
+"Grundy, TN",grundy,TN,,35.747845,-86.692345
+"Guadalupe, NM",guadalupe,NM,,34.840515,-106.248482
+"Guadalupe, TX",guadalupe,TX,,31.054487,-97.563461
+"Guernsey, OH",guernsey,OH,,40.388783,-82.764915
+"Guilford, NC",guilford,NC,,35.630066,-79.806419
+"Gulf, FL",gulf,FL,,27.766279,-81.686783
+"Gunnison, CO",gunnison,CO,,39.059811,-105.311104
+"Guthrie, IA",guthrie,IA,,42.011539,-93.210526
+"Gwinnett, GA",gwinnett,GA,,33.040619,-83.643074
+"Haakon, SD",haakon,SD,,44.299782,-99.438828
+"Habersham, GA",habersham,GA,,33.040619,-83.643074
+"Haines Borough, AK",haines borough,AK,,61.370716,-152.404419
+"Hale, AL",hale,AL,,32.806671,-86.79113
+"Hale, TX",hale,TX,,31.054487,-97.563461
+"Halifax, NC",halifax,NC,,35.630066,-79.806419
+"Halifax, VA",halifax,VA,,37.769337,-78.169968
+"Hall, GA",hall,GA,,33.040619,-83.643074
+"Hall, NE",hall,NE,,41.12537,-98.268082
+"Hall, TX",hall,TX,,31.054487,-97.563461
+"Hamblen, TN",hamblen,TN,,35.747845,-86.692345
+"Hamilton, FL",hamilton,FL,,27.766279,-81.686783
+"Hamilton, IA",hamilton,IA,,42.011539,-93.210526
+"Hamilton, IL",hamilton,IL,,40.349457,-88.986137
+"Hamilton, IN",hamilton,IN,,39.849426,-86.258278
+"Hamilton, KS",hamilton,KS,,38.5266,-96.726486
+"Hamilton, NE",hamilton,NE,,41.12537,-98.268082
+"Hamilton, NY",hamilton,NY,,42.165726,-74.948051
+"Hamilton, OH",hamilton,OH,,40.388783,-82.764915
+"Hamilton, TN",hamilton,TN,,35.747845,-86.692345
+"Hamilton, TX",hamilton,TX,,31.054487,-97.563461
+"Hamlin, SD",hamlin,SD,,44.299782,-99.438828
+"Hampden, MA",hampden,MA,,42.230171,-71.530106
+"Hampshire, MA",hampshire,MA,,42.230171,-71.530106
+"Hampshire, WV",hampshire,WV,,38.491226,-80.954453
+"Hampton, SC",hampton,SC,,33.856892,-80.945007
+"Hampton City, VA",hampton city,VA,,37.769337,-78.169968
+"Hancock, GA",hancock,GA,,33.040619,-83.643074
+"Hancock, IA",hancock,IA,,42.011539,-93.210526
+"Hancock, IL",hancock,IL,,40.349457,-88.986137
+"Hancock, IN",hancock,IN,,39.849426,-86.258278
+"Hancock, KY",hancock,KY,,37.66814,-84.670067
+"Hancock, ME",hancock,ME,,44.323535,-69.765261
+"Hancock, MS",hancock,MS,,32.741646,-89.678696
+"Hancock, OH",hancock,OH,,40.388783,-82.764915
+"Hancock, TN",hancock,TN,,35.747845,-86.692345
+"Hancock, WV",hancock,WV,,38.491226,-80.954453
+"Hand, SD",hand,SD,,44.299782,-99.438828
+"Hanover, VA",hanover,VA,,37.769337,-78.169968
+"Hansford, TX",hansford,TX,,31.054487,-97.563461
+"Hanson, SD",hanson,SD,,44.299782,-99.438828
+"Haralson, GA",haralson,GA,,33.040619,-83.643074
+"Hardee, FL",hardee,FL,,27.766279,-81.686783
+"Hardeman, TN",hardeman,TN,,35.747845,-86.692345
+"Hardeman, TX",hardeman,TX,,31.054487,-97.563461
+"Hardin, IA",hardin,IA,,42.011539,-93.210526
+"Hardin, IL",hardin,IL,,40.349457,-88.986137
+"Hardin, KY",hardin,KY,,37.66814,-84.670067
+"Hardin, OH",hardin,OH,,40.388783,-82.764915
+"Hardin, TN",hardin,TN,,35.747845,-86.692345
+"Hardin, TX",hardin,TX,,31.054487,-97.563461
+"Harding, NM",harding,NM,,34.840515,-106.248482
+"Harding, SD",harding,SD,,44.299782,-99.438828
+"Hardy, WV",hardy,WV,,38.491226,-80.954453
+"Harford, MD",harford,MD,,39.063946,-76.802101
+"Harlan, KY",harlan,KY,,37.66814,-84.670067
+"Harlan, NE",harlan,NE,,41.12537,-98.268082
+"Harmon, OK",harmon,OK,,35.565342,-96.928917
+"Harnett, NC",harnett,NC,,35.630066,-79.806419
+"Harney, OR",harney,OR,,44.572021,-122.070938
+"Harper, KS",harper,KS,,38.5266,-96.726486
+"Harper, OK",harper,OK,,35.565342,-96.928917
+"Harris, GA",harris,GA,,33.040619,-83.643074
+"Harris, TX",harris,TX,,31.054487,-97.563461
+"Harrison, IA",harrison,IA,,42.011539,-93.210526
+"Harrison, IN",harrison,IN,,39.849426,-86.258278
+"Harrison, KY",harrison,KY,,37.66814,-84.670067
+"Harrison, MO",harrison,MO,,38.572954,-92.189283
+"Harrison, MS",harrison,MS,,32.741646,-89.678696
+"Harrison, OH",harrison,OH,,40.388783,-82.764915
+"Harrison, TX",harrison,TX,,31.054487,-97.563461
+"Harrison, WV",harrison,WV,,38.491226,-80.954453
+"Harrisonburg City, VA",harrisonburg city,VA,,37.769337,-78.169968
+"Hart, GA",hart,GA,,33.040619,-83.643074
+"Hart, KY",hart,KY,,37.66814,-84.670067
+"Hartley, TX",hartley,TX,,31.054487,-97.563461
+"Harvey, KS",harvey,KS,,38.5266,-96.726486
+"Haskell, KS",haskell,KS,,38.5266,-96.726486
+"Haskell, OK",haskell,OK,,35.565342,-96.928917
+"Haskell, TX",haskell,TX,,31.054487,-97.563461
+"Hawaii, HI",hawaii,HI,,21.094318,-157.498337
+"Hawkins, TN",hawkins,TN,,35.747845,-86.692345
+"Hayes, NE",hayes,NE,,41.12537,-98.268082
+"Hays, TX",hays,TX,,31.054487,-97.563461
+"Haywood, NC",haywood,NC,,35.630066,-79.806419
+"Haywood, TN",haywood,TN,,35.747845,-86.692345
+"Heard, GA",heard,GA,,33.040619,-83.643074
+"Hemphill, TX",hemphill,TX,,31.054487,-97.563461
+"Hempstead, AR",hempstead,AR,,34.969704,-92.373123
+"Henderson, IL",henderson,IL,,40.349457,-88.986137
+"Henderson, KY",henderson,KY,,37.66814,-84.670067
+"Henderson, NC",henderson,NC,,35.630066,-79.806419
+"Henderson, TN",henderson,TN,,35.747845,-86.692345
+"Henderson, TX",henderson,TX,,31.054487,-97.563461
+"Hendricks, IN",hendricks,IN,,39.849426,-86.258278
+"Hendry, FL",hendry,FL,,27.766279,-81.686783
+"Hennepin, MN",hennepin,MN,,45.694454,-93.900192
+"Henrico, VA",henrico,VA,,37.769337,-78.169968
+"Henry, AL",henry,AL,,32.806671,-86.79113
+"Henry, GA",henry,GA,,33.040619,-83.643074
+"Henry, IA",henry,IA,,42.011539,-93.210526
+"Henry, IL",henry,IL,,40.349457,-88.986137
+"Henry, IN",henry,IN,,39.849426,-86.258278
+"Henry, KY",henry,KY,,37.66814,-84.670067
+"Henry, MO",henry,MO,,38.572954,-92.189283
+"Henry, OH",henry,OH,,40.388783,-82.764915
+"Henry, TN",henry,TN,,35.747845,-86.692345
+"Henry, VA",henry,VA,,37.769337,-78.169968
+"Herkimer, NY",herkimer,NY,,42.165726,-74.948051
+"Hernando, FL",hernando,FL,,27.766279,-81.686783
+"Hertford, NC",hertford,NC,,35.630066,-79.806419
+"Hettinger, ND",hettinger,ND,,47.528912,-99.784012
+"Hickman, KY",hickman,KY,,37.66814,-84.670067
+"Hickman, TN",hickman,TN,,35.747845,-86.692345
+"Hickory, MO",hickory,MO,,38.572954,-92.189283
+"Hidalgo, NM",hidalgo,NM,,34.840515,-106.248482
+"Hidalgo, TX",hidalgo,TX,,31.054487,-97.563461
+"Highland, OH",highland,OH,,40.388783,-82.764915
+"Highland, VA",highland,VA,,37.769337,-78.169968
+"Highlands, FL",highlands,FL,,27.766279,-81.686783
+"Hill, MT",hill,MT,,46.921925,-110.454353
+"Hill, TX",hill,TX,,31.054487,-97.563461
+"Hillsborough, FL",hillsborough,FL,,27.766279,-81.686783
+"Hillsborough, NH",hillsborough,NH,,43.452492,-71.563896
+"Hillsdale, MI",hillsdale,MI,,43.326618,-84.536095
+"Hinds, MS",hinds,MS,,32.741646,-89.678696
+"Hinsdale, CO",hinsdale,CO,,39.059811,-105.311104
+"Hitchcock, NE",hitchcock,NE,,41.12537,-98.268082
+"Hocking, OH",hocking,OH,,40.388783,-82.764915
+"Hockley, TX",hockley,TX,,31.054487,-97.563461
+"Hodgeman, KS",hodgeman,KS,,38.5266,-96.726486
+"Hoke, NC",hoke,NC,,35.630066,-79.806419
+"Holmes, FL",holmes,FL,,27.766279,-81.686783
+"Holmes, MS",holmes,MS,,32.741646,-89.678696
+"Holmes, OH",holmes,OH,,40.388783,-82.764915
+"Holt, MO",holt,MO,,38.572954,-92.189283
+"Holt, NE",holt,NE,,41.12537,-98.268082
+"Honolulu, HI",honolulu,HI,,21.094318,-157.498337
+"Hood, TX",hood,TX,,31.054487,-97.563461
+"Hood River, OR",hood river,OR,,44.572021,-122.070938
+"Hooker, NE",hooker,NE,,41.12537,-98.268082
+"Hoonah-Angoon Census Area, AK",hoonah-angoon census area,AK,,61.370716,-152.404419
+"Hopewell City, VA",hopewell city,VA,,37.769337,-78.169968
+"Hopkins, KY",hopkins,KY,,37.66814,-84.670067
+"Hopkins, TX",hopkins,TX,,31.054487,-97.563461
+"Horry, SC",horry,SC,,33.856892,-80.945007
+"Hot Spring, AR",hot spring,AR,,34.969704,-92.373123
+"Hot Springs, WY",hot springs,WY,,42.755966,-107.30249
+"Houghton, MI",houghton,MI,,43.326618,-84.536095
+"Houston, AL",houston,AL,,32.806671,-86.79113
+"Houston, GA",houston,GA,,33.040619,-83.643074
+"Houston, MN",houston,MN,,45.694454,-93.900192
+"Houston, TN",houston,TN,,35.747845,-86.692345
+"Houston, TX",houston,TX,,31.054487,-97.563461
+"Howard, AR",howard,AR,,34.969704,-92.373123
+"Howard, IA",howard,IA,,42.011539,-93.210526
+"Howard, IN",howard,IN,,39.849426,-86.258278
+"Howard, MD",howard,MD,,39.063946,-76.802101
+"Howard, MO",howard,MO,,38.572954,-92.189283
+"Howard, NE",howard,NE,,41.12537,-98.268082
+"Howard, TX",howard,TX,,31.054487,-97.563461
+"Howell, MO",howell,MO,,38.572954,-92.189283
+"Hubbard, MN",hubbard,MN,,45.694454,-93.900192
+"Hudson, NJ",hudson,NJ,,40.298904,-74.521011
+"Hudspeth, TX",hudspeth,TX,,31.054487,-97.563461
+"Huerfano, CO",huerfano,CO,,39.059811,-105.311104
+"Hughes, OK",hughes,OK,,35.565342,-96.928917
+"Hughes, SD",hughes,SD,,44.299782,-99.438828
+"Humboldt, CA",humboldt,CA,,36.116203,-119.681564
+"Humboldt, IA",humboldt,IA,,42.011539,-93.210526
+"Humboldt, NV",humboldt,NV,,38.313515,-117.055374
+"Humphreys, MS",humphreys,MS,,32.741646,-89.678696
+"Humphreys, TN",humphreys,TN,,35.747845,-86.692345
+"Hunt, TX",hunt,TX,,31.054487,-97.563461
+"Hunterdon, NJ",hunterdon,NJ,,40.298904,-74.521011
+"Huntingdon, PA",huntingdon,PA,,40.590752,-77.209755
+"Huntington, IN",huntington,IN,,39.849426,-86.258278
+"Huron, MI",huron,MI,,43.326618,-84.536095
+"Huron, OH",huron,OH,,40.388783,-82.764915
+"Hutchinson, SD",hutchinson,SD,,44.299782,-99.438828
+"Hutchinson, TX",hutchinson,TX,,31.054487,-97.563461
+"Hyde, NC",hyde,NC,,35.630066,-79.806419
+"Hyde, SD",hyde,SD,,44.299782,-99.438828
+"Iberia Parish, LA",iberia parish,LA,,31.169546,-91.867805
+"Iberville Parish, LA",iberville parish,LA,,31.169546,-91.867805
+"Ida, IA",ida,IA,,42.011539,-93.210526
+"Idaho, ID",idaho,ID,,44.240459,-114.478828
+"Imperial, CA",imperial,CA,,36.116203,-119.681564
+"Independence, AR",independence,AR,,34.969704,-92.373123
+"Indian River, FL",indian river,FL,,27.766279,-81.686783
+"Indiana, PA",indiana,PA,,40.590752,-77.209755
+"Ingham, MI",ingham,MI,,43.326618,-84.536095
+"Inyo, CA",inyo,CA,,36.116203,-119.681564
+"Ionia, MI",ionia,MI,,43.326618,-84.536095
+"Iosco, MI",iosco,MI,,43.326618,-84.536095
+"Iowa, IA",iowa,IA,,42.011539,-93.210526
+"Iowa, WI",iowa,WI,,44.268543,-89.616508
+"Iredell, NC",iredell,NC,,35.630066,-79.806419
+"Irion, TX",irion,TX,,31.054487,-97.563461
+"Iron, MI",iron,MI,,43.326618,-84.536095
+"Iron, MO",iron,MO,,38.572954,-92.189283
+"Iron, UT",iron,UT,,40.150032,-111.862434
+"Iron, WI",iron,WI,,44.268543,-89.616508
+"Iroquois, IL",iroquois,IL,,40.349457,-88.986137
+"Irwin, GA",irwin,GA,,33.040619,-83.643074
+"Isabella, MI",isabella,MI,,43.326618,-84.536095
+"Isanti, MN",isanti,MN,,45.694454,-93.900192
+"Island, WA",island,WA,,47.400902,-121.490494
+"Isle Of Wight, VA",isle of wight,VA,,37.769337,-78.169968
+"Issaquena, MS",issaquena,MS,,32.741646,-89.678696
+"Itasca, MN",itasca,MN,,45.694454,-93.900192
+"Itawamba, MS",itawamba,MS,,32.741646,-89.678696
+"Izard, AR",izard,AR,,34.969704,-92.373123
+"Jack, TX",jack,TX,,31.054487,-97.563461
+"Jackson, AL",jackson,AL,,32.806671,-86.79113
+"Jackson, AR",jackson,AR,,34.969704,-92.373123
+"Jackson, CO",jackson,CO,,39.059811,-105.311104
+"Jackson, FL",jackson,FL,,27.766279,-81.686783
+"Jackson, GA",jackson,GA,,33.040619,-83.643074
+"Jackson, IA",jackson,IA,,42.011539,-93.210526
+"Jackson, IL",jackson,IL,,40.349457,-88.986137
+"Jackson, IN",jackson,IN,,39.849426,-86.258278
+"Jackson, KS",jackson,KS,,38.5266,-96.726486
+"Jackson, KY",jackson,KY,,37.66814,-84.670067
+"Jackson, MI",jackson,MI,,43.326618,-84.536095
+"Jackson, MN",jackson,MN,,45.694454,-93.900192
+"Jackson, MO",jackson,MO,,38.572954,-92.189283
+"Jackson, MS",jackson,MS,,32.741646,-89.678696
+"Jackson, NC",jackson,NC,,35.630066,-79.806419
+"Jackson, OH",jackson,OH,,40.388783,-82.764915
+"Jackson, OK",jackson,OK,,35.565342,-96.928917
+"Jackson, OR",jackson,OR,,44.572021,-122.070938
+"Jackson, SD",jackson,SD,,44.299782,-99.438828
+"Jackson, TN",jackson,TN,,35.747845,-86.692345
+"Jackson, TX",jackson,TX,,31.054487,-97.563461
+"Jackson, WI",jackson,WI,,44.268543,-89.616508
+"Jackson, WV",jackson,WV,,38.491226,-80.954453
+"Jackson Parish, LA",jackson parish,LA,,31.169546,-91.867805
+"James City, VA",james city,VA,,37.769337,-78.169968
+"Jasper, GA",jasper,GA,,33.040619,-83.643074
+"Jasper, IA",jasper,IA,,42.011539,-93.210526
+"Jasper, IL",jasper,IL,,40.349457,-88.986137
+"Jasper, IN",jasper,IN,,39.849426,-86.258278
+"Jasper, MO",jasper,MO,,38.572954,-92.189283
+"Jasper, MS",jasper,MS,,32.741646,-89.678696
+"Jasper, SC",jasper,SC,,33.856892,-80.945007
+"Jasper, TX",jasper,TX,,31.054487,-97.563461
+"Jay, IN",jay,IN,,39.849426,-86.258278
+"Jeff Davis, GA",jeff davis,GA,,33.040619,-83.643074
+"Jeff Davis, TX",jeff davis,TX,,31.054487,-97.563461
+"Jefferson, AL",jefferson,AL,,32.806671,-86.79113
+"Jefferson, AR",jefferson,AR,,34.969704,-92.373123
+"Jefferson, CO",jefferson,CO,,39.059811,-105.311104
+"Jefferson, FL",jefferson,FL,,27.766279,-81.686783
+"Jefferson, GA",jefferson,GA,,33.040619,-83.643074
+"Jefferson, IA",jefferson,IA,,42.011539,-93.210526
+"Jefferson, ID",jefferson,ID,,44.240459,-114.478828
+"Jefferson, IL",jefferson,IL,,40.349457,-88.986137
+"Jefferson, IN",jefferson,IN,,39.849426,-86.258278
+"Jefferson, KS",jefferson,KS,,38.5266,-96.726486
+"Jefferson, KY",jefferson,KY,,37.66814,-84.670067
+"Jefferson, MO",jefferson,MO,,38.572954,-92.189283
+"Jefferson, MS",jefferson,MS,,32.741646,-89.678696
+"Jefferson, MT",jefferson,MT,,46.921925,-110.454353
+"Jefferson, NE",jefferson,NE,,41.12537,-98.268082
+"Jefferson, NY",jefferson,NY,,42.165726,-74.948051
+"Jefferson, OH",jefferson,OH,,40.388783,-82.764915
+"Jefferson, OK",jefferson,OK,,35.565342,-96.928917
+"Jefferson, OR",jefferson,OR,,44.572021,-122.070938
+"Jefferson, PA",jefferson,PA,,40.590752,-77.209755
+"Jefferson, TN",jefferson,TN,,35.747845,-86.692345
+"Jefferson, TX",jefferson,TX,,31.054487,-97.563461
+"Jefferson, WA",jefferson,WA,,47.400902,-121.490494
+"Jefferson, WI",jefferson,WI,,44.268543,-89.616508
+"Jefferson, WV",jefferson,WV,,38.491226,-80.954453
+"Jefferson Davis, MS",jefferson davis,MS,,32.741646,-89.678696
+"Jefferson Davis Parish, LA",jefferson davis parish,LA,,31.169546,-91.867805
+"Jefferson Parish, LA",jefferson parish,LA,,31.169546,-91.867805
+"Jenkins, GA",jenkins,GA,,33.040619,-83.643074
+"Jennings, IN",jennings,IN,,39.849426,-86.258278
+"Jerauld, SD",jerauld,SD,,44.299782,-99.438828
+"Jerome, ID",jerome,ID,,44.240459,-114.478828
+"Jersey, IL",jersey,IL,,40.349457,-88.986137
+"Jessamine, KY",jessamine,KY,,37.66814,-84.670067
+"Jewell, KS",jewell,KS,,38.5266,-96.726486
+"Jim Hogg, TX",jim hogg,TX,,31.054487,-97.563461
+"Jim Wells, TX",jim wells,TX,,31.054487,-97.563461
+"Jo Daviess, IL",jo daviess,IL,,40.349457,-88.986137
+"Johnson, AR",johnson,AR,,34.969704,-92.373123
+"Johnson, GA",johnson,GA,,33.040619,-83.643074
+"Johnson, IA",johnson,IA,,42.011539,-93.210526
+"Johnson, IL",johnson,IL,,40.349457,-88.986137
+"Johnson, IN",johnson,IN,,39.849426,-86.258278
+"Johnson, KS",johnson,KS,,38.5266,-96.726486
+"Johnson, KY",johnson,KY,,37.66814,-84.670067
+"Johnson, MO",johnson,MO,,38.572954,-92.189283
+"Johnson, NE",johnson,NE,,41.12537,-98.268082
+"Johnson, TN",johnson,TN,,35.747845,-86.692345
+"Johnson, TX",johnson,TX,,31.054487,-97.563461
+"Johnson, WY",johnson,WY,,42.755966,-107.30249
+"Johnston, NC",johnston,NC,,35.630066,-79.806419
+"Johnston, OK",johnston,OK,,35.565342,-96.928917
+"Jones, GA",jones,GA,,33.040619,-83.643074
+"Jones, IA",jones,IA,,42.011539,-93.210526
+"Jones, MS",jones,MS,,32.741646,-89.678696
+"Jones, NC",jones,NC,,35.630066,-79.806419
+"Jones, SD",jones,SD,,44.299782,-99.438828
+"Jones, TX",jones,TX,,31.054487,-97.563461
+"Josephine, OR",josephine,OR,,44.572021,-122.070938
+"Juab, UT",juab,UT,,40.150032,-111.862434
+"Judith Basin, MT",judith basin,MT,,46.921925,-110.454353
+"Juneau, WI",juneau,WI,,44.268543,-89.616508
+"Juneau City And Borough, AK",juneau city and borough,AK,,61.370716,-152.404419
+"Juniata, PA",juniata,PA,,40.590752,-77.209755
+"Kalamazoo, MI",kalamazoo,MI,,43.326618,-84.536095
+"Kalkaska, MI",kalkaska,MI,,43.326618,-84.536095
+"Kanabec, MN",kanabec,MN,,45.694454,-93.900192
+"Kanawha, WV",kanawha,WV,,38.491226,-80.954453
+"Kandiyohi, MN",kandiyohi,MN,,45.694454,-93.900192
+"Kane, IL",kane,IL,,40.349457,-88.986137
+"Kane, UT",kane,UT,,40.150032,-111.862434
+"Kankakee, IL",kankakee,IL,,40.349457,-88.986137
+"Karnes, TX",karnes,TX,,31.054487,-97.563461
+"Kauai, HI",kauai,HI,,21.094318,-157.498337
+"Kaufman, TX",kaufman,TX,,31.054487,-97.563461
+"Kay, OK",kay,OK,,35.565342,-96.928917
+"Kearney, NE",kearney,NE,,41.12537,-98.268082
+"Kearny, KS",kearny,KS,,38.5266,-96.726486
+"Keith, NE",keith,NE,,41.12537,-98.268082
+"Kemper, MS",kemper,MS,,32.741646,-89.678696
+"Kenai Peninsula Borough, AK",kenai peninsula borough,AK,,61.370716,-152.404419
+"Kendall, IL",kendall,IL,,40.349457,-88.986137
+"Kendall, TX",kendall,TX,,31.054487,-97.563461
+"Kenedy, TX",kenedy,TX,,31.054487,-97.563461
+"Kennebec, ME",kennebec,ME,,44.323535,-69.765261
+"Kenosha, WI",kenosha,WI,,44.268543,-89.616508
+"Kent, DE",kent,DE,,39.318523,-75.507141
+"Kent, MD",kent,MD,,39.063946,-76.802101
+"Kent, MI",kent,MI,,43.326618,-84.536095
+"Kent, RI",kent,RI,,41.680893,-71.51178
+"Kent, TX",kent,TX,,31.054487,-97.563461
+"Kenton, KY",kenton,KY,,37.66814,-84.670067
+"Keokuk, IA",keokuk,IA,,42.011539,-93.210526
+"Kern, CA",kern,CA,,36.116203,-119.681564
+"Kerr, TX",kerr,TX,,31.054487,-97.563461
+"Kershaw, SC",kershaw,SC,,33.856892,-80.945007
+"Ketchikan Gateway Borough, AK",ketchikan gateway borough,AK,,61.370716,-152.404419
+"Kewaunee, WI",kewaunee,WI,,44.268543,-89.616508
+"Keweenaw, MI",keweenaw,MI,,43.326618,-84.536095
+"Keya Paha, NE",keya paha,NE,,41.12537,-98.268082
+"Kidder, ND",kidder,ND,,47.528912,-99.784012
+"Kimball, NE",kimball,NE,,41.12537,-98.268082
+"Kimble, TX",kimble,TX,,31.054487,-97.563461
+"King, TX",king,TX,,31.054487,-97.563461
+"King, WA",king,WA,,47.400902,-121.490494
+"King And Queen, VA",king and queen,VA,,37.769337,-78.169968
+"King George, VA",king george,VA,,37.769337,-78.169968
+"King William, VA",king william,VA,,37.769337,-78.169968
+"Kingfisher, OK",kingfisher,OK,,35.565342,-96.928917
+"Kingman, KS",kingman,KS,,38.5266,-96.726486
+"Kings, CA",kings,CA,,36.116203,-119.681564
+"Kings, NY",kings,NY,,42.165726,-74.948051
+"Kingsbury, SD",kingsbury,SD,,44.299782,-99.438828
+"Kinney, TX",kinney,TX,,31.054487,-97.563461
+"Kiowa, CO",kiowa,CO,,39.059811,-105.311104
+"Kiowa, KS",kiowa,KS,,38.5266,-96.726486
+"Kiowa, OK",kiowa,OK,,35.565342,-96.928917
+"Kit Carson, CO",kit carson,CO,,39.059811,-105.311104
+"Kitsap, WA",kitsap,WA,,47.400902,-121.490494
+"Kittitas, WA",kittitas,WA,,47.400902,-121.490494
+"Kittson, MN",kittson,MN,,45.694454,-93.900192
+"Klamath, OR",klamath,OR,,44.572021,-122.070938
+"Kleberg, TX",kleberg,TX,,31.054487,-97.563461
+"Klickitat, WA",klickitat,WA,,47.400902,-121.490494
+"Knott, KY",knott,KY,,37.66814,-84.670067
+"Knox, IL",knox,IL,,40.349457,-88.986137
+"Knox, IN",knox,IN,,39.849426,-86.258278
+"Knox, KY",knox,KY,,37.66814,-84.670067
+"Knox, ME",knox,ME,,44.323535,-69.765261
+"Knox, MO",knox,MO,,38.572954,-92.189283
+"Knox, NE",knox,NE,,41.12537,-98.268082
+"Knox, OH",knox,OH,,40.388783,-82.764915
+"Knox, TN",knox,TN,,35.747845,-86.692345
+"Knox, TX",knox,TX,,31.054487,-97.563461
+"Kodiak Island Borough, AK",kodiak island borough,AK,,61.370716,-152.404419
+"Koochiching, MN",koochiching,MN,,45.694454,-93.900192
+"Kootenai, ID",kootenai,ID,,44.240459,-114.478828
+"Kosciusko, IN",kosciusko,IN,,39.849426,-86.258278
+"Kossuth, IA",kossuth,IA,,42.011539,-93.210526
+"Kusilvak Census Area, AK",kusilvak census area,AK,,61.370716,-152.404419
+"La Crosse, WI",la crosse,WI,,44.268543,-89.616508
+"La Paz, AZ",la paz,AZ,,33.729759,-111.431221
+"La Plata, CO",la plata,CO,,39.059811,-105.311104
+"La Salle, TX",la salle,TX,,31.054487,-97.563461
+"Labette, KS",labette,KS,,38.5266,-96.726486
+"Lac Qui Parle, MN",lac qui parle,MN,,45.694454,-93.900192
+"Lackawanna, PA",lackawanna,PA,,40.590752,-77.209755
+"Laclede, MO",laclede,MO,,38.572954,-92.189283
+"Lafayette, AR",lafayette,AR,,34.969704,-92.373123
+"Lafayette, FL",lafayette,FL,,27.766279,-81.686783
+"Lafayette, MO",lafayette,MO,,38.572954,-92.189283
+"Lafayette, MS",lafayette,MS,,32.741646,-89.678696
+"Lafayette, WI",lafayette,WI,,44.268543,-89.616508
+"Lafayette Parish, LA",lafayette parish,LA,,31.169546,-91.867805
+"Lafourche Parish, LA",lafourche parish,LA,,31.169546,-91.867805
+"Lagrange, IN",lagrange,IN,,39.849426,-86.258278
+"Lake, CA",lake,CA,,36.116203,-119.681564
+"Lake, CO",lake,CO,,39.059811,-105.311104
+"Lake, FL",lake,FL,,27.766279,-81.686783
+"Lake, IL",lake,IL,,40.349457,-88.986137
+"Lake, IN",lake,IN,,39.849426,-86.258278
+"Lake, MI",lake,MI,,43.326618,-84.536095
+"Lake, MN",lake,MN,,45.694454,-93.900192
+"Lake, MT",lake,MT,,46.921925,-110.454353
+"Lake, OH",lake,OH,,40.388783,-82.764915
+"Lake, OR",lake,OR,,44.572021,-122.070938
+"Lake, SD",lake,SD,,44.299782,-99.438828
+"Lake, TN",lake,TN,,35.747845,-86.692345
+"Lake And Peninsula Borough, AK",lake and peninsula borough,AK,,61.370716,-152.404419
+"Lake Of The Woods, MN",lake of the woods,MN,,45.694454,-93.900192
+"Lamar, AL",lamar,AL,,32.806671,-86.79113
+"Lamar, GA",lamar,GA,,33.040619,-83.643074
+"Lamar, MS",lamar,MS,,32.741646,-89.678696
+"Lamar, TX",lamar,TX,,31.054487,-97.563461
+"Lamb, TX",lamb,TX,,31.054487,-97.563461
+"Lamoille, VT",lamoille,VT,,44.045876,-72.710686
+"Lamoure, ND",lamoure,ND,,47.528912,-99.784012
+"Lampasas, TX",lampasas,TX,,31.054487,-97.563461
+"Lancaster, NE",lancaster,NE,,41.12537,-98.268082
+"Lancaster, PA",lancaster,PA,,40.590752,-77.209755
+"Lancaster, SC",lancaster,SC,,33.856892,-80.945007
+"Lancaster, VA",lancaster,VA,,37.769337,-78.169968
+"Lander, NV",lander,NV,,38.313515,-117.055374
+"Lane, KS",lane,KS,,38.5266,-96.726486
+"Lane, OR",lane,OR,,44.572021,-122.070938
+"Langlade, WI",langlade,WI,,44.268543,-89.616508
+"Lanier, GA",lanier,GA,,33.040619,-83.643074
+"Lapeer, MI",lapeer,MI,,43.326618,-84.536095
+"Laporte, IN",laporte,IN,,39.849426,-86.258278
+"Laramie, WY",laramie,WY,,42.755966,-107.30249
+"Larimer, CO",larimer,CO,,39.059811,-105.311104
+"Larue, KY",larue,KY,,37.66814,-84.670067
+"Las Animas, CO",las animas,CO,,39.059811,-105.311104
+"Lasalle, IL",lasalle,IL,,40.349457,-88.986137
+"Lasalle Parish, LA",lasalle parish,LA,,31.169546,-91.867805
+"Lassen, CA",lassen,CA,,36.116203,-119.681564
+"Latah, ID",latah,ID,,44.240459,-114.478828
+"Latimer, OK",latimer,OK,,35.565342,-96.928917
+"Lauderdale, AL",lauderdale,AL,,32.806671,-86.79113
+"Lauderdale, MS",lauderdale,MS,,32.741646,-89.678696
+"Lauderdale, TN",lauderdale,TN,,35.747845,-86.692345
+"Laurel, KY",laurel,KY,,37.66814,-84.670067
+"Laurens, GA",laurens,GA,,33.040619,-83.643074
+"Laurens, SC",laurens,SC,,33.856892,-80.945007
+"Lavaca, TX",lavaca,TX,,31.054487,-97.563461
+"Lawrence, AL",lawrence,AL,,32.806671,-86.79113
+"Lawrence, AR",lawrence,AR,,34.969704,-92.373123
+"Lawrence, IL",lawrence,IL,,40.349457,-88.986137
+"Lawrence, IN",lawrence,IN,,39.849426,-86.258278
+"Lawrence, KY",lawrence,KY,,37.66814,-84.670067
+"Lawrence, MO",lawrence,MO,,38.572954,-92.189283
+"Lawrence, MS",lawrence,MS,,32.741646,-89.678696
+"Lawrence, OH",lawrence,OH,,40.388783,-82.764915
+"Lawrence, PA",lawrence,PA,,40.590752,-77.209755
+"Lawrence, SD",lawrence,SD,,44.299782,-99.438828
+"Lawrence, TN",lawrence,TN,,35.747845,-86.692345
+"Le Flore, OK",le flore,OK,,35.565342,-96.928917
+"Le Sueur, MN",le sueur,MN,,45.694454,-93.900192
+"Lea, NM",lea,NM,,34.840515,-106.248482
+"Leake, MS",leake,MS,,32.741646,-89.678696
+"Leavenworth, KS",leavenworth,KS,,38.5266,-96.726486
+"Lebanon, PA",lebanon,PA,,40.590752,-77.209755
+"Lee, AL",lee,AL,,32.806671,-86.79113
+"Lee, AR",lee,AR,,34.969704,-92.373123
+"Lee, FL",lee,FL,,27.766279,-81.686783
+"Lee, GA",lee,GA,,33.040619,-83.643074
+"Lee, IA",lee,IA,,42.011539,-93.210526
+"Lee, IL",lee,IL,,40.349457,-88.986137
+"Lee, KY",lee,KY,,37.66814,-84.670067
+"Lee, MS",lee,MS,,32.741646,-89.678696
+"Lee, NC",lee,NC,,35.630066,-79.806419
+"Lee, SC",lee,SC,,33.856892,-80.945007
+"Lee, TX",lee,TX,,31.054487,-97.563461
+"Lee, VA",lee,VA,,37.769337,-78.169968
+"Leelanau, MI",leelanau,MI,,43.326618,-84.536095
+"Leflore, MS",leflore,MS,,32.741646,-89.678696
+"Lehigh, PA",lehigh,PA,,40.590752,-77.209755
+"Lemhi, ID",lemhi,ID,,44.240459,-114.478828
+"Lenawee, MI",lenawee,MI,,43.326618,-84.536095
+"Lenoir, NC",lenoir,NC,,35.630066,-79.806419
+"Leon, FL",leon,FL,,27.766279,-81.686783
+"Leon, TX",leon,TX,,31.054487,-97.563461
+"Leslie, KY",leslie,KY,,37.66814,-84.670067
+"Letcher, KY",letcher,KY,,37.66814,-84.670067
+"Levy, FL",levy,FL,,27.766279,-81.686783
+"Lewis, ID",lewis,ID,,44.240459,-114.478828
+"Lewis, KY",lewis,KY,,37.66814,-84.670067
+"Lewis, MO",lewis,MO,,38.572954,-92.189283
+"Lewis, NY",lewis,NY,,42.165726,-74.948051
+"Lewis, TN",lewis,TN,,35.747845,-86.692345
+"Lewis, WA",lewis,WA,,47.400902,-121.490494
+"Lewis, WV",lewis,WV,,38.491226,-80.954453
+"Lewis And Clark, MT",lewis and clark,MT,,46.921925,-110.454353
+"Lexington, SC",lexington,SC,,33.856892,-80.945007
+"Lexington City, VA",lexington city,VA,,37.769337,-78.169968
+"Liberty, FL",liberty,FL,,27.766279,-81.686783
+"Liberty, GA",liberty,GA,,33.040619,-83.643074
+"Liberty, MT",liberty,MT,,46.921925,-110.454353
+"Liberty, TX",liberty,TX,,31.054487,-97.563461
+"Licking, OH",licking,OH,,40.388783,-82.764915
+"Limestone, AL",limestone,AL,,32.806671,-86.79113
+"Limestone, TX",limestone,TX,,31.054487,-97.563461
+"Lincoln, AR",lincoln,AR,,34.969704,-92.373123
+"Lincoln, CO",lincoln,CO,,39.059811,-105.311104
+"Lincoln, GA",lincoln,GA,,33.040619,-83.643074
+"Lincoln, ID",lincoln,ID,,44.240459,-114.478828
+"Lincoln, KS",lincoln,KS,,38.5266,-96.726486
+"Lincoln, KY",lincoln,KY,,37.66814,-84.670067
+"Lincoln, ME",lincoln,ME,,44.323535,-69.765261
+"Lincoln, MN",lincoln,MN,,45.694454,-93.900192
+"Lincoln, MO",lincoln,MO,,38.572954,-92.189283
+"Lincoln, MS",lincoln,MS,,32.741646,-89.678696
+"Lincoln, MT",lincoln,MT,,46.921925,-110.454353
+"Lincoln, NC",lincoln,NC,,35.630066,-79.806419
+"Lincoln, NE",lincoln,NE,,41.12537,-98.268082
+"Lincoln, NM",lincoln,NM,,34.840515,-106.248482
+"Lincoln, NV",lincoln,NV,,38.313515,-117.055374
+"Lincoln, OK",lincoln,OK,,35.565342,-96.928917
+"Lincoln, OR",lincoln,OR,,44.572021,-122.070938
+"Lincoln, SD",lincoln,SD,,44.299782,-99.438828
+"Lincoln, TN",lincoln,TN,,35.747845,-86.692345
+"Lincoln, WA",lincoln,WA,,47.400902,-121.490494
+"Lincoln, WI",lincoln,WI,,44.268543,-89.616508
+"Lincoln, WV",lincoln,WV,,38.491226,-80.954453
+"Lincoln, WY",lincoln,WY,,42.755966,-107.30249
+"Lincoln Parish, LA",lincoln parish,LA,,31.169546,-91.867805
+"Linn, IA",linn,IA,,42.011539,-93.210526
+"Linn, KS",linn,KS,,38.5266,-96.726486
+"Linn, MO",linn,MO,,38.572954,-92.189283
+"Linn, OR",linn,OR,,44.572021,-122.070938
+"Lipscomb, TX",lipscomb,TX,,31.054487,-97.563461
+"Little River, AR",little river,AR,,34.969704,-92.373123
+"Live Oak, TX",live oak,TX,,31.054487,-97.563461
+"Livingston, IL",livingston,IL,,40.349457,-88.986137
+"Livingston, KY",livingston,KY,,37.66814,-84.670067
+"Livingston, MI",livingston,MI,,43.326618,-84.536095
+"Livingston, MO",livingston,MO,,38.572954,-92.189283
+"Livingston, NY",livingston,NY,,42.165726,-74.948051
+"Livingston Parish, LA",livingston parish,LA,,31.169546,-91.867805
+"Llano, TX",llano,TX,,31.054487,-97.563461
+"Logan, AR",logan,AR,,34.969704,-92.373123
+"Logan, CO",logan,CO,,39.059811,-105.311104
+"Logan, IL",logan,IL,,40.349457,-88.986137
+"Logan, KS",logan,KS,,38.5266,-96.726486
+"Logan, KY",logan,KY,,37.66814,-84.670067
+"Logan, ND",logan,ND,,47.528912,-99.784012
+"Logan, NE",logan,NE,,41.12537,-98.268082
+"Logan, OH",logan,OH,,40.388783,-82.764915
+"Logan, OK",logan,OK,,35.565342,-96.928917
+"Logan, WV",logan,WV,,38.491226,-80.954453
+"Long, GA",long,GA,,33.040619,-83.643074
+"Lonoke, AR",lonoke,AR,,34.969704,-92.373123
+"Lorain, OH",lorain,OH,,40.388783,-82.764915
+"Los Alamos, NM",los alamos,NM,,34.840515,-106.248482
+"Los Angeles, CA",los angeles,CA,,36.116203,-119.681564
+"Loudon, TN",loudon,TN,,35.747845,-86.692345
+"Loudoun, VA",loudoun,VA,,37.769337,-78.169968
+"Louisa, IA",louisa,IA,,42.011539,-93.210526
+"Louisa, VA",louisa,VA,,37.769337,-78.169968
+"Loup, NE",loup,NE,,41.12537,-98.268082
+"Love, OK",love,OK,,35.565342,-96.928917
+"Lower Connecticut River Valley Planning Region, CT",lower connecticut river valley planning region,CT,,41.597782,-72.755371
+"Lowndes, AL",lowndes,AL,,32.806671,-86.79113
+"Lowndes, GA",lowndes,GA,,33.040619,-83.643074
+"Lowndes, MS",lowndes,MS,,32.741646,-89.678696
+"Lubbock, TX",lubbock,TX,,31.054487,-97.563461
+"Lucas, IA",lucas,IA,,42.011539,-93.210526
+"Lucas, OH",lucas,OH,,40.388783,-82.764915
+"Luce, MI",luce,MI,,43.326618,-84.536095
+"Lumpkin, GA",lumpkin,GA,,33.040619,-83.643074
+"Luna, NM",luna,NM,,34.840515,-106.248482
+"Lunenburg, VA",lunenburg,VA,,37.769337,-78.169968
+"Luzerne, PA",luzerne,PA,,40.590752,-77.209755
+"Lycoming, PA",lycoming,PA,,40.590752,-77.209755
+"Lyman, SD",lyman,SD,,44.299782,-99.438828
+"Lynchburg City, VA",lynchburg city,VA,,37.769337,-78.169968
+"Lynn, TX",lynn,TX,,31.054487,-97.563461
+"Lyon, IA",lyon,IA,,42.011539,-93.210526
+"Lyon, KS",lyon,KS,,38.5266,-96.726486
+"Lyon, KY",lyon,KY,,37.66814,-84.670067
+"Lyon, MN",lyon,MN,,45.694454,-93.900192
+"Lyon, NV",lyon,NV,,38.313515,-117.055374
+"Mackinac, MI",mackinac,MI,,43.326618,-84.536095
+"Macomb, MI",macomb,MI,,43.326618,-84.536095
+"Macon, AL",macon,AL,,32.806671,-86.79113
+"Macon, GA",macon,GA,,33.040619,-83.643074
+"Macon, IL",macon,IL,,40.349457,-88.986137
+"Macon, MO",macon,MO,,38.572954,-92.189283
+"Macon, NC",macon,NC,,35.630066,-79.806419
+"Macon, TN",macon,TN,,35.747845,-86.692345
+"Macoupin, IL",macoupin,IL,,40.349457,-88.986137
+"Madera, CA",madera,CA,,36.116203,-119.681564
+"Madison, AL",madison,AL,,32.806671,-86.79113
+"Madison, AR",madison,AR,,34.969704,-92.373123
+"Madison, FL",madison,FL,,27.766279,-81.686783
+"Madison, GA",madison,GA,,33.040619,-83.643074
+"Madison, IA",madison,IA,,42.011539,-93.210526
+"Madison, ID",madison,ID,,44.240459,-114.478828
+"Madison, IL",madison,IL,,40.349457,-88.986137
+"Madison, IN",madison,IN,,39.849426,-86.258278
+"Madison, KY",madison,KY,,37.66814,-84.670067
+"Madison, MO",madison,MO,,38.572954,-92.189283
+"Madison, MS",madison,MS,,32.741646,-89.678696
+"Madison, MT",madison,MT,,46.921925,-110.454353
+"Madison, NC",madison,NC,,35.630066,-79.806419
+"Madison, NE",madison,NE,,41.12537,-98.268082
+"Madison, NY",madison,NY,,42.165726,-74.948051
+"Madison, OH",madison,OH,,40.388783,-82.764915
+"Madison, TN",madison,TN,,35.747845,-86.692345
+"Madison, TX",madison,TX,,31.054487,-97.563461
+"Madison, VA",madison,VA,,37.769337,-78.169968
+"Madison Parish, LA",madison parish,LA,,31.169546,-91.867805
+"Magoffin, KY",magoffin,KY,,37.66814,-84.670067
+"Mahaska, IA",mahaska,IA,,42.011539,-93.210526
+"Mahnomen, MN",mahnomen,MN,,45.694454,-93.900192
+"Mahoning, OH",mahoning,OH,,40.388783,-82.764915
+"Major, OK",major,OK,,35.565342,-96.928917
+"Malheur, OR",malheur,OR,,44.572021,-122.070938
+"Manassas City, VA",manassas city,VA,,37.769337,-78.169968
+"Manassas Park City, VA",manassas park city,VA,,37.769337,-78.169968
+"Manatee, FL",manatee,FL,,27.766279,-81.686783
+"Manistee, MI",manistee,MI,,43.326618,-84.536095
+"Manitowoc, WI",manitowoc,WI,,44.268543,-89.616508
+"Marathon, WI",marathon,WI,,44.268543,-89.616508
+"Marengo, AL",marengo,AL,,32.806671,-86.79113
+"Maricopa, AZ",maricopa,AZ,,33.729759,-111.431221
+"Maries, MO",maries,MO,,38.572954,-92.189283
+"Marin, CA",marin,CA,,36.116203,-119.681564
+"Marinette, WI",marinette,WI,,44.268543,-89.616508
+"Marion, AL",marion,AL,,32.806671,-86.79113
+"Marion, AR",marion,AR,,34.969704,-92.373123
+"Marion, FL",marion,FL,,27.766279,-81.686783
+"Marion, GA",marion,GA,,33.040619,-83.643074
+"Marion, IA",marion,IA,,42.011539,-93.210526
+"Marion, IL",marion,IL,,40.349457,-88.986137
+"Marion, IN",marion,IN,,39.849426,-86.258278
+"Marion, KS",marion,KS,,38.5266,-96.726486
+"Marion, KY",marion,KY,,37.66814,-84.670067
+"Marion, MO",marion,MO,,38.572954,-92.189283
+"Marion, MS",marion,MS,,32.741646,-89.678696
+"Marion, OH",marion,OH,,40.388783,-82.764915
+"Marion, OR",marion,OR,,44.572021,-122.070938
+"Marion, SC",marion,SC,,33.856892,-80.945007
+"Marion, TN",marion,TN,,35.747845,-86.692345
+"Marion, TX",marion,TX,,31.054487,-97.563461
+"Marion, WV",marion,WV,,38.491226,-80.954453
+"Mariposa, CA",mariposa,CA,,36.116203,-119.681564
+"Marlboro, SC",marlboro,SC,,33.856892,-80.945007
+"Marquette, MI",marquette,MI,,43.326618,-84.536095
+"Marquette, WI",marquette,WI,,44.268543,-89.616508
+"Marshall, AL",marshall,AL,,32.806671,-86.79113
+"Marshall, IA",marshall,IA,,42.011539,-93.210526
+"Marshall, IL",marshall,IL,,40.349457,-88.986137
+"Marshall, IN",marshall,IN,,39.849426,-86.258278
+"Marshall, KS",marshall,KS,,38.5266,-96.726486
+"Marshall, KY",marshall,KY,,37.66814,-84.670067
+"Marshall, MN",marshall,MN,,45.694454,-93.900192
+"Marshall, MS",marshall,MS,,32.741646,-89.678696
+"Marshall, OK",marshall,OK,,35.565342,-96.928917
+"Marshall, SD",marshall,SD,,44.299782,-99.438828
+"Marshall, TN",marshall,TN,,35.747845,-86.692345
+"Marshall, WV",marshall,WV,,38.491226,-80.954453
+"Martin, FL",martin,FL,,27.766279,-81.686783
+"Martin, IN",martin,IN,,39.849426,-86.258278
+"Martin, KY",martin,KY,,37.66814,-84.670067
+"Martin, MN",martin,MN,,45.694454,-93.900192
+"Martin, NC",martin,NC,,35.630066,-79.806419
+"Martin, TX",martin,TX,,31.054487,-97.563461
+"Martinsville City, VA",martinsville city,VA,,37.769337,-78.169968
+"Mason, IL",mason,IL,,40.349457,-88.986137
+"Mason, KY",mason,KY,,37.66814,-84.670067
+"Mason, MI",mason,MI,,43.326618,-84.536095
+"Mason, TX",mason,TX,,31.054487,-97.563461
+"Mason, WA",mason,WA,,47.400902,-121.490494
+"Mason, WV",mason,WV,,38.491226,-80.954453
+"Massac, IL",massac,IL,,40.349457,-88.986137
+"Matagorda, TX",matagorda,TX,,31.054487,-97.563461
+"Matanuska-Susitna Borough, AK",matanuska-susitna borough,AK,,61.370716,-152.404419
+"Mathews, VA",mathews,VA,,37.769337,-78.169968
+"Maui + Kalawao, HI",maui + kalawao,HI,,21.094318,-157.498337
+"Maury, TN",maury,TN,,35.747845,-86.692345
+"Maverick, TX",maverick,TX,,31.054487,-97.563461
+"Mayes, OK",mayes,OK,,35.565342,-96.928917
+"Mcclain, OK",mcclain,OK,,35.565342,-96.928917
+"Mccone, MT",mccone,MT,,46.921925,-110.454353
+"Mccook, SD",mccook,SD,,44.299782,-99.438828
+"Mccormick, SC",mccormick,SC,,33.856892,-80.945007
+"Mccracken, KY",mccracken,KY,,37.66814,-84.670067
+"Mccreary, KY",mccreary,KY,,37.66814,-84.670067
+"Mcculloch, TX",mcculloch,TX,,31.054487,-97.563461
+"Mccurtain, OK",mccurtain,OK,,35.565342,-96.928917
+"Mcdonald, MO",mcdonald,MO,,38.572954,-92.189283
+"Mcdonough, IL",mcdonough,IL,,40.349457,-88.986137
+"Mcdowell, NC",mcdowell,NC,,35.630066,-79.806419
+"Mcdowell, WV",mcdowell,WV,,38.491226,-80.954453
+"Mcduffie, GA",mcduffie,GA,,33.040619,-83.643074
+"Mchenry, IL",mchenry,IL,,40.349457,-88.986137
+"Mchenry, ND",mchenry,ND,,47.528912,-99.784012
+"Mcintosh, GA",mcintosh,GA,,33.040619,-83.643074
+"Mcintosh, ND",mcintosh,ND,,47.528912,-99.784012
+"Mcintosh, OK",mcintosh,OK,,35.565342,-96.928917
+"Mckean, PA",mckean,PA,,40.590752,-77.209755
+"Mckenzie, ND",mckenzie,ND,,47.528912,-99.784012
+"Mckinley, NM",mckinley,NM,,34.840515,-106.248482
+"Mclean, IL",mclean,IL,,40.349457,-88.986137
+"Mclean, KY",mclean,KY,,37.66814,-84.670067
+"Mclean, ND",mclean,ND,,47.528912,-99.784012
+"Mclennan, TX",mclennan,TX,,31.054487,-97.563461
+"Mcleod, MN",mcleod,MN,,45.694454,-93.900192
+"Mcminn, TN",mcminn,TN,,35.747845,-86.692345
+"Mcmullen, TX",mcmullen,TX,,31.054487,-97.563461
+"Mcnairy, TN",mcnairy,TN,,35.747845,-86.692345
+"Mcpherson, KS",mcpherson,KS,,38.5266,-96.726486
+"Mcpherson, NE",mcpherson,NE,,41.12537,-98.268082
+"Mcpherson, SD",mcpherson,SD,,44.299782,-99.438828
+"Meade, KS",meade,KS,,38.5266,-96.726486
+"Meade, KY",meade,KY,,37.66814,-84.670067
+"Meade, SD",meade,SD,,44.299782,-99.438828
+"Meagher, MT",meagher,MT,,46.921925,-110.454353
+"Mecklenburg, NC",mecklenburg,NC,,35.630066,-79.806419
+"Mecklenburg, VA",mecklenburg,VA,,37.769337,-78.169968
+"Mecosta, MI",mecosta,MI,,43.326618,-84.536095
+"Medina, OH",medina,OH,,40.388783,-82.764915
+"Medina, TX",medina,TX,,31.054487,-97.563461
+"Meeker, MN",meeker,MN,,45.694454,-93.900192
+"Meigs, OH",meigs,OH,,40.388783,-82.764915
+"Meigs, TN",meigs,TN,,35.747845,-86.692345
+"Mellette, SD",mellette,SD,,44.299782,-99.438828
+"Menard, IL",menard,IL,,40.349457,-88.986137
+"Menard, TX",menard,TX,,31.054487,-97.563461
+"Mendocino, CA",mendocino,CA,,36.116203,-119.681564
+"Menifee, KY",menifee,KY,,37.66814,-84.670067
+"Menominee, MI",menominee,MI,,43.326618,-84.536095
+"Menominee, WI",menominee,WI,,44.268543,-89.616508
+"Merced, CA",merced,CA,,36.116203,-119.681564
+"Mercer, IL",mercer,IL,,40.349457,-88.986137
+"Mercer, KY",mercer,KY,,37.66814,-84.670067
+"Mercer, MO",mercer,MO,,38.572954,-92.189283
+"Mercer, ND",mercer,ND,,47.528912,-99.784012
+"Mercer, NJ",mercer,NJ,,40.298904,-74.521011
+"Mercer, OH",mercer,OH,,40.388783,-82.764915
+"Mercer, PA",mercer,PA,,40.590752,-77.209755
+"Mercer, WV",mercer,WV,,38.491226,-80.954453
+"Meriwether, GA",meriwether,GA,,33.040619,-83.643074
+"Merrick, NE",merrick,NE,,41.12537,-98.268082
+"Merrimack, NH",merrimack,NH,,43.452492,-71.563896
+"Mesa, CO",mesa,CO,,39.059811,-105.311104
+"Metcalfe, KY",metcalfe,KY,,37.66814,-84.670067
+"Miami, IN",miami,IN,,39.849426,-86.258278
+"Miami, KS",miami,KS,,38.5266,-96.726486
+"Miami, OH",miami,OH,,40.388783,-82.764915
+"Miami-Dade, FL",miami-dade,FL,,27.766279,-81.686783
+"Middlesex, MA",middlesex,MA,,42.230171,-71.530106
+"Middlesex, NJ",middlesex,NJ,,40.298904,-74.521011
+"Middlesex, VA",middlesex,VA,,37.769337,-78.169968
+"Midland, MI",midland,MI,,43.326618,-84.536095
+"Midland, TX",midland,TX,,31.054487,-97.563461
+"Mifflin, PA",mifflin,PA,,40.590752,-77.209755
+"Milam, TX",milam,TX,,31.054487,-97.563461
+"Millard, UT",millard,UT,,40.150032,-111.862434
+"Mille Lacs, MN",mille lacs,MN,,45.694454,-93.900192
+"Miller, AR",miller,AR,,34.969704,-92.373123
+"Miller, GA",miller,GA,,33.040619,-83.643074
+"Miller, MO",miller,MO,,38.572954,-92.189283
+"Mills, IA",mills,IA,,42.011539,-93.210526
+"Mills, TX",mills,TX,,31.054487,-97.563461
+"Milwaukee, WI",milwaukee,WI,,44.268543,-89.616508
+"Miner, SD",miner,SD,,44.299782,-99.438828
+"Mineral, CO",mineral,CO,,39.059811,-105.311104
+"Mineral, MT",mineral,MT,,46.921925,-110.454353
+"Mineral, NV",mineral,NV,,38.313515,-117.055374
+"Mineral, WV",mineral,WV,,38.491226,-80.954453
+"Mingo, WV",mingo,WV,,38.491226,-80.954453
+"Minidoka, ID",minidoka,ID,,44.240459,-114.478828
+"Minnehaha, SD",minnehaha,SD,,44.299782,-99.438828
+"Missaukee, MI",missaukee,MI,,43.326618,-84.536095
+"Mississippi, AR",mississippi,AR,,34.969704,-92.373123
+"Mississippi, MO",mississippi,MO,,38.572954,-92.189283
+"Missoula, MT",missoula,MT,,46.921925,-110.454353
+"Mitchell, GA",mitchell,GA,,33.040619,-83.643074
+"Mitchell, IA",mitchell,IA,,42.011539,-93.210526
+"Mitchell, KS",mitchell,KS,,38.5266,-96.726486
+"Mitchell, NC",mitchell,NC,,35.630066,-79.806419
+"Mitchell, TX",mitchell,TX,,31.054487,-97.563461
+"Mobile, AL",mobile,AL,,32.806671,-86.79113
+"Modoc, CA",modoc,CA,,36.116203,-119.681564
+"Moffat, CO",moffat,CO,,39.059811,-105.311104
+"Mohave, AZ",mohave,AZ,,33.729759,-111.431221
+"Moniteau, MO",moniteau,MO,,38.572954,-92.189283
+"Monmouth, NJ",monmouth,NJ,,40.298904,-74.521011
+"Mono, CA",mono,CA,,36.116203,-119.681564
+"Monona, IA",monona,IA,,42.011539,-93.210526
+"Monongalia, WV",monongalia,WV,,38.491226,-80.954453
+"Monroe, AL",monroe,AL,,32.806671,-86.79113
+"Monroe, AR",monroe,AR,,34.969704,-92.373123
+"Monroe, FL",monroe,FL,,27.766279,-81.686783
+"Monroe, GA",monroe,GA,,33.040619,-83.643074
+"Monroe, IA",monroe,IA,,42.011539,-93.210526
+"Monroe, IL",monroe,IL,,40.349457,-88.986137
+"Monroe, IN",monroe,IN,,39.849426,-86.258278
+"Monroe, KY",monroe,KY,,37.66814,-84.670067
+"Monroe, MI",monroe,MI,,43.326618,-84.536095
+"Monroe, MO",monroe,MO,,38.572954,-92.189283
+"Monroe, MS",monroe,MS,,32.741646,-89.678696
+"Monroe, NY",monroe,NY,,42.165726,-74.948051
+"Monroe, OH",monroe,OH,,40.388783,-82.764915
+"Monroe, PA",monroe,PA,,40.590752,-77.209755
+"Monroe, TN",monroe,TN,,35.747845,-86.692345
+"Monroe, WI",monroe,WI,,44.268543,-89.616508
+"Monroe, WV",monroe,WV,,38.491226,-80.954453
+"Montague, TX",montague,TX,,31.054487,-97.563461
+"Montcalm, MI",montcalm,MI,,43.326618,-84.536095
+"Monterey, CA",monterey,CA,,36.116203,-119.681564
+"Montezuma, CO",montezuma,CO,,39.059811,-105.311104
+"Montgomery, AL",montgomery,AL,,32.806671,-86.79113
+"Montgomery, AR",montgomery,AR,,34.969704,-92.373123
+"Montgomery, GA",montgomery,GA,,33.040619,-83.643074
+"Montgomery, IA",montgomery,IA,,42.011539,-93.210526
+"Montgomery, IL",montgomery,IL,,40.349457,-88.986137
+"Montgomery, IN",montgomery,IN,,39.849426,-86.258278
+"Montgomery, KS",montgomery,KS,,38.5266,-96.726486
+"Montgomery, KY",montgomery,KY,,37.66814,-84.670067
+"Montgomery, MD",montgomery,MD,,39.063946,-76.802101
+"Montgomery, MO",montgomery,MO,,38.572954,-92.189283
+"Montgomery, MS",montgomery,MS,,32.741646,-89.678696
+"Montgomery, NC",montgomery,NC,,35.630066,-79.806419
+"Montgomery, NY",montgomery,NY,,42.165726,-74.948051
+"Montgomery, OH",montgomery,OH,,40.388783,-82.764915
+"Montgomery, PA",montgomery,PA,,40.590752,-77.209755
+"Montgomery, TN",montgomery,TN,,35.747845,-86.692345
+"Montgomery, TX",montgomery,TX,,31.054487,-97.563461
+"Montgomery, VA",montgomery,VA,,37.769337,-78.169968
+"Montmorency, MI",montmorency,MI,,43.326618,-84.536095
+"Montour, PA",montour,PA,,40.590752,-77.209755
+"Montrose, CO",montrose,CO,,39.059811,-105.311104
+"Moody, SD",moody,SD,,44.299782,-99.438828
+"Moore, NC",moore,NC,,35.630066,-79.806419
+"Moore, TN",moore,TN,,35.747845,-86.692345
+"Moore, TX",moore,TX,,31.054487,-97.563461
+"Mora, NM",mora,NM,,34.840515,-106.248482
+"Morehouse Parish, LA",morehouse parish,LA,,31.169546,-91.867805
+"Morgan, AL",morgan,AL,,32.806671,-86.79113
+"Morgan, CO",morgan,CO,,39.059811,-105.311104
+"Morgan, GA",morgan,GA,,33.040619,-83.643074
+"Morgan, IL",morgan,IL,,40.349457,-88.986137
+"Morgan, IN",morgan,IN,,39.849426,-86.258278
+"Morgan, KY",morgan,KY,,37.66814,-84.670067
+"Morgan, MO",morgan,MO,,38.572954,-92.189283
+"Morgan, OH",morgan,OH,,40.388783,-82.764915
+"Morgan, TN",morgan,TN,,35.747845,-86.692345
+"Morgan, UT",morgan,UT,,40.150032,-111.862434
+"Morgan, WV",morgan,WV,,38.491226,-80.954453
+"Morrill, NE",morrill,NE,,41.12537,-98.268082
+"Morris, KS",morris,KS,,38.5266,-96.726486
+"Morris, NJ",morris,NJ,,40.298904,-74.521011
+"Morris, TX",morris,TX,,31.054487,-97.563461
+"Morrison, MN",morrison,MN,,45.694454,-93.900192
+"Morrow, OH",morrow,OH,,40.388783,-82.764915
+"Morrow, OR",morrow,OR,,44.572021,-122.070938
+"Morton, KS",morton,KS,,38.5266,-96.726486
+"Morton, ND",morton,ND,,47.528912,-99.784012
+"Motley, TX",motley,TX,,31.054487,-97.563461
+"Moultrie, IL",moultrie,IL,,40.349457,-88.986137
+"Mountrail, ND",mountrail,ND,,47.528912,-99.784012
+"Mower, MN",mower,MN,,45.694454,-93.900192
+"Muhlenberg, KY",muhlenberg,KY,,37.66814,-84.670067
+"Multnomah, OR",multnomah,OR,,44.572021,-122.070938
+"Murray, GA",murray,GA,,33.040619,-83.643074
+"Murray, MN",murray,MN,,45.694454,-93.900192
+"Murray, OK",murray,OK,,35.565342,-96.928917
+"Muscatine, IA",muscatine,IA,,42.011539,-93.210526
+"Muscogee, GA",muscogee,GA,,33.040619,-83.643074
+"Muskegon, MI",muskegon,MI,,43.326618,-84.536095
+"Muskingum, OH",muskingum,OH,,40.388783,-82.764915
+"Muskogee, OK",muskogee,OK,,35.565342,-96.928917
+"Musselshell, MT",musselshell,MT,,46.921925,-110.454353
+"Nacogdoches, TX",nacogdoches,TX,,31.054487,-97.563461
+"Nance, NE",nance,NE,,41.12537,-98.268082
+"Nantucket, MA",nantucket,MA,,42.230171,-71.530106
+"Napa, CA",napa,CA,,36.116203,-119.681564
+"Nash, NC",nash,NC,,35.630066,-79.806419
+"Nassau, FL",nassau,FL,,27.766279,-81.686783
+"Nassau, NY",nassau,NY,,42.165726,-74.948051
+"Natchitoches Parish, LA",natchitoches parish,LA,,31.169546,-91.867805
+"Natrona, WY",natrona,WY,,42.755966,-107.30249
+"Naugatuck Valley Planning Region, CT",naugatuck valley planning region,CT,,41.597782,-72.755371
+"Navajo, AZ",navajo,AZ,,33.729759,-111.431221
+"Navarro, TX",navarro,TX,,31.054487,-97.563461
+"Nelson, KY",nelson,KY,,37.66814,-84.670067
+"Nelson, ND",nelson,ND,,47.528912,-99.784012
+"Nelson, VA",nelson,VA,,37.769337,-78.169968
+"Nemaha, KS",nemaha,KS,,38.5266,-96.726486
+"Nemaha, NE",nemaha,NE,,41.12537,-98.268082
+"Neosho, KS",neosho,KS,,38.5266,-96.726486
+"Neshoba, MS",neshoba,MS,,32.741646,-89.678696
+"Ness, KS",ness,KS,,38.5266,-96.726486
+"Nevada, AR",nevada,AR,,34.969704,-92.373123
+"Nevada, CA",nevada,CA,,36.116203,-119.681564
+"New Castle, DE",new castle,DE,,39.318523,-75.507141
+"New Hanover, NC",new hanover,NC,,35.630066,-79.806419
+"New Kent, VA",new kent,VA,,37.769337,-78.169968
+"New Madrid, MO",new madrid,MO,,38.572954,-92.189283
+"New York, NY",new york,NY,,42.165726,-74.948051
+"Newaygo, MI",newaygo,MI,,43.326618,-84.536095
+"Newberry, SC",newberry,SC,,33.856892,-80.945007
+"Newport, RI",newport,RI,,41.680893,-71.51178
+"Newport News City, VA",newport news city,VA,,37.769337,-78.169968
+"Newton, AR",newton,AR,,34.969704,-92.373123
+"Newton, GA",newton,GA,,33.040619,-83.643074
+"Newton, IN",newton,IN,,39.849426,-86.258278
+"Newton, MO",newton,MO,,38.572954,-92.189283
+"Newton, MS",newton,MS,,32.741646,-89.678696
+"Newton, TX",newton,TX,,31.054487,-97.563461
+"Nez Perce, ID",nez perce,ID,,44.240459,-114.478828
+"Niagara, NY",niagara,NY,,42.165726,-74.948051
+"Nicholas, KY",nicholas,KY,,37.66814,-84.670067
+"Nicholas, WV",nicholas,WV,,38.491226,-80.954453
+"Nicollet, MN",nicollet,MN,,45.694454,-93.900192
+"Niobrara, WY",niobrara,WY,,42.755966,-107.30249
+"Noble, IN",noble,IN,,39.849426,-86.258278
+"Noble, OH",noble,OH,,40.388783,-82.764915
+"Noble, OK",noble,OK,,35.565342,-96.928917
+"Nobles, MN",nobles,MN,,45.694454,-93.900192
+"Nodaway, MO",nodaway,MO,,38.572954,-92.189283
+"Nolan, TX",nolan,TX,,31.054487,-97.563461
+"Nome Census Area, AK",nome census area,AK,,61.370716,-152.404419
+"Norfolk, MA",norfolk,MA,,42.230171,-71.530106
+"Norfolk City, VA",norfolk city,VA,,37.769337,-78.169968
+"Norman, MN",norman,MN,,45.694454,-93.900192
+"North Slope Borough, AK",north slope borough,AK,,61.370716,-152.404419
+"Northampton, NC",northampton,NC,,35.630066,-79.806419
+"Northampton, PA",northampton,PA,,40.590752,-77.209755
+"Northampton, VA",northampton,VA,,37.769337,-78.169968
+"Northeastern Connecticut Planning Region, CT",northeastern connecticut planning region,CT,,41.597782,-72.755371
+"Northumberland, PA",northumberland,PA,,40.590752,-77.209755
+"Northumberland, VA",northumberland,VA,,37.769337,-78.169968
+"Northwest Arctic Borough, AK",northwest arctic borough,AK,,61.370716,-152.404419
+"Northwest Hills Planning Region, CT",northwest hills planning region,CT,,41.597782,-72.755371
+"Norton, KS",norton,KS,,38.5266,-96.726486
+"Norton City, VA",norton city,VA,,37.769337,-78.169968
+"Nottoway, VA",nottoway,VA,,37.769337,-78.169968
+"Nowata, OK",nowata,OK,,35.565342,-96.928917
+"Noxubee, MS",noxubee,MS,,32.741646,-89.678696
+"Nuckolls, NE",nuckolls,NE,,41.12537,-98.268082
+"Nueces, TX",nueces,TX,,31.054487,-97.563461
+"Nye, NV",nye,NV,,38.313515,-117.055374
+"Oakland, MI",oakland,MI,,43.326618,-84.536095
+"Obion, TN",obion,TN,,35.747845,-86.692345
+"Obrien, IA",obrien,IA,,42.011539,-93.210526
+"Ocean, NJ",ocean,NJ,,40.298904,-74.521011
+"Oceana, MI",oceana,MI,,43.326618,-84.536095
+"Ochiltree, TX",ochiltree,TX,,31.054487,-97.563461
+"Oconee, GA",oconee,GA,,33.040619,-83.643074
+"Oconee, SC",oconee,SC,,33.856892,-80.945007
+"Oconto, WI",oconto,WI,,44.268543,-89.616508
+"Ogemaw, MI",ogemaw,MI,,43.326618,-84.536095
+"Oglala Lakota, SD",oglala lakota,SD,,44.299782,-99.438828
+"Ogle, IL",ogle,IL,,40.349457,-88.986137
+"Oglethorpe, GA",oglethorpe,GA,,33.040619,-83.643074
+"Ohio, IN",ohio,IN,,39.849426,-86.258278
+"Ohio, KY",ohio,KY,,37.66814,-84.670067
+"Ohio, WV",ohio,WV,,38.491226,-80.954453
+"Okaloosa, FL",okaloosa,FL,,27.766279,-81.686783
+"Okanogan, WA",okanogan,WA,,47.400902,-121.490494
+"Okeechobee, FL",okeechobee,FL,,27.766279,-81.686783
+"Okfuskee, OK",okfuskee,OK,,35.565342,-96.928917
+"Oklahoma, OK",oklahoma,OK,,35.565342,-96.928917
+"Okmulgee, OK",okmulgee,OK,,35.565342,-96.928917
+"Oktibbeha, MS",oktibbeha,MS,,32.741646,-89.678696
+"Oldham, KY",oldham,KY,,37.66814,-84.670067
+"Oldham, TX",oldham,TX,,31.054487,-97.563461
+"Oliver, ND",oliver,ND,,47.528912,-99.784012
+"Olmsted, MN",olmsted,MN,,45.694454,-93.900192
+"Oneida, ID",oneida,ID,,44.240459,-114.478828
+"Oneida, NY",oneida,NY,,42.165726,-74.948051
+"Oneida, WI",oneida,WI,,44.268543,-89.616508
+"Onondaga, NY",onondaga,NY,,42.165726,-74.948051
+"Onslow, NC",onslow,NC,,35.630066,-79.806419
+"Ontario, NY",ontario,NY,,42.165726,-74.948051
+"Ontonagon, MI",ontonagon,MI,,43.326618,-84.536095
+"Orange, CA",orange,CA,,36.116203,-119.681564
+"Orange, FL",orange,FL,,27.766279,-81.686783
+"Orange, IN",orange,IN,,39.849426,-86.258278
+"Orange, NC",orange,NC,,35.630066,-79.806419
+"Orange, NY",orange,NY,,42.165726,-74.948051
+"Orange, TX",orange,TX,,31.054487,-97.563461
+"Orange, VA",orange,VA,,37.769337,-78.169968
+"Orange, VT",orange,VT,,44.045876,-72.710686
+"Orangeburg, SC",orangeburg,SC,,33.856892,-80.945007
+"Oregon, MO",oregon,MO,,38.572954,-92.189283
+"Orleans, NY",orleans,NY,,42.165726,-74.948051
+"Orleans, VT",orleans,VT,,44.045876,-72.710686
+"Orleans Parish, LA",orleans parish,LA,,31.169546,-91.867805
+"Osage, KS",osage,KS,,38.5266,-96.726486
+"Osage, MO",osage,MO,,38.572954,-92.189283
+"Osage, OK",osage,OK,,35.565342,-96.928917
+"Osborne, KS",osborne,KS,,38.5266,-96.726486
+"Osceola, FL",osceola,FL,,27.766279,-81.686783
+"Osceola, IA",osceola,IA,,42.011539,-93.210526
+"Osceola, MI",osceola,MI,,43.326618,-84.536095
+"Oscoda, MI",oscoda,MI,,43.326618,-84.536095
+"Oswego, NY",oswego,NY,,42.165726,-74.948051
+"Otero, CO",otero,CO,,39.059811,-105.311104
+"Otero, NM",otero,NM,,34.840515,-106.248482
+"Otoe, NE",otoe,NE,,41.12537,-98.268082
+"Otsego, MI",otsego,MI,,43.326618,-84.536095
+"Otsego, NY",otsego,NY,,42.165726,-74.948051
+"Ottawa, KS",ottawa,KS,,38.5266,-96.726486
+"Ottawa, MI",ottawa,MI,,43.326618,-84.536095
+"Ottawa, OH",ottawa,OH,,40.388783,-82.764915
+"Ottawa, OK",ottawa,OK,,35.565342,-96.928917
+"Otter Tail, MN",otter tail,MN,,45.694454,-93.900192
+"Ouachita, AR",ouachita,AR,,34.969704,-92.373123
+"Ouachita Parish, LA",ouachita parish,LA,,31.169546,-91.867805
+"Ouray, CO",ouray,CO,,39.059811,-105.311104
+"Outagamie, WI",outagamie,WI,,44.268543,-89.616508
+"Overton, TN",overton,TN,,35.747845,-86.692345
+"Owen, IN",owen,IN,,39.849426,-86.258278
+"Owen, KY",owen,KY,,37.66814,-84.670067
+"Owsley, KY",owsley,KY,,37.66814,-84.670067
+"Owyhee, ID",owyhee,ID,,44.240459,-114.478828
+"Oxford, ME",oxford,ME,,44.323535,-69.765261
+"Ozark, MO",ozark,MO,,38.572954,-92.189283
+"Ozaukee, WI",ozaukee,WI,,44.268543,-89.616508
+"Pacific, WA",pacific,WA,,47.400902,-121.490494
+"Page, IA",page,IA,,42.011539,-93.210526
+"Page, VA",page,VA,,37.769337,-78.169968
+"Palm Beach, FL",palm beach,FL,,27.766279,-81.686783
+"Palo Alto, IA",palo alto,IA,,42.011539,-93.210526
+"Palo Pinto, TX",palo pinto,TX,,31.054487,-97.563461
+"Pamlico, NC",pamlico,NC,,35.630066,-79.806419
+"Panola, MS",panola,MS,,32.741646,-89.678696
+"Panola, TX",panola,TX,,31.054487,-97.563461
+"Park, CO",park,CO,,39.059811,-105.311104
+"Park, MT",park,MT,,46.921925,-110.454353
+"Park, WY",park,WY,,42.755966,-107.30249
+"Parke, IN",parke,IN,,39.849426,-86.258278
+"Parker, TX",parker,TX,,31.054487,-97.563461
+"Parmer, TX",parmer,TX,,31.054487,-97.563461
+"Pasco, FL",pasco,FL,,27.766279,-81.686783
+"Pasquotank, NC",pasquotank,NC,,35.630066,-79.806419
+"Passaic, NJ",passaic,NJ,,40.298904,-74.521011
+"Patrick, VA",patrick,VA,,37.769337,-78.169968
+"Paulding, GA",paulding,GA,,33.040619,-83.643074
+"Paulding, OH",paulding,OH,,40.388783,-82.764915
+"Pawnee, KS",pawnee,KS,,38.5266,-96.726486
+"Pawnee, NE",pawnee,NE,,41.12537,-98.268082
+"Pawnee, OK",pawnee,OK,,35.565342,-96.928917
+"Payette, ID",payette,ID,,44.240459,-114.478828
+"Payne, OK",payne,OK,,35.565342,-96.928917
+"Peach, GA",peach,GA,,33.040619,-83.643074
+"Pearl River, MS",pearl river,MS,,32.741646,-89.678696
+"Pecos, TX",pecos,TX,,31.054487,-97.563461
+"Pembina, ND",pembina,ND,,47.528912,-99.784012
+"Pemiscot, MO",pemiscot,MO,,38.572954,-92.189283
+"Pend Oreille, WA",pend oreille,WA,,47.400902,-121.490494
+"Pender, NC",pender,NC,,35.630066,-79.806419
+"Pendleton, KY",pendleton,KY,,37.66814,-84.670067
+"Pendleton, WV",pendleton,WV,,38.491226,-80.954453
+"Pennington, MN",pennington,MN,,45.694454,-93.900192
+"Pennington, SD",pennington,SD,,44.299782,-99.438828
+"Penobscot, ME",penobscot,ME,,44.323535,-69.765261
+"Peoria, IL",peoria,IL,,40.349457,-88.986137
+"Pepin, WI",pepin,WI,,44.268543,-89.616508
+"Perkins, NE",perkins,NE,,41.12537,-98.268082
+"Perkins, SD",perkins,SD,,44.299782,-99.438828
+"Perquimans, NC",perquimans,NC,,35.630066,-79.806419
+"Perry, AL",perry,AL,,32.806671,-86.79113
+"Perry, AR",perry,AR,,34.969704,-92.373123
+"Perry, IL",perry,IL,,40.349457,-88.986137
+"Perry, IN",perry,IN,,39.849426,-86.258278
+"Perry, KY",perry,KY,,37.66814,-84.670067
+"Perry, MO",perry,MO,,38.572954,-92.189283
+"Perry, MS",perry,MS,,32.741646,-89.678696
+"Perry, OH",perry,OH,,40.388783,-82.764915
+"Perry, PA",perry,PA,,40.590752,-77.209755
+"Perry, TN",perry,TN,,35.747845,-86.692345
+"Pershing, NV",pershing,NV,,38.313515,-117.055374
+"Person, NC",person,NC,,35.630066,-79.806419
+"Petersburg Borough, AK",petersburg borough,AK,,61.370716,-152.404419
+"Petersburg City, VA",petersburg city,VA,,37.769337,-78.169968
+"Petroleum, MT",petroleum,MT,,46.921925,-110.454353
+"Pettis, MO",pettis,MO,,38.572954,-92.189283
+"Phelps, MO",phelps,MO,,38.572954,-92.189283
+"Phelps, NE",phelps,NE,,41.12537,-98.268082
+"Philadelphia, PA",philadelphia,PA,,40.590752,-77.209755
+"Phillips, AR",phillips,AR,,34.969704,-92.373123
+"Phillips, CO",phillips,CO,,39.059811,-105.311104
+"Phillips, KS",phillips,KS,,38.5266,-96.726486
+"Phillips, MT",phillips,MT,,46.921925,-110.454353
+"Piatt, IL",piatt,IL,,40.349457,-88.986137
+"Pickaway, OH",pickaway,OH,,40.388783,-82.764915
+"Pickens, AL",pickens,AL,,32.806671,-86.79113
+"Pickens, GA",pickens,GA,,33.040619,-83.643074
+"Pickens, SC",pickens,SC,,33.856892,-80.945007
+"Pickett, TN",pickett,TN,,35.747845,-86.692345
+"Pierce, GA",pierce,GA,,33.040619,-83.643074
+"Pierce, ND",pierce,ND,,47.528912,-99.784012
+"Pierce, NE",pierce,NE,,41.12537,-98.268082
+"Pierce, WA",pierce,WA,,47.400902,-121.490494
+"Pierce, WI",pierce,WI,,44.268543,-89.616508
+"Pike, AL",pike,AL,,32.806671,-86.79113
+"Pike, AR",pike,AR,,34.969704,-92.373123
+"Pike, GA",pike,GA,,33.040619,-83.643074
+"Pike, IL",pike,IL,,40.349457,-88.986137
+"Pike, IN",pike,IN,,39.849426,-86.258278
+"Pike, KY",pike,KY,,37.66814,-84.670067
+"Pike, MO",pike,MO,,38.572954,-92.189283
+"Pike, MS",pike,MS,,32.741646,-89.678696
+"Pike, OH",pike,OH,,40.388783,-82.764915
+"Pike, PA",pike,PA,,40.590752,-77.209755
+"Pima, AZ",pima,AZ,,33.729759,-111.431221
+"Pinal, AZ",pinal,AZ,,33.729759,-111.431221
+"Pine, MN",pine,MN,,45.694454,-93.900192
+"Pinellas, FL",pinellas,FL,,27.766279,-81.686783
+"Pipestone, MN",pipestone,MN,,45.694454,-93.900192
+"Piscataquis, ME",piscataquis,ME,,44.323535,-69.765261
+"Pitkin, CO",pitkin,CO,,39.059811,-105.311104
+"Pitt, NC",pitt,NC,,35.630066,-79.806419
+"Pittsburg, OK",pittsburg,OK,,35.565342,-96.928917
+"Pittsylvania, VA",pittsylvania,VA,,37.769337,-78.169968
+"Piute, UT",piute,UT,,40.150032,-111.862434
+"Placer, CA",placer,CA,,36.116203,-119.681564
+"Plaquemines Parish, LA",plaquemines parish,LA,,31.169546,-91.867805
+"Platte, MO",platte,MO,,38.572954,-92.189283
+"Platte, NE",platte,NE,,41.12537,-98.268082
+"Platte, WY",platte,WY,,42.755966,-107.30249
+"Pleasants, WV",pleasants,WV,,38.491226,-80.954453
+"Plumas, CA",plumas,CA,,36.116203,-119.681564
+"Plymouth, IA",plymouth,IA,,42.011539,-93.210526
+"Plymouth, MA",plymouth,MA,,42.230171,-71.530106
+"Pocahontas, IA",pocahontas,IA,,42.011539,-93.210526
+"Pocahontas, WV",pocahontas,WV,,38.491226,-80.954453
+"Poinsett, AR",poinsett,AR,,34.969704,-92.373123
+"Pointe Coupee Parish, LA",pointe coupee parish,LA,,31.169546,-91.867805
+"Polk, AR",polk,AR,,34.969704,-92.373123
+"Polk, FL",polk,FL,,27.766279,-81.686783
+"Polk, GA",polk,GA,,33.040619,-83.643074
+"Polk, IA",polk,IA,,42.011539,-93.210526
+"Polk, MN",polk,MN,,45.694454,-93.900192
+"Polk, MO",polk,MO,,38.572954,-92.189283
+"Polk, NC",polk,NC,,35.630066,-79.806419
+"Polk, NE",polk,NE,,41.12537,-98.268082
+"Polk, OR",polk,OR,,44.572021,-122.070938
+"Polk, TN",polk,TN,,35.747845,-86.692345
+"Polk, TX",polk,TX,,31.054487,-97.563461
+"Polk, WI",polk,WI,,44.268543,-89.616508
+"Pondera, MT",pondera,MT,,46.921925,-110.454353
+"Pontotoc, MS",pontotoc,MS,,32.741646,-89.678696
+"Pontotoc, OK",pontotoc,OK,,35.565342,-96.928917
+"Pope, AR",pope,AR,,34.969704,-92.373123
+"Pope, IL",pope,IL,,40.349457,-88.986137
+"Pope, MN",pope,MN,,45.694454,-93.900192
+"Poquoson City, VA",poquoson city,VA,,37.769337,-78.169968
+"Portage, OH",portage,OH,,40.388783,-82.764915
+"Portage, WI",portage,WI,,44.268543,-89.616508
+"Porter, IN",porter,IN,,39.849426,-86.258278
+"Portsmouth City, VA",portsmouth city,VA,,37.769337,-78.169968
+"Posey, IN",posey,IN,,39.849426,-86.258278
+"Pottawatomie, KS",pottawatomie,KS,,38.5266,-96.726486
+"Pottawatomie, OK",pottawatomie,OK,,35.565342,-96.928917
+"Pottawattamie, IA",pottawattamie,IA,,42.011539,-93.210526
+"Potter, PA",potter,PA,,40.590752,-77.209755
+"Potter, SD",potter,SD,,44.299782,-99.438828
+"Potter, TX",potter,TX,,31.054487,-97.563461
+"Powder River, MT",powder river,MT,,46.921925,-110.454353
+"Powell, KY",powell,KY,,37.66814,-84.670067
+"Powell, MT",powell,MT,,46.921925,-110.454353
+"Power, ID",power,ID,,44.240459,-114.478828
+"Poweshiek, IA",poweshiek,IA,,42.011539,-93.210526
+"Powhatan, VA",powhatan,VA,,37.769337,-78.169968
+"Prairie, AR",prairie,AR,,34.969704,-92.373123
+"Prairie, MT",prairie,MT,,46.921925,-110.454353
+"Pratt, KS",pratt,KS,,38.5266,-96.726486
+"Preble, OH",preble,OH,,40.388783,-82.764915
+"Prentiss, MS",prentiss,MS,,32.741646,-89.678696
+"Presidio, TX",presidio,TX,,31.054487,-97.563461
+"Presque Isle, MI",presque isle,MI,,43.326618,-84.536095
+"Preston, WV",preston,WV,,38.491226,-80.954453
+"Price, WI",price,WI,,44.268543,-89.616508
+"Prince Edward, VA",prince edward,VA,,37.769337,-78.169968
+"Prince George, VA",prince george,VA,,37.769337,-78.169968
+"Prince George'S, MD",prince george's,MD,,39.063946,-76.802101
+"Prince Of Wales-Hyder Census Area, AK",prince of wales-hyder census area,AK,,61.370716,-152.404419
+"Prince William, VA",prince william,VA,,37.769337,-78.169968
+"Providence, RI",providence,RI,,41.680893,-71.51178
+"Prowers, CO",prowers,CO,,39.059811,-105.311104
+"Pueblo, CO",pueblo,CO,,39.059811,-105.311104
+"Pulaski, AR",pulaski,AR,,34.969704,-92.373123
+"Pulaski, GA",pulaski,GA,,33.040619,-83.643074
+"Pulaski, IL",pulaski,IL,,40.349457,-88.986137
+"Pulaski, IN",pulaski,IN,,39.849426,-86.258278
+"Pulaski, KY",pulaski,KY,,37.66814,-84.670067
+"Pulaski, MO",pulaski,MO,,38.572954,-92.189283
+"Pulaski, VA",pulaski,VA,,37.769337,-78.169968
+"Pushmataha, OK",pushmataha,OK,,35.565342,-96.928917
+"Putnam, FL",putnam,FL,,27.766279,-81.686783
+"Putnam, GA",putnam,GA,,33.040619,-83.643074
+"Putnam, IL",putnam,IL,,40.349457,-88.986137
+"Putnam, IN",putnam,IN,,39.849426,-86.258278
+"Putnam, MO",putnam,MO,,38.572954,-92.189283
+"Putnam, NY",putnam,NY,,42.165726,-74.948051
+"Putnam, OH",putnam,OH,,40.388783,-82.764915
+"Putnam, TN",putnam,TN,,35.747845,-86.692345
+"Putnam, WV",putnam,WV,,38.491226,-80.954453
+"Quay, NM",quay,NM,,34.840515,-106.248482
+"Queen Anne'S, MD",queen anne's,MD,,39.063946,-76.802101
+"Queens, NY",queens,NY,,42.165726,-74.948051
+"Quitman, GA",quitman,GA,,33.040619,-83.643074
+"Quitman, MS",quitman,MS,,32.741646,-89.678696
+"Rabun, GA",rabun,GA,,33.040619,-83.643074
+"Racine, WI",racine,WI,,44.268543,-89.616508
+"Radford City, VA",radford city,VA,,37.769337,-78.169968
+"Rains, TX",rains,TX,,31.054487,-97.563461
+"Raleigh, WV",raleigh,WV,,38.491226,-80.954453
+"Ralls, MO",ralls,MO,,38.572954,-92.189283
+"Ramsey, MN",ramsey,MN,,45.694454,-93.900192
+"Ramsey, ND",ramsey,ND,,47.528912,-99.784012
+"Randall, TX",randall,TX,,31.054487,-97.563461
+"Randolph, AL",randolph,AL,,32.806671,-86.79113
+"Randolph, AR",randolph,AR,,34.969704,-92.373123
+"Randolph, GA",randolph,GA,,33.040619,-83.643074
+"Randolph, IL",randolph,IL,,40.349457,-88.986137
+"Randolph, IN",randolph,IN,,39.849426,-86.258278
+"Randolph, MO",randolph,MO,,38.572954,-92.189283
+"Randolph, NC",randolph,NC,,35.630066,-79.806419
+"Randolph, WV",randolph,WV,,38.491226,-80.954453
+"Rankin, MS",rankin,MS,,32.741646,-89.678696
+"Ransom, ND",ransom,ND,,47.528912,-99.784012
+"Rapides Parish, LA",rapides parish,LA,,31.169546,-91.867805
+"Rappahannock, VA",rappahannock,VA,,37.769337,-78.169968
+"Ravalli, MT",ravalli,MT,,46.921925,-110.454353
+"Rawlins, KS",rawlins,KS,,38.5266,-96.726486
+"Ray, MO",ray,MO,,38.572954,-92.189283
+"Reagan, TX",reagan,TX,,31.054487,-97.563461
+"Real, TX",real,TX,,31.054487,-97.563461
+"Red Lake, MN",red lake,MN,,45.694454,-93.900192
+"Red River, TX",red river,TX,,31.054487,-97.563461
+"Red River Parish, LA",red river parish,LA,,31.169546,-91.867805
+"Red Willow, NE",red willow,NE,,41.12537,-98.268082
+"Redwood, MN",redwood,MN,,45.694454,-93.900192
+"Reeves, TX",reeves,TX,,31.054487,-97.563461
+"Refugio, TX",refugio,TX,,31.054487,-97.563461
+"Reno, KS",reno,KS,,38.5266,-96.726486
+"Rensselaer, NY",rensselaer,NY,,42.165726,-74.948051
+"Renville, MN",renville,MN,,45.694454,-93.900192
+"Renville, ND",renville,ND,,47.528912,-99.784012
+"Republic, KS",republic,KS,,38.5266,-96.726486
+"Reynolds, MO",reynolds,MO,,38.572954,-92.189283
+"Rhea, TN",rhea,TN,,35.747845,-86.692345
+"Rice, KS",rice,KS,,38.5266,-96.726486
+"Rice, MN",rice,MN,,45.694454,-93.900192
+"Rich, UT",rich,UT,,40.150032,-111.862434
+"Richardson, NE",richardson,NE,,41.12537,-98.268082
+"Richland, IL",richland,IL,,40.349457,-88.986137
+"Richland, MT",richland,MT,,46.921925,-110.454353
+"Richland, ND",richland,ND,,47.528912,-99.784012
+"Richland, OH",richland,OH,,40.388783,-82.764915
+"Richland, SC",richland,SC,,33.856892,-80.945007
+"Richland, WI",richland,WI,,44.268543,-89.616508
+"Richland Parish, LA",richland parish,LA,,31.169546,-91.867805
+"Richmond, GA",richmond,GA,,33.040619,-83.643074
+"Richmond, NC",richmond,NC,,35.630066,-79.806419
+"Richmond, NY",richmond,NY,,42.165726,-74.948051
+"Richmond, VA",richmond,VA,,37.769337,-78.169968
+"Richmond City, VA",richmond city,VA,,37.769337,-78.169968
+"Riley, KS",riley,KS,,38.5266,-96.726486
+"Ringgold, IA",ringgold,IA,,42.011539,-93.210526
+"Rio Arriba, NM",rio arriba,NM,,34.840515,-106.248482
+"Rio Blanco, CO",rio blanco,CO,,39.059811,-105.311104
+"Rio Grande, CO",rio grande,CO,,39.059811,-105.311104
+"Ripley, IN",ripley,IN,,39.849426,-86.258278
+"Ripley, MO",ripley,MO,,38.572954,-92.189283
+"Ritchie, WV",ritchie,WV,,38.491226,-80.954453
+"Riverside, CA",riverside,CA,,36.116203,-119.681564
+"Roane, TN",roane,TN,,35.747845,-86.692345
+"Roane, WV",roane,WV,,38.491226,-80.954453
+"Roanoke, VA",roanoke,VA,,37.769337,-78.169968
+"Roanoke City, VA",roanoke city,VA,,37.769337,-78.169968
+"Roberts, SD",roberts,SD,,44.299782,-99.438828
+"Roberts, TX",roberts,TX,,31.054487,-97.563461
+"Robertson, KY",robertson,KY,,37.66814,-84.670067
+"Robertson, TN",robertson,TN,,35.747845,-86.692345
+"Robertson, TX",robertson,TX,,31.054487,-97.563461
+"Robeson, NC",robeson,NC,,35.630066,-79.806419
+"Rock, MN",rock,MN,,45.694454,-93.900192
+"Rock, NE",rock,NE,,41.12537,-98.268082
+"Rock, WI",rock,WI,,44.268543,-89.616508
+"Rock Island, IL",rock island,IL,,40.349457,-88.986137
+"Rockbridge, VA",rockbridge,VA,,37.769337,-78.169968
+"Rockcastle, KY",rockcastle,KY,,37.66814,-84.670067
+"Rockdale, GA",rockdale,GA,,33.040619,-83.643074
+"Rockingham, NC",rockingham,NC,,35.630066,-79.806419
+"Rockingham, NH",rockingham,NH,,43.452492,-71.563896
+"Rockingham, VA",rockingham,VA,,37.769337,-78.169968
+"Rockland, NY",rockland,NY,,42.165726,-74.948051
+"Rockwall, TX",rockwall,TX,,31.054487,-97.563461
+"Roger Mills, OK",roger mills,OK,,35.565342,-96.928917
+"Rogers, OK",rogers,OK,,35.565342,-96.928917
+"Rolette, ND",rolette,ND,,47.528912,-99.784012
+"Rooks, KS",rooks,KS,,38.5266,-96.726486
+"Roosevelt, MT",roosevelt,MT,,46.921925,-110.454353
+"Roosevelt, NM",roosevelt,NM,,34.840515,-106.248482
+"Roscommon, MI",roscommon,MI,,43.326618,-84.536095
+"Roseau, MN",roseau,MN,,45.694454,-93.900192
+"Rosebud, MT",rosebud,MT,,46.921925,-110.454353
+"Ross, OH",ross,OH,,40.388783,-82.764915
+"Routt, CO",routt,CO,,39.059811,-105.311104
+"Rowan, KY",rowan,KY,,37.66814,-84.670067
+"Rowan, NC",rowan,NC,,35.630066,-79.806419
+"Runnels, TX",runnels,TX,,31.054487,-97.563461
+"Rush, IN",rush,IN,,39.849426,-86.258278
+"Rush, KS",rush,KS,,38.5266,-96.726486
+"Rusk, TX",rusk,TX,,31.054487,-97.563461
+"Rusk, WI",rusk,WI,,44.268543,-89.616508
+"Russell, AL",russell,AL,,32.806671,-86.79113
+"Russell, KS",russell,KS,,38.5266,-96.726486
+"Russell, KY",russell,KY,,37.66814,-84.670067
+"Russell, VA",russell,VA,,37.769337,-78.169968
+"Rutherford, NC",rutherford,NC,,35.630066,-79.806419
+"Rutherford, TN",rutherford,TN,,35.747845,-86.692345
+"Rutland, VT",rutland,VT,,44.045876,-72.710686
+"Sabine, TX",sabine,TX,,31.054487,-97.563461
+"Sabine Parish, LA",sabine parish,LA,,31.169546,-91.867805
+"Sac, IA",sac,IA,,42.011539,-93.210526
+"Sacramento, CA",sacramento,CA,,36.116203,-119.681564
+"Sagadahoc, ME",sagadahoc,ME,,44.323535,-69.765261
+"Saginaw, MI",saginaw,MI,,43.326618,-84.536095
+"Saguache, CO",saguache,CO,,39.059811,-105.311104
+"Salem, NJ",salem,NJ,,40.298904,-74.521011
+"Salem City, VA",salem city,VA,,37.769337,-78.169968
+"Saline, AR",saline,AR,,34.969704,-92.373123
+"Saline, IL",saline,IL,,40.349457,-88.986137
+"Saline, KS",saline,KS,,38.5266,-96.726486
+"Saline, MO",saline,MO,,38.572954,-92.189283
+"Saline, NE",saline,NE,,41.12537,-98.268082
+"Salt Lake, UT",salt lake,UT,,40.150032,-111.862434
+"Saluda, SC",saluda,SC,,33.856892,-80.945007
+"Sampson, NC",sampson,NC,,35.630066,-79.806419
+"San Augustine, TX",san augustine,TX,,31.054487,-97.563461
+"San Benito, CA",san benito,CA,,36.116203,-119.681564
+"San Bernardino, CA",san bernardino,CA,,36.116203,-119.681564
+"San Diego, CA",san diego,CA,,36.116203,-119.681564
+"San Francisco, CA",san francisco,CA,,36.116203,-119.681564
+"San Jacinto, TX",san jacinto,TX,,31.054487,-97.563461
+"San Joaquin, CA",san joaquin,CA,,36.116203,-119.681564
+"San Juan, CO",san juan,CO,,39.059811,-105.311104
+"San Juan, NM",san juan,NM,,34.840515,-106.248482
+"San Juan, UT",san juan,UT,,40.150032,-111.862434
+"San Juan, WA",san juan,WA,,47.400902,-121.490494
+"San Luis Obispo, CA",san luis obispo,CA,,36.116203,-119.681564
+"San Mateo, CA",san mateo,CA,,36.116203,-119.681564
+"San Miguel, CO",san miguel,CO,,39.059811,-105.311104
+"San Miguel, NM",san miguel,NM,,34.840515,-106.248482
+"San Patricio, TX",san patricio,TX,,31.054487,-97.563461
+"San Saba, TX",san saba,TX,,31.054487,-97.563461
+"Sanborn, SD",sanborn,SD,,44.299782,-99.438828
+"Sanders, MT",sanders,MT,,46.921925,-110.454353
+"Sandoval, NM",sandoval,NM,,34.840515,-106.248482
+"Sandusky, OH",sandusky,OH,,40.388783,-82.764915
+"Sangamon, IL",sangamon,IL,,40.349457,-88.986137
+"Sanilac, MI",sanilac,MI,,43.326618,-84.536095
+"Sanpete, UT",sanpete,UT,,40.150032,-111.862434
+"Santa Barbara, CA",santa barbara,CA,,36.116203,-119.681564
+"Santa Clara, CA",santa clara,CA,,36.116203,-119.681564
+"Santa Cruz, AZ",santa cruz,AZ,,33.729759,-111.431221
+"Santa Cruz, CA",santa cruz,CA,,36.116203,-119.681564
+"Santa Fe, NM",santa fe,NM,,34.840515,-106.248482
+"Santa Rosa, FL",santa rosa,FL,,27.766279,-81.686783
+"Sarasota, FL",sarasota,FL,,27.766279,-81.686783
+"Saratoga, NY",saratoga,NY,,42.165726,-74.948051
+"Sargent, ND",sargent,ND,,47.528912,-99.784012
+"Sarpy, NE",sarpy,NE,,41.12537,-98.268082
+"Sauk, WI",sauk,WI,,44.268543,-89.616508
+"Saunders, NE",saunders,NE,,41.12537,-98.268082
+"Sawyer, WI",sawyer,WI,,44.268543,-89.616508
+"Schenectady, NY",schenectady,NY,,42.165726,-74.948051
+"Schleicher, TX",schleicher,TX,,31.054487,-97.563461
+"Schley, GA",schley,GA,,33.040619,-83.643074
+"Schoharie, NY",schoharie,NY,,42.165726,-74.948051
+"Schoolcraft, MI",schoolcraft,MI,,43.326618,-84.536095
+"Schuyler, IL",schuyler,IL,,40.349457,-88.986137
+"Schuyler, MO",schuyler,MO,,38.572954,-92.189283
+"Schuyler, NY",schuyler,NY,,42.165726,-74.948051
+"Schuylkill, PA",schuylkill,PA,,40.590752,-77.209755
+"Scioto, OH",scioto,OH,,40.388783,-82.764915
+"Scotland, MO",scotland,MO,,38.572954,-92.189283
+"Scotland, NC",scotland,NC,,35.630066,-79.806419
+"Scott, AR",scott,AR,,34.969704,-92.373123
+"Scott, IA",scott,IA,,42.011539,-93.210526
+"Scott, IL",scott,IL,,40.349457,-88.986137
+"Scott, IN",scott,IN,,39.849426,-86.258278
+"Scott, KS",scott,KS,,38.5266,-96.726486
+"Scott, KY",scott,KY,,37.66814,-84.670067
+"Scott, MN",scott,MN,,45.694454,-93.900192
+"Scott, MO",scott,MO,,38.572954,-92.189283
+"Scott, MS",scott,MS,,32.741646,-89.678696
+"Scott, TN",scott,TN,,35.747845,-86.692345
+"Scott, VA",scott,VA,,37.769337,-78.169968
+"Scotts Bluff, NE",scotts bluff,NE,,41.12537,-98.268082
+"Screven, GA",screven,GA,,33.040619,-83.643074
+"Scurry, TX",scurry,TX,,31.054487,-97.563461
+"Searcy, AR",searcy,AR,,34.969704,-92.373123
+"Sebastian, AR",sebastian,AR,,34.969704,-92.373123
+"Sedgwick, CO",sedgwick,CO,,39.059811,-105.311104
+"Sedgwick, KS",sedgwick,KS,,38.5266,-96.726486
+"Seminole, FL",seminole,FL,,27.766279,-81.686783
+"Seminole, GA",seminole,GA,,33.040619,-83.643074
+"Seminole, OK",seminole,OK,,35.565342,-96.928917
+"Seneca, NY",seneca,NY,,42.165726,-74.948051
+"Seneca, OH",seneca,OH,,40.388783,-82.764915
+"Sequatchie, TN",sequatchie,TN,,35.747845,-86.692345
+"Sequoyah, OK",sequoyah,OK,,35.565342,-96.928917
+"Sevier, AR",sevier,AR,,34.969704,-92.373123
+"Sevier, TN",sevier,TN,,35.747845,-86.692345
+"Sevier, UT",sevier,UT,,40.150032,-111.862434
+"Seward, KS",seward,KS,,38.5266,-96.726486
+"Seward, NE",seward,NE,,41.12537,-98.268082
+"Shackelford, TX",shackelford,TX,,31.054487,-97.563461
+"Shannon, MO",shannon,MO,,38.572954,-92.189283
+"Sharkey, MS",sharkey,MS,,32.741646,-89.678696
+"Sharp, AR",sharp,AR,,34.969704,-92.373123
+"Shasta, CA",shasta,CA,,36.116203,-119.681564
+"Shawano, WI",shawano,WI,,44.268543,-89.616508
+"Shawnee, KS",shawnee,KS,,38.5266,-96.726486
+"Sheboygan, WI",sheboygan,WI,,44.268543,-89.616508
+"Shelby, AL",shelby,AL,,32.806671,-86.79113
+"Shelby, IA",shelby,IA,,42.011539,-93.210526
+"Shelby, IL",shelby,IL,,40.349457,-88.986137
+"Shelby, IN",shelby,IN,,39.849426,-86.258278
+"Shelby, KY",shelby,KY,,37.66814,-84.670067
+"Shelby, MO",shelby,MO,,38.572954,-92.189283
+"Shelby, OH",shelby,OH,,40.388783,-82.764915
+"Shelby, TN",shelby,TN,,35.747845,-86.692345
+"Shelby, TX",shelby,TX,,31.054487,-97.563461
+"Shenandoah, VA",shenandoah,VA,,37.769337,-78.169968
+"Sherburne, MN",sherburne,MN,,45.694454,-93.900192
+"Sheridan, KS",sheridan,KS,,38.5266,-96.726486
+"Sheridan, MT",sheridan,MT,,46.921925,-110.454353
+"Sheridan, ND",sheridan,ND,,47.528912,-99.784012
+"Sheridan, NE",sheridan,NE,,41.12537,-98.268082
+"Sheridan, WY",sheridan,WY,,42.755966,-107.30249
+"Sherman, KS",sherman,KS,,38.5266,-96.726486
+"Sherman, NE",sherman,NE,,41.12537,-98.268082
+"Sherman, OR",sherman,OR,,44.572021,-122.070938
+"Sherman, TX",sherman,TX,,31.054487,-97.563461
+"Shiawassee, MI",shiawassee,MI,,43.326618,-84.536095
+"Shoshone, ID",shoshone,ID,,44.240459,-114.478828
+"Sibley, MN",sibley,MN,,45.694454,-93.900192
+"Sierra, CA",sierra,CA,,36.116203,-119.681564
+"Sierra, NM",sierra,NM,,34.840515,-106.248482
+"Silver Bow, MT",silver bow,MT,,46.921925,-110.454353
+"Simpson, KY",simpson,KY,,37.66814,-84.670067
+"Simpson, MS",simpson,MS,,32.741646,-89.678696
+"Sioux, IA",sioux,IA,,42.011539,-93.210526
+"Sioux, ND",sioux,ND,,47.528912,-99.784012
+"Sioux, NE",sioux,NE,,41.12537,-98.268082
+"Siskiyou, CA",siskiyou,CA,,36.116203,-119.681564
+"Sitka City And Borough, AK",sitka city and borough,AK,,61.370716,-152.404419
+"Skagit, WA",skagit,WA,,47.400902,-121.490494
+"Skagway Municipality, AK",skagway municipality,AK,,61.370716,-152.404419
+"Skamania, WA",skamania,WA,,47.400902,-121.490494
+"Slope, ND",slope,ND,,47.528912,-99.784012
+"Smith, KS",smith,KS,,38.5266,-96.726486
+"Smith, MS",smith,MS,,32.741646,-89.678696
+"Smith, TN",smith,TN,,35.747845,-86.692345
+"Smith, TX",smith,TX,,31.054487,-97.563461
+"Smyth, VA",smyth,VA,,37.769337,-78.169968
+"Snohomish, WA",snohomish,WA,,47.400902,-121.490494
+"Snyder, PA",snyder,PA,,40.590752,-77.209755
+"Socorro, NM",socorro,NM,,34.840515,-106.248482
+"Solano, CA",solano,CA,,36.116203,-119.681564
+"Somerset, MD",somerset,MD,,39.063946,-76.802101
+"Somerset, ME",somerset,ME,,44.323535,-69.765261
+"Somerset, NJ",somerset,NJ,,40.298904,-74.521011
+"Somerset, PA",somerset,PA,,40.590752,-77.209755
+"Somervell, TX",somervell,TX,,31.054487,-97.563461
+"Sonoma, CA",sonoma,CA,,36.116203,-119.681564
+"South Central Connecticut Planning Region, CT",south central connecticut planning region,CT,,41.597782,-72.755371
+"Southampton, VA",southampton,VA,,37.769337,-78.169968
+"Southeast Fairbanks Census Area, AK",southeast fairbanks census area,AK,,61.370716,-152.404419
+"Southeastern Connecticut Planning Region, CT",southeastern connecticut planning region,CT,,41.597782,-72.755371
+"Spalding, GA",spalding,GA,,33.040619,-83.643074
+"Spartanburg, SC",spartanburg,SC,,33.856892,-80.945007
+"Spencer, IN",spencer,IN,,39.849426,-86.258278
+"Spencer, KY",spencer,KY,,37.66814,-84.670067
+"Spink, SD",spink,SD,,44.299782,-99.438828
+"Spokane, WA",spokane,WA,,47.400902,-121.490494
+"Spotsylvania, VA",spotsylvania,VA,,37.769337,-78.169968
+"St. Bernard Parish, LA",st. bernard parish,LA,,31.169546,-91.867805
+"St. Charles, MO",st. charles,MO,,38.572954,-92.189283
+"St. Charles Parish, LA",st. charles parish,LA,,31.169546,-91.867805
+"St. Clair, AL",st. clair,AL,,32.806671,-86.79113
+"St. Clair, IL",st. clair,IL,,40.349457,-88.986137
+"St. Clair, MI",st. clair,MI,,43.326618,-84.536095
+"St. Clair, MO",st. clair,MO,,38.572954,-92.189283
+"St. Croix, WI",st. croix,WI,,44.268543,-89.616508
+"St. Francis, AR",st. francis,AR,,34.969704,-92.373123
+"St. Francois, MO",st. francois,MO,,38.572954,-92.189283
+"St. Helena Parish, LA",st. helena parish,LA,,31.169546,-91.867805
+"St. James Parish, LA",st. james parish,LA,,31.169546,-91.867805
+"St. John The Baptist Parish, LA",st. john the baptist parish,LA,,31.169546,-91.867805
+"St. Johns, FL",st. johns,FL,,27.766279,-81.686783
+"St. Joseph, IN",st. joseph,IN,,39.849426,-86.258278
+"St. Joseph, MI",st. joseph,MI,,43.326618,-84.536095
+"St. Landry Parish, LA",st. landry parish,LA,,31.169546,-91.867805
+"St. Lawrence, NY",st. lawrence,NY,,42.165726,-74.948051
+"St. Louis, MN",st. louis,MN,,45.694454,-93.900192
+"St. Louis, MO",st. louis,MO,,38.572954,-92.189283
+"St. Louis City, MO",st. louis city,MO,,38.572954,-92.189283
+"St. Lucie, FL",st. lucie,FL,,27.766279,-81.686783
+"St. Martin Parish, LA",st. martin parish,LA,,31.169546,-91.867805
+"St. Mary Parish, LA",st. mary parish,LA,,31.169546,-91.867805
+"St. Mary'S, MD",st. mary's,MD,,39.063946,-76.802101
+"St. Tammany Parish, LA",st. tammany parish,LA,,31.169546,-91.867805
+"Stafford, KS",stafford,KS,,38.5266,-96.726486
+"Stafford, VA",stafford,VA,,37.769337,-78.169968
+"Stanislaus, CA",stanislaus,CA,,36.116203,-119.681564
+"Stanley, SD",stanley,SD,,44.299782,-99.438828
+"Stanly, NC",stanly,NC,,35.630066,-79.806419
+"Stanton, KS",stanton,KS,,38.5266,-96.726486
+"Stanton, NE",stanton,NE,,41.12537,-98.268082
+"Stark, IL",stark,IL,,40.349457,-88.986137
+"Stark, ND",stark,ND,,47.528912,-99.784012
+"Stark, OH",stark,OH,,40.388783,-82.764915
+"Starke, IN",starke,IN,,39.849426,-86.258278
+"Starr, TX",starr,TX,,31.054487,-97.563461
+"Staunton City, VA",staunton city,VA,,37.769337,-78.169968
+"Ste. Genevieve, MO",ste. genevieve,MO,,38.572954,-92.189283
+"Stearns, MN",stearns,MN,,45.694454,-93.900192
+"Steele, MN",steele,MN,,45.694454,-93.900192
+"Steele, ND",steele,ND,,47.528912,-99.784012
+"Stephens, GA",stephens,GA,,33.040619,-83.643074
+"Stephens, OK",stephens,OK,,35.565342,-96.928917
+"Stephens, TX",stephens,TX,,31.054487,-97.563461
+"Stephenson, IL",stephenson,IL,,40.349457,-88.986137
+"Sterling, TX",sterling,TX,,31.054487,-97.563461
+"Steuben, IN",steuben,IN,,39.849426,-86.258278
+"Steuben, NY",steuben,NY,,42.165726,-74.948051
+"Stevens, KS",stevens,KS,,38.5266,-96.726486
+"Stevens, MN",stevens,MN,,45.694454,-93.900192
+"Stevens, WA",stevens,WA,,47.400902,-121.490494
+"Stewart, GA",stewart,GA,,33.040619,-83.643074
+"Stewart, TN",stewart,TN,,35.747845,-86.692345
+"Stillwater, MT",stillwater,MT,,46.921925,-110.454353
+"Stoddard, MO",stoddard,MO,,38.572954,-92.189283
+"Stokes, NC",stokes,NC,,35.630066,-79.806419
+"Stone, AR",stone,AR,,34.969704,-92.373123
+"Stone, MO",stone,MO,,38.572954,-92.189283
+"Stone, MS",stone,MS,,32.741646,-89.678696
+"Stonewall, TX",stonewall,TX,,31.054487,-97.563461
+"Storey, NV",storey,NV,,38.313515,-117.055374
+"Story, IA",story,IA,,42.011539,-93.210526
+"Strafford, NH",strafford,NH,,43.452492,-71.563896
+"Stutsman, ND",stutsman,ND,,47.528912,-99.784012
+"Sublette, WY",sublette,WY,,42.755966,-107.30249
+"Suffolk, MA",suffolk,MA,,42.230171,-71.530106
+"Suffolk, NY",suffolk,NY,,42.165726,-74.948051
+"Suffolk City, VA",suffolk city,VA,,37.769337,-78.169968
+"Sullivan, IN",sullivan,IN,,39.849426,-86.258278
+"Sullivan, MO",sullivan,MO,,38.572954,-92.189283
+"Sullivan, NH",sullivan,NH,,43.452492,-71.563896
+"Sullivan, NY",sullivan,NY,,42.165726,-74.948051
+"Sullivan, PA",sullivan,PA,,40.590752,-77.209755
+"Sullivan, TN",sullivan,TN,,35.747845,-86.692345
+"Sully, SD",sully,SD,,44.299782,-99.438828
+"Summers, WV",summers,WV,,38.491226,-80.954453
+"Summit, CO",summit,CO,,39.059811,-105.311104
+"Summit, OH",summit,OH,,40.388783,-82.764915
+"Summit, UT",summit,UT,,40.150032,-111.862434
+"Sumner, KS",sumner,KS,,38.5266,-96.726486
+"Sumner, TN",sumner,TN,,35.747845,-86.692345
+"Sumter, AL",sumter,AL,,32.806671,-86.79113
+"Sumter, FL",sumter,FL,,27.766279,-81.686783
+"Sumter, GA",sumter,GA,,33.040619,-83.643074
+"Sumter, SC",sumter,SC,,33.856892,-80.945007
+"Sunflower, MS",sunflower,MS,,32.741646,-89.678696
+"Surry, NC",surry,NC,,35.630066,-79.806419
+"Surry, VA",surry,VA,,37.769337,-78.169968
+"Susquehanna, PA",susquehanna,PA,,40.590752,-77.209755
+"Sussex, DE",sussex,DE,,39.318523,-75.507141
+"Sussex, NJ",sussex,NJ,,40.298904,-74.521011
+"Sussex, VA",sussex,VA,,37.769337,-78.169968
+"Sutter, CA",sutter,CA,,36.116203,-119.681564
+"Sutton, TX",sutton,TX,,31.054487,-97.563461
+"Suwannee, FL",suwannee,FL,,27.766279,-81.686783
+"Swain, NC",swain,NC,,35.630066,-79.806419
+"Sweet Grass, MT",sweet grass,MT,,46.921925,-110.454353
+"Sweetwater, WY",sweetwater,WY,,42.755966,-107.30249
+"Swift, MN",swift,MN,,45.694454,-93.900192
+"Swisher, TX",swisher,TX,,31.054487,-97.563461
+"Switzerland, IN",switzerland,IN,,39.849426,-86.258278
+"Talbot, GA",talbot,GA,,33.040619,-83.643074
+"Talbot, MD",talbot,MD,,39.063946,-76.802101
+"Taliaferro, GA",taliaferro,GA,,33.040619,-83.643074
+"Talladega, AL",talladega,AL,,32.806671,-86.79113
+"Tallahatchie, MS",tallahatchie,MS,,32.741646,-89.678696
+"Tallapoosa, AL",tallapoosa,AL,,32.806671,-86.79113
+"Tama, IA",tama,IA,,42.011539,-93.210526
+"Taney, MO",taney,MO,,38.572954,-92.189283
+"Tangipahoa Parish, LA",tangipahoa parish,LA,,31.169546,-91.867805
+"Taos, NM",taos,NM,,34.840515,-106.248482
+"Tarrant, TX",tarrant,TX,,31.054487,-97.563461
+"Tate, MS",tate,MS,,32.741646,-89.678696
+"Tattnall, GA",tattnall,GA,,33.040619,-83.643074
+"Taylor, FL",taylor,FL,,27.766279,-81.686783
+"Taylor, GA",taylor,GA,,33.040619,-83.643074
+"Taylor, IA",taylor,IA,,42.011539,-93.210526
+"Taylor, KY",taylor,KY,,37.66814,-84.670067
+"Taylor, TX",taylor,TX,,31.054487,-97.563461
+"Taylor, WI",taylor,WI,,44.268543,-89.616508
+"Taylor, WV",taylor,WV,,38.491226,-80.954453
+"Tazewell, IL",tazewell,IL,,40.349457,-88.986137
+"Tazewell, VA",tazewell,VA,,37.769337,-78.169968
+"Tehama, CA",tehama,CA,,36.116203,-119.681564
+"Telfair, GA",telfair,GA,,33.040619,-83.643074
+"Teller, CO",teller,CO,,39.059811,-105.311104
+"Tensas Parish, LA",tensas parish,LA,,31.169546,-91.867805
+"Terrebonne Parish, LA",terrebonne parish,LA,,31.169546,-91.867805
+"Terrell, GA",terrell,GA,,33.040619,-83.643074
+"Terrell, TX",terrell,TX,,31.054487,-97.563461
+"Terry, TX",terry,TX,,31.054487,-97.563461
+"Teton, ID",teton,ID,,44.240459,-114.478828
+"Teton, MT",teton,MT,,46.921925,-110.454353
+"Teton, WY",teton,WY,,42.755966,-107.30249
+"Texas, MO",texas,MO,,38.572954,-92.189283
+"Texas, OK",texas,OK,,35.565342,-96.928917
+"Thayer, NE",thayer,NE,,41.12537,-98.268082
+"Thomas, GA",thomas,GA,,33.040619,-83.643074
+"Thomas, KS",thomas,KS,,38.5266,-96.726486
+"Thomas, NE",thomas,NE,,41.12537,-98.268082
+"Throckmorton, TX",throckmorton,TX,,31.054487,-97.563461
+"Thurston, NE",thurston,NE,,41.12537,-98.268082
+"Thurston, WA",thurston,WA,,47.400902,-121.490494
+"Tift, GA",tift,GA,,33.040619,-83.643074
+"Tillamook, OR",tillamook,OR,,44.572021,-122.070938
+"Tillman, OK",tillman,OK,,35.565342,-96.928917
+"Tioga, NY",tioga,NY,,42.165726,-74.948051
+"Tioga, PA",tioga,PA,,40.590752,-77.209755
+"Tippah, MS",tippah,MS,,32.741646,-89.678696
+"Tippecanoe, IN",tippecanoe,IN,,39.849426,-86.258278
+"Tipton, IN",tipton,IN,,39.849426,-86.258278
+"Tipton, TN",tipton,TN,,35.747845,-86.692345
+"Tishomingo, MS",tishomingo,MS,,32.741646,-89.678696
+"Titus, TX",titus,TX,,31.054487,-97.563461
+"Todd, KY",todd,KY,,37.66814,-84.670067
+"Todd, MN",todd,MN,,45.694454,-93.900192
+"Todd, SD",todd,SD,,44.299782,-99.438828
+"Tom Green, TX",tom green,TX,,31.054487,-97.563461
+"Tompkins, NY",tompkins,NY,,42.165726,-74.948051
+"Tooele, UT",tooele,UT,,40.150032,-111.862434
+"Toole, MT",toole,MT,,46.921925,-110.454353
+"Toombs, GA",toombs,GA,,33.040619,-83.643074
+"Torrance, NM",torrance,NM,,34.840515,-106.248482
+"Towner, ND",towner,ND,,47.528912,-99.784012
+"Towns, GA",towns,GA,,33.040619,-83.643074
+"Traill, ND",traill,ND,,47.528912,-99.784012
+"Transylvania, NC",transylvania,NC,,35.630066,-79.806419
+"Traverse, MN",traverse,MN,,45.694454,-93.900192
+"Travis, TX",travis,TX,,31.054487,-97.563461
+"Treasure, MT",treasure,MT,,46.921925,-110.454353
+"Trego, KS",trego,KS,,38.5266,-96.726486
+"Trempealeau, WI",trempealeau,WI,,44.268543,-89.616508
+"Treutlen, GA",treutlen,GA,,33.040619,-83.643074
+"Trigg, KY",trigg,KY,,37.66814,-84.670067
+"Trimble, KY",trimble,KY,,37.66814,-84.670067
+"Trinity, CA",trinity,CA,,36.116203,-119.681564
+"Trinity, TX",trinity,TX,,31.054487,-97.563461
+"Tripp, SD",tripp,SD,,44.299782,-99.438828
+"Troup, GA",troup,GA,,33.040619,-83.643074
+"Trousdale, TN",trousdale,TN,,35.747845,-86.692345
+"Trumbull, OH",trumbull,OH,,40.388783,-82.764915
+"Tucker, WV",tucker,WV,,38.491226,-80.954453
+"Tulare, CA",tulare,CA,,36.116203,-119.681564
+"Tulsa, OK",tulsa,OK,,35.565342,-96.928917
+"Tunica, MS",tunica,MS,,32.741646,-89.678696
+"Tuolumne, CA",tuolumne,CA,,36.116203,-119.681564
+"Turner, GA",turner,GA,,33.040619,-83.643074
+"Turner, SD",turner,SD,,44.299782,-99.438828
+"Tuscaloosa, AL",tuscaloosa,AL,,32.806671,-86.79113
+"Tuscarawas, OH",tuscarawas,OH,,40.388783,-82.764915
+"Tuscola, MI",tuscola,MI,,43.326618,-84.536095
+"Twiggs, GA",twiggs,GA,,33.040619,-83.643074
+"Twin Falls, ID",twin falls,ID,,44.240459,-114.478828
+"Tyler, TX",tyler,TX,,31.054487,-97.563461
+"Tyler, WV",tyler,WV,,38.491226,-80.954453
+"Tyrrell, NC",tyrrell,NC,,35.630066,-79.806419
+"Uinta, WY",uinta,WY,,42.755966,-107.30249
+"Uintah, UT",uintah,UT,,40.150032,-111.862434
+"Ulster, NY",ulster,NY,,42.165726,-74.948051
+"Umatilla, OR",umatilla,OR,,44.572021,-122.070938
+"Unicoi, TN",unicoi,TN,,35.747845,-86.692345
+"Union, AR",union,AR,,34.969704,-92.373123
+"Union, FL",union,FL,,27.766279,-81.686783
+"Union, GA",union,GA,,33.040619,-83.643074
+"Union, IA",union,IA,,42.011539,-93.210526
+"Union, IL",union,IL,,40.349457,-88.986137
+"Union, IN",union,IN,,39.849426,-86.258278
+"Union, KY",union,KY,,37.66814,-84.670067
+"Union, MS",union,MS,,32.741646,-89.678696
+"Union, NC",union,NC,,35.630066,-79.806419
+"Union, NJ",union,NJ,,40.298904,-74.521011
+"Union, NM",union,NM,,34.840515,-106.248482
+"Union, OH",union,OH,,40.388783,-82.764915
+"Union, OR",union,OR,,44.572021,-122.070938
+"Union, PA",union,PA,,40.590752,-77.209755
+"Union, SC",union,SC,,33.856892,-80.945007
+"Union, SD",union,SD,,44.299782,-99.438828
+"Union, TN",union,TN,,35.747845,-86.692345
+"Union Parish, LA",union parish,LA,,31.169546,-91.867805
+"Unknown Or Undefined, AK",unknown or undefined,AK,,61.370716,-152.404419
+"Unknown Or Undefined, AL",unknown or undefined,AL,,32.806671,-86.79113
+"Unknown Or Undefined, AR",unknown or undefined,AR,,34.969704,-92.373123
+"Unknown Or Undefined, AZ",unknown or undefined,AZ,,33.729759,-111.431221
+"Unknown Or Undefined, CA",unknown or undefined,CA,,36.116203,-119.681564
+"Unknown Or Undefined, CO",unknown or undefined,CO,,39.059811,-105.311104
+"Unknown Or Undefined, CT",unknown or undefined,CT,,41.597782,-72.755371
+"Unknown Or Undefined, DE",unknown or undefined,DE,,39.318523,-75.507141
+"Unknown Or Undefined, FL",unknown or undefined,FL,,27.766279,-81.686783
+"Unknown Or Undefined, GA",unknown or undefined,GA,,33.040619,-83.643074
+"Unknown Or Undefined, HI",unknown or undefined,HI,,21.094318,-157.498337
+"Unknown Or Undefined, IA",unknown or undefined,IA,,42.011539,-93.210526
+"Unknown Or Undefined, ID",unknown or undefined,ID,,44.240459,-114.478828
+"Unknown Or Undefined, IL",unknown or undefined,IL,,40.349457,-88.986137
+"Unknown Or Undefined, IN",unknown or undefined,IN,,39.849426,-86.258278
+"Unknown Or Undefined, KS",unknown or undefined,KS,,38.5266,-96.726486
+"Unknown Or Undefined, KY",unknown or undefined,KY,,37.66814,-84.670067
+"Unknown Or Undefined, LA",unknown or undefined,LA,,31.169546,-91.867805
+"Unknown Or Undefined, MA",unknown or undefined,MA,,42.230171,-71.530106
+"Unknown Or Undefined, MD",unknown or undefined,MD,,39.063946,-76.802101
+"Unknown Or Undefined, ME",unknown or undefined,ME,,44.323535,-69.765261
+"Unknown Or Undefined, MI",unknown or undefined,MI,,43.326618,-84.536095
+"Unknown Or Undefined, MN",unknown or undefined,MN,,45.694454,-93.900192
+"Unknown Or Undefined, MO",unknown or undefined,MO,,38.572954,-92.189283
+"Unknown Or Undefined, MS",unknown or undefined,MS,,32.741646,-89.678696
+"Unknown Or Undefined, MT",unknown or undefined,MT,,46.921925,-110.454353
+"Unknown Or Undefined, NC",unknown or undefined,NC,,35.630066,-79.806419
+"Unknown Or Undefined, ND",unknown or undefined,ND,,47.528912,-99.784012
+"Unknown Or Undefined, NE",unknown or undefined,NE,,41.12537,-98.268082
+"Unknown Or Undefined, NH",unknown or undefined,NH,,43.452492,-71.563896
+"Unknown Or Undefined, NJ",unknown or undefined,NJ,,40.298904,-74.521011
+"Unknown Or Undefined, NM",unknown or undefined,NM,,34.840515,-106.248482
+"Unknown Or Undefined, NV",unknown or undefined,NV,,38.313515,-117.055374
+"Unknown Or Undefined, NY",unknown or undefined,NY,,42.165726,-74.948051
+"Unknown Or Undefined, OH",unknown or undefined,OH,,40.388783,-82.764915
+"Unknown Or Undefined, OK",unknown or undefined,OK,,35.565342,-96.928917
+"Unknown Or Undefined, OR",unknown or undefined,OR,,44.572021,-122.070938
+"Unknown Or Undefined, PA",unknown or undefined,PA,,40.590752,-77.209755
+"Unknown Or Undefined, RI",unknown or undefined,RI,,41.680893,-71.51178
+"Unknown Or Undefined, SC",unknown or undefined,SC,,33.856892,-80.945007
+"Unknown Or Undefined, SD",unknown or undefined,SD,,44.299782,-99.438828
+"Unknown Or Undefined, TN",unknown or undefined,TN,,35.747845,-86.692345
+"Unknown Or Undefined, TX",unknown or undefined,TX,,31.054487,-97.563461
+"Unknown Or Undefined, VA",unknown or undefined,VA,,37.769337,-78.169968
+"Unknown Or Undefined, VT",unknown or undefined,VT,,44.045876,-72.710686
+"Unknown Or Undefined, WA",unknown or undefined,WA,,47.400902,-121.490494
+"Unknown Or Undefined, WI",unknown or undefined,WI,,44.268543,-89.616508
+"Unknown Or Undefined, WV",unknown or undefined,WV,,38.491226,-80.954453
+"Unknown Or Undefined, WY",unknown or undefined,WY,,42.755966,-107.30249
+"Upshur, TX",upshur,TX,,31.054487,-97.563461
+"Upshur, WV",upshur,WV,,38.491226,-80.954453
+"Upson, GA",upson,GA,,33.040619,-83.643074
+"Upton, TX",upton,TX,,31.054487,-97.563461
+"Utah, UT",utah,UT,,40.150032,-111.862434
+"Uvalde, TX",uvalde,TX,,31.054487,-97.563461
+"Val Verde, TX",val verde,TX,,31.054487,-97.563461
+"Valencia, NM",valencia,NM,,34.840515,-106.248482
+"Valley, ID",valley,ID,,44.240459,-114.478828
+"Valley, MT",valley,MT,,46.921925,-110.454353
+"Valley, NE",valley,NE,,41.12537,-98.268082
+"Van Buren, AR",van buren,AR,,34.969704,-92.373123
+"Van Buren, IA",van buren,IA,,42.011539,-93.210526
+"Van Buren, MI",van buren,MI,,43.326618,-84.536095
+"Van Buren, TN",van buren,TN,,35.747845,-86.692345
+"Van Wert, OH",van wert,OH,,40.388783,-82.764915
+"Van Zandt, TX",van zandt,TX,,31.054487,-97.563461
+"Vance, NC",vance,NC,,35.630066,-79.806419
+"Vanderburgh, IN",vanderburgh,IN,,39.849426,-86.258278
+"Venango, PA",venango,PA,,40.590752,-77.209755
+"Ventura, CA",ventura,CA,,36.116203,-119.681564
+"Vermilion, IL",vermilion,IL,,40.349457,-88.986137
+"Vermilion Parish, LA",vermilion parish,LA,,31.169546,-91.867805
+"Vermillion, IN",vermillion,IN,,39.849426,-86.258278
+"Vernon, MO",vernon,MO,,38.572954,-92.189283
+"Vernon, WI",vernon,WI,,44.268543,-89.616508
+"Vernon Parish, LA",vernon parish,LA,,31.169546,-91.867805
+"Victoria, TX",victoria,TX,,31.054487,-97.563461
+"Vigo, IN",vigo,IN,,39.849426,-86.258278
+"Vilas, WI",vilas,WI,,44.268543,-89.616508
+"Vinton, OH",vinton,OH,,40.388783,-82.764915
+"Virginia Beach City, VA",virginia beach city,VA,,37.769337,-78.169968
+"Volusia, FL",volusia,FL,,27.766279,-81.686783
+"Wabash, IL",wabash,IL,,40.349457,-88.986137
+"Wabash, IN",wabash,IN,,39.849426,-86.258278
+"Wabasha, MN",wabasha,MN,,45.694454,-93.900192
+"Wabaunsee, KS",wabaunsee,KS,,38.5266,-96.726486
+"Wadena, MN",wadena,MN,,45.694454,-93.900192
+"Wagoner, OK",wagoner,OK,,35.565342,-96.928917
+"Wahkiakum, WA",wahkiakum,WA,,47.400902,-121.490494
+"Wake, NC",wake,NC,,35.630066,-79.806419
+"Wakulla, FL",wakulla,FL,,27.766279,-81.686783
+"Waldo, ME",waldo,ME,,44.323535,-69.765261
+"Walker, AL",walker,AL,,32.806671,-86.79113
+"Walker, GA",walker,GA,,33.040619,-83.643074
+"Walker, TX",walker,TX,,31.054487,-97.563461
+"Walla Walla, WA",walla walla,WA,,47.400902,-121.490494
+"Wallace, KS",wallace,KS,,38.5266,-96.726486
+"Waller, TX",waller,TX,,31.054487,-97.563461
+"Wallowa, OR",wallowa,OR,,44.572021,-122.070938
+"Walsh, ND",walsh,ND,,47.528912,-99.784012
+"Walthall, MS",walthall,MS,,32.741646,-89.678696
+"Walton, FL",walton,FL,,27.766279,-81.686783
+"Walton, GA",walton,GA,,33.040619,-83.643074
+"Walworth, SD",walworth,SD,,44.299782,-99.438828
+"Walworth, WI",walworth,WI,,44.268543,-89.616508
+"Wapello, IA",wapello,IA,,42.011539,-93.210526
+"Ward, ND",ward,ND,,47.528912,-99.784012
+"Ward, TX",ward,TX,,31.054487,-97.563461
+"Ware, GA",ware,GA,,33.040619,-83.643074
+"Warren, GA",warren,GA,,33.040619,-83.643074
+"Warren, IA",warren,IA,,42.011539,-93.210526
+"Warren, IL",warren,IL,,40.349457,-88.986137
+"Warren, IN",warren,IN,,39.849426,-86.258278
+"Warren, KY",warren,KY,,37.66814,-84.670067
+"Warren, MO",warren,MO,,38.572954,-92.189283
+"Warren, MS",warren,MS,,32.741646,-89.678696
+"Warren, NC",warren,NC,,35.630066,-79.806419
+"Warren, NJ",warren,NJ,,40.298904,-74.521011
+"Warren, NY",warren,NY,,42.165726,-74.948051
+"Warren, OH",warren,OH,,40.388783,-82.764915
+"Warren, PA",warren,PA,,40.590752,-77.209755
+"Warren, TN",warren,TN,,35.747845,-86.692345
+"Warren, VA",warren,VA,,37.769337,-78.169968
+"Warrick, IN",warrick,IN,,39.849426,-86.258278
+"Wasatch, UT",wasatch,UT,,40.150032,-111.862434
+"Wasco, OR",wasco,OR,,44.572021,-122.070938
+"Waseca, MN",waseca,MN,,45.694454,-93.900192
+"Washakie, WY",washakie,WY,,42.755966,-107.30249
+"Washburn, WI",washburn,WI,,44.268543,-89.616508
+"Washington, AL",washington,AL,,32.806671,-86.79113
+"Washington, AR",washington,AR,,34.969704,-92.373123
+"Washington, CO",washington,CO,,39.059811,-105.311104
+"Washington, FL",washington,FL,,27.766279,-81.686783
+"Washington, GA",washington,GA,,33.040619,-83.643074
+"Washington, IA",washington,IA,,42.011539,-93.210526
+"Washington, ID",washington,ID,,44.240459,-114.478828
+"Washington, IL",washington,IL,,40.349457,-88.986137
+"Washington, IN",washington,IN,,39.849426,-86.258278
+"Washington, KS",washington,KS,,38.5266,-96.726486
+"Washington, KY",washington,KY,,37.66814,-84.670067
+"Washington, MD",washington,MD,,39.063946,-76.802101
+"Washington, ME",washington,ME,,44.323535,-69.765261
+"Washington, MN",washington,MN,,45.694454,-93.900192
+"Washington, MO",washington,MO,,38.572954,-92.189283
+"Washington, MS",washington,MS,,32.741646,-89.678696
+"Washington, NC",washington,NC,,35.630066,-79.806419
+"Washington, NE",washington,NE,,41.12537,-98.268082
+"Washington, NY",washington,NY,,42.165726,-74.948051
+"Washington, OH",washington,OH,,40.388783,-82.764915
+"Washington, OK",washington,OK,,35.565342,-96.928917
+"Washington, OR",washington,OR,,44.572021,-122.070938
+"Washington, PA",washington,PA,,40.590752,-77.209755
+"Washington, RI",washington,RI,,41.680893,-71.51178
+"Washington, TN",washington,TN,,35.747845,-86.692345
+"Washington, TX",washington,TX,,31.054487,-97.563461
+"Washington, UT",washington,UT,,40.150032,-111.862434
+"Washington, VA",washington,VA,,37.769337,-78.169968
+"Washington, VT",washington,VT,,44.045876,-72.710686
+"Washington, WI",washington,WI,,44.268543,-89.616508
+"Washington Parish, LA",washington parish,LA,,31.169546,-91.867805
+"Washita, OK",washita,OK,,35.565342,-96.928917
+"Washoe, NV",washoe,NV,,38.313515,-117.055374
+"Washtenaw, MI",washtenaw,MI,,43.326618,-84.536095
+"Watauga, NC",watauga,NC,,35.630066,-79.806419
+"Watonwan, MN",watonwan,MN,,45.694454,-93.900192
+"Waukesha, WI",waukesha,WI,,44.268543,-89.616508
+"Waupaca, WI",waupaca,WI,,44.268543,-89.616508
+"Waushara, WI",waushara,WI,,44.268543,-89.616508
+"Wayne, GA",wayne,GA,,33.040619,-83.643074
+"Wayne, IA",wayne,IA,,42.011539,-93.210526
+"Wayne, IL",wayne,IL,,40.349457,-88.986137
+"Wayne, IN",wayne,IN,,39.849426,-86.258278
+"Wayne, KY",wayne,KY,,37.66814,-84.670067
+"Wayne, MI",wayne,MI,,43.326618,-84.536095
+"Wayne, MO",wayne,MO,,38.572954,-92.189283
+"Wayne, MS",wayne,MS,,32.741646,-89.678696
+"Wayne, NC",wayne,NC,,35.630066,-79.806419
+"Wayne, NE",wayne,NE,,41.12537,-98.268082
+"Wayne, NY",wayne,NY,,42.165726,-74.948051
+"Wayne, OH",wayne,OH,,40.388783,-82.764915
+"Wayne, PA",wayne,PA,,40.590752,-77.209755
+"Wayne, TN",wayne,TN,,35.747845,-86.692345
+"Wayne, UT",wayne,UT,,40.150032,-111.862434
+"Wayne, WV",wayne,WV,,38.491226,-80.954453
+"Waynesboro City, VA",waynesboro city,VA,,37.769337,-78.169968
+"Weakley, TN",weakley,TN,,35.747845,-86.692345
+"Webb, TX",webb,TX,,31.054487,-97.563461
+"Weber, UT",weber,UT,,40.150032,-111.862434
+"Webster, GA",webster,GA,,33.040619,-83.643074
+"Webster, IA",webster,IA,,42.011539,-93.210526
+"Webster, KY",webster,KY,,37.66814,-84.670067
+"Webster, MO",webster,MO,,38.572954,-92.189283
+"Webster, MS",webster,MS,,32.741646,-89.678696
+"Webster, NE",webster,NE,,41.12537,-98.268082
+"Webster, WV",webster,WV,,38.491226,-80.954453
+"Webster Parish, LA",webster parish,LA,,31.169546,-91.867805
+"Weld, CO",weld,CO,,39.059811,-105.311104
+"Wells, IN",wells,IN,,39.849426,-86.258278
+"Wells, ND",wells,ND,,47.528912,-99.784012
+"West Baton Rouge Parish, LA",west baton rouge parish,LA,,31.169546,-91.867805
+"West Carroll Parish, LA",west carroll parish,LA,,31.169546,-91.867805
+"West Feliciana Parish, LA",west feliciana parish,LA,,31.169546,-91.867805
+"Westchester, NY",westchester,NY,,42.165726,-74.948051
+"Western Connecticut Planning Region, CT",western connecticut planning region,CT,,41.597782,-72.755371
+"Westmoreland, PA",westmoreland,PA,,40.590752,-77.209755
+"Westmoreland, VA",westmoreland,VA,,37.769337,-78.169968
+"Weston, WY",weston,WY,,42.755966,-107.30249
+"Wetzel, WV",wetzel,WV,,38.491226,-80.954453
+"Wexford, MI",wexford,MI,,43.326618,-84.536095
+"Wharton, TX",wharton,TX,,31.054487,-97.563461
+"Whatcom, WA",whatcom,WA,,47.400902,-121.490494
+"Wheatland, MT",wheatland,MT,,46.921925,-110.454353
+"Wheeler, GA",wheeler,GA,,33.040619,-83.643074
+"Wheeler, NE",wheeler,NE,,41.12537,-98.268082
+"Wheeler, OR",wheeler,OR,,44.572021,-122.070938
+"Wheeler, TX",wheeler,TX,,31.054487,-97.563461
+"White, AR",white,AR,,34.969704,-92.373123
+"White, GA",white,GA,,33.040619,-83.643074
+"White, IL",white,IL,,40.349457,-88.986137
+"White, IN",white,IN,,39.849426,-86.258278
+"White, TN",white,TN,,35.747845,-86.692345
+"White Pine, NV",white pine,NV,,38.313515,-117.055374
+"Whiteside, IL",whiteside,IL,,40.349457,-88.986137
+"Whitfield, GA",whitfield,GA,,33.040619,-83.643074
+"Whitley, IN",whitley,IN,,39.849426,-86.258278
+"Whitley, KY",whitley,KY,,37.66814,-84.670067
+"Whitman, WA",whitman,WA,,47.400902,-121.490494
+"Wibaux, MT",wibaux,MT,,46.921925,-110.454353
+"Wichita, KS",wichita,KS,,38.5266,-96.726486
+"Wichita, TX",wichita,TX,,31.054487,-97.563461
+"Wicomico, MD",wicomico,MD,,39.063946,-76.802101
+"Wilbarger, TX",wilbarger,TX,,31.054487,-97.563461
+"Wilcox, AL",wilcox,AL,,32.806671,-86.79113
+"Wilcox, GA",wilcox,GA,,33.040619,-83.643074
+"Wilkes, GA",wilkes,GA,,33.040619,-83.643074
+"Wilkes, NC",wilkes,NC,,35.630066,-79.806419
+"Wilkin, MN",wilkin,MN,,45.694454,-93.900192
+"Wilkinson, GA",wilkinson,GA,,33.040619,-83.643074
+"Wilkinson, MS",wilkinson,MS,,32.741646,-89.678696
+"Will, IL",will,IL,,40.349457,-88.986137
+"Willacy, TX",willacy,TX,,31.054487,-97.563461
+"Williams, ND",williams,ND,,47.528912,-99.784012
+"Williams, OH",williams,OH,,40.388783,-82.764915
+"Williamsburg, SC",williamsburg,SC,,33.856892,-80.945007
+"Williamsburg City, VA",williamsburg city,VA,,37.769337,-78.169968
+"Williamson, IL",williamson,IL,,40.349457,-88.986137
+"Williamson, TN",williamson,TN,,35.747845,-86.692345
+"Williamson, TX",williamson,TX,,31.054487,-97.563461
+"Wilson, KS",wilson,KS,,38.5266,-96.726486
+"Wilson, NC",wilson,NC,,35.630066,-79.806419
+"Wilson, TN",wilson,TN,,35.747845,-86.692345
+"Wilson, TX",wilson,TX,,31.054487,-97.563461
+"Winchester City, VA",winchester city,VA,,37.769337,-78.169968
+"Windham, VT",windham,VT,,44.045876,-72.710686
+"Windsor, VT",windsor,VT,,44.045876,-72.710686
+"Winkler, TX",winkler,TX,,31.054487,-97.563461
+"Winn Parish, LA",winn parish,LA,,31.169546,-91.867805
+"Winnebago, IA",winnebago,IA,,42.011539,-93.210526
+"Winnebago, IL",winnebago,IL,,40.349457,-88.986137
+"Winnebago, WI",winnebago,WI,,44.268543,-89.616508
+"Winneshiek, IA",winneshiek,IA,,42.011539,-93.210526
+"Winona, MN",winona,MN,,45.694454,-93.900192
+"Winston, AL",winston,AL,,32.806671,-86.79113
+"Winston, MS",winston,MS,,32.741646,-89.678696
+"Wirt, WV",wirt,WV,,38.491226,-80.954453
+"Wise, TX",wise,TX,,31.054487,-97.563461
+"Wise, VA",wise,VA,,37.769337,-78.169968
+"Wolfe, KY",wolfe,KY,,37.66814,-84.670067
+"Wood, OH",wood,OH,,40.388783,-82.764915
+"Wood, TX",wood,TX,,31.054487,-97.563461
+"Wood, WI",wood,WI,,44.268543,-89.616508
+"Wood, WV",wood,WV,,38.491226,-80.954453
+"Woodbury, IA",woodbury,IA,,42.011539,-93.210526
+"Woodford, IL",woodford,IL,,40.349457,-88.986137
+"Woodford, KY",woodford,KY,,37.66814,-84.670067
+"Woodruff, AR",woodruff,AR,,34.969704,-92.373123
+"Woods, OK",woods,OK,,35.565342,-96.928917
+"Woodson, KS",woodson,KS,,38.5266,-96.726486
+"Woodward, OK",woodward,OK,,35.565342,-96.928917
+"Worcester, MA",worcester,MA,,42.230171,-71.530106
+"Worcester, MD",worcester,MD,,39.063946,-76.802101
+"Worth, GA",worth,GA,,33.040619,-83.643074
+"Worth, IA",worth,IA,,42.011539,-93.210526
+"Worth, MO",worth,MO,,38.572954,-92.189283
+"Wrangell City And Borough, AK",wrangell city and borough,AK,,61.370716,-152.404419
+"Wright, IA",wright,IA,,42.011539,-93.210526
+"Wright, MN",wright,MN,,45.694454,-93.900192
+"Wright, MO",wright,MO,,38.572954,-92.189283
+"Wyandot, OH",wyandot,OH,,40.388783,-82.764915
+"Wyandotte, KS",wyandotte,KS,,38.5266,-96.726486
+"Wyoming, NY",wyoming,NY,,42.165726,-74.948051
+"Wyoming, PA",wyoming,PA,,40.590752,-77.209755
+"Wyoming, WV",wyoming,WV,,38.491226,-80.954453
+"Wythe, VA",wythe,VA,,37.769337,-78.169968
+"Yadkin, NC",yadkin,NC,,35.630066,-79.806419
+"Yakima, WA",yakima,WA,,47.400902,-121.490494
+"Yakutat City And Borough, AK",yakutat city and borough,AK,,61.370716,-152.404419
+"Yalobusha, MS",yalobusha,MS,,32.741646,-89.678696
+"Yamhill, OR",yamhill,OR,,44.572021,-122.070938
+"Yancey, NC",yancey,NC,,35.630066,-79.806419
+"Yankton, SD",yankton,SD,,44.299782,-99.438828
+"Yates, NY",yates,NY,,42.165726,-74.948051
+"Yavapai, AZ",yavapai,AZ,,33.729759,-111.431221
+"Yazoo, MS",yazoo,MS,,32.741646,-89.678696
+"Yell, AR",yell,AR,,34.969704,-92.373123
+"Yellow Medicine, MN",yellow medicine,MN,,45.694454,-93.900192
+"Yellowstone, MT",yellowstone,MT,,46.921925,-110.454353
+"Yoakum, TX",yoakum,TX,,31.054487,-97.563461
+"Yolo, CA",yolo,CA,,36.116203,-119.681564
+"York, ME",york,ME,,44.323535,-69.765261
+"York, NE",york,NE,,41.12537,-98.268082
+"York, PA",york,PA,,40.590752,-77.209755
+"York, SC",york,SC,,33.856892,-80.945007
+"York, VA",york,VA,,37.769337,-78.169968
+"Young, TX",young,TX,,31.054487,-97.563461
+"Yuba, CA",yuba,CA,,36.116203,-119.681564
+"Yukon-Koyukuk Census Area, AK",yukon-koyukuk census area,AK,,61.370716,-152.404419
+"Yuma, AZ",yuma,AZ,,33.729759,-111.431221
+"Yuma, CO",yuma,CO,,39.059811,-105.311104
+"Zapata, TX",zapata,TX,,31.054487,-97.563461
+"Zavala, TX",zavala,TX,,31.054487,-97.563461
+"Ziebach, SD",ziebach,SD,,44.299782,-99.438828

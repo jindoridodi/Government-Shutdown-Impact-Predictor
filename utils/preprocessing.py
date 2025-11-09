@@ -47,10 +47,25 @@ def save_clean_data(df, output_path):
     df.to_csv(output_path, index=False)
 
 def main():
-    # Define file paths
-    file_paths = [
-        os.path.join('/data/datasets', f) for f in os.listdir('/data/datasets') if f.endswith('.csv')
-    ]
+    # Define file paths (relative to project root)
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    datasets_dir = os.path.join(base_dir, 'data', 'datasets')
+    processed_dir = os.path.join(base_dir, 'data', 'processed')
+    
+    # Create processed directory if it doesn't exist
+    os.makedirs(processed_dir, exist_ok=True)
+    
+    # Get CSV files from datasets directory if it exists
+    if os.path.exists(datasets_dir):
+        file_paths = [
+            os.path.join(datasets_dir, f) for f in os.listdir(datasets_dir) if f.endswith('.csv')
+        ]
+    else:
+        # Fallback: use data directory directly
+        data_dir = os.path.join(base_dir, 'data')
+        file_paths = [
+            os.path.join(data_dir, f) for f in os.listdir(data_dir) if f.endswith('.csv')
+        ]
 
     # Load data
     logging.info("Loading data from CSV files...")
@@ -75,8 +90,9 @@ def main():
     merged_data[numeric_cols] = merged_data[numeric_cols].astype(float)
 
     # Save cleaned data
-    logging.info("Saving cleaned data to /data/processed/merged_clean.csv...")
-    save_clean_data(merged_data, '/data/processed/merged_clean.csv')
+    output_path = os.path.join(processed_dir, 'merged_clean.csv')
+    logging.info(f"Saving cleaned data to {output_path}...")
+    save_clean_data(merged_data, output_path)
 
 if __name__ == "__main__":
     import logging

@@ -8,39 +8,17 @@ from urllib3.util import Retry
 import logging
 import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Replace with your actual IBM Cloud IAM token (optional). We'll load API_KEY from environment or .env.
 # Keep IAM_TOKEN for backward compatibility if you want to supply it directly.
-IAM_TOKEN = 'YOUR_IAM_TOKEN'
+IAM_TOKEN = os.getenv('IAM_TOKEN', 'YOUR_IAM_TOKEN')
 
-# Load API_KEY from environment or from a .env file in the repository root if present.
-def _load_api_key():
-    # Prefer environment variable
-    key = os.getenv('API_KEY')
-    if key:
-        return key
-
-    # Look for a .env file in the repository root (one level above this models/ directory)
-    repo_root = Path(__file__).resolve().parents[1]
-    env_path = repo_root / '.env'
-    if env_path.exists():
-        try:
-            for line in env_path.read_text().splitlines():
-                line = line.strip()
-                if not line or line.startswith('#') or '=' not in line:
-                    continue
-                k, v = line.split('=', 1)
-                if k.strip() == 'API_KEY':
-                    return v.strip().strip('"').strip("'")
-        except Exception:
-            # If reading .env fails, fall back to default below
-            pass
-
-    # Fallback placeholder if not provided
-    return 'YOUR_IBM_API_KEY'
-
-# Module-level API_KEY (loaded once)
-API_KEY = _load_api_key()
+# Module-level API_KEY (loaded from .env or environment variable)
+API_KEY = os.getenv('API_KEY', 'YOUR_IBM_API_KEY')
 WATSONX_AI_BASE_URL = 'https://api.watsonx.ibm.com/v1/text-generation/models/Granite-3-8b-instruct/generate'
 
 def get_access_token(api_key):

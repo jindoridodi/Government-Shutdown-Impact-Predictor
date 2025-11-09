@@ -59,11 +59,17 @@ def create_trend_chart(data_path, output_html):
     fig.write_html(output_html)
 
 if __name__ == "__main__":
-    # Define output paths
-    heatmap_output = os.path.join('/data/visuals', 'regional_risk_heatmap.html')
-    trend_output = os.path.join('/data/visuals', 'risk_trends.html')
+    # Define output paths (relative to project root)
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    heatmap_output = os.path.join(base_dir, 'data', 'visuals', 'regional_risk_heatmap.html')
+    trend_output = os.path.join(base_dir, 'data', 'visuals', 'risk_trends.html')
+    data_path = os.path.join(base_dir, 'data', 'processed', 'regional_risk.csv')
+
+    # Create output directories if they don't exist
+    os.makedirs(os.path.dirname(heatmap_output), exist_ok=True)
+    os.makedirs(os.path.dirname(trend_output), exist_ok=True)
 
     # Create visualizations
-    create_heatmap('/data/processed/regional_risk.csv', heatmap_output)
-    create_trend_chart('/data/processed/regional_risk.csv', trend_output)
+    create_heatmap(data_path, heatmap_output)
+    create_trend_chart(data_path, trend_output)
 
