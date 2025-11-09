@@ -3,26 +3,11 @@
 
 import os
 import sys
-from PyQt6.QtWidgets import (
-    QApplication,
-    QMainWindow,
-    QTabWidget,
-    QVBoxLayout,
-    QWidget,
-    QPushButton,
-    QFileDialog,
-    QLabel
-)
-from PyQt6.QtCore import Qt, QRect
+from PyQt6.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget
 from PyQt6.QtWebEngineWidgets import QWebEngineView
-import requests
 import pandas as pd
 import folium
 from folium import plugins
-import plotly.graph_objs as go
-
-# Assuming FastAPI backend is running on http://localhost:8000
-FASTAPI_BASE_URL = "http://localhost:8000/api"
 
 class Dashboard(QWidget):
     def __init__(self):
@@ -31,6 +16,8 @@ class Dashboard(QWidget):
 
     def initUI(self):
         self.vlayout = QVBoxLayout()
+        self.vlayout.setContentsMargins(0, 0, 0, 0)
+        self.vlayout.setSpacing(0)
         self.map_view = QWebEngineView()
         self.load_heatmap()
         self.vlayout.addWidget(self.map_view)
@@ -90,28 +77,6 @@ class Dashboard(QWidget):
             ).add_to(m)
             self.map_view.setHtml(m.get_root().render())
 
-class Analytics(QWidget):
-    def __init__(self):
-        super().__init__()
-        self.initUI()
-
-    def initUI(self):
-        self.vlayout = QVBoxLayout()
-        # Placeholder for Plotly graph initialization
-        self.vlayout.addWidget(QLabel("Analytics Tab - Placeholder for Plotly graphs"))
-        self.setLayout(self.vlayout)
-
-class Insights(QWidget):
-    def __init__(self):
-        super().__init__()
-        self.initUI()
-
-    def initUI(self):
-        self.vlayout = QVBoxLayout()
-        # Placeholder for watsonx.ai summaries
-        self.vlayout.addWidget(QLabel("Insights Tab - Placeholder for watsonx.ai summaries"))
-        self.setLayout(self.vlayout)
-
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
@@ -121,22 +86,9 @@ class MainWindow(QMainWindow):
         self.setWindowTitle('Predictive Risk Dashboard')
         self.setGeometry(100, 100, 800, 600)
 
-        # Create the tab widget and let QMainWindow's central widget
-        # layout manage sizing so tabs resize with the window.
-        self.tab_widget = QTabWidget()
-
-        self.dashboard_tab = Dashboard()
-        self.analytics_tab = Analytics()
-        self.insights_tab = Insights()
-
-        self.tab_widget.addTab(self.dashboard_tab, "Dashboard")
-        self.tab_widget.addTab(self.analytics_tab, "Analytics")
-        self.tab_widget.addTab(self.insights_tab, "Insights")
-
-        self.setCentralWidget(self.tab_widget)
-    # Removed floating Exit button: users may close the window via
-    # the window manager. If an in-UI quit control is desired,
-    # add it to a toolbar or menu.
+        # Create dashboard widget that fills the entire window
+        self.dashboard = Dashboard()
+        self.setCentralWidget(self.dashboard)
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
