@@ -1,27 +1,46 @@
+"""Geocoding helpers for county/state coordinate lookup.
+
+This module loads a local `data/uscounties.csv` to provide a
+normalized county->(lat,lng) lookup. The implementation prefers
+``pandas`` when available and falls back to the stdlib ``csv``
+reader. State names are normalized to 2-letter codes via
+``normalize_state_name`` so lookups are consistent.
 """
-Geocoding utilities for county and state coordinates.
-"""
+import os
+import re
+import logging
+import math
+
+logger = logging.getLogger(__name__)
+
+# Caches populated on first use
+_COUNTY_DF = None
+_COUNTY_LOOKUP = None
+
 
 def normalize_state_name(state_name):
     """
     Normalize state names to 2-letter codes.
-    
+
     Args:
         state_name: State name (full name or 2-letter code)
-    
+
     Returns:
-        2-letter state code (e.g., 'CA', 'NY')
+        2-letter state code (e.g., 'CA', 'NY') or None
     """
     if state_name is None:
         return None
-    
-    import pandas as pd
-    if pd.isna(state_name):
-        return None
-    
+
+    # treat NaN-like floats as missing; avoid importing pandas at module import
+    try:
+        if isinstance(state_name, float) and math.isnan(state_name):
+            return None
+    except Exception:
+        pass
+
     state_str = str(state_name).strip().upper()
-    
-    # State name to code mapping
+
+    # Map from common full state name -> 2-letter code
     state_map = {
         'ALABAMA': 'AL', 'ALASKA': 'AK', 'ARIZONA': 'AZ', 'ARKANSAS': 'AR', 'CALIFORNIA': 'CA',
         'COLORADO': 'CO', 'CONNECTICUT': 'CT', 'DELAWARE': 'DE', 'FLORIDA': 'FL', 'GEORGIA': 'GA',
@@ -35,32 +54,154 @@ def normalize_state_name(state_name):
         'VIRGINIA': 'VA', 'WASHINGTON': 'WA', 'WEST VIRGINIA': 'WV', 'WISCONSIN': 'WI', 'WYOMING': 'WY',
         'DISTRICT OF COLUMBIA': 'DC', 'DC': 'DC'
     }
-    
-    # If already a 2-letter code, return it
+
+    # If already a 2-letter code, return it unchanged
     if len(state_str) == 2:
         return state_str
-    
+
     # Map full name to code
     return state_map.get(state_str, state_str)
 
 
+def _normalize_county_name(name: str) -> str:
+    """Normalize county text for matching.
+
+    Removes common suffixes (county, parish, city, etc.), lowercases,
+    removes punctuation and collapses whitespace.
+    """
+    if name is None:
+        return ''
+    s = str(name).lower().strip()
+    # remove common suffixes
+    s = re.sub(r"\b(county|parish|city|borough|municipality|planning region|census area|town|township)\b", '', s)
+    # remove punctuation
+    s = re.sub(r'[^a-z0-9\s]', '', s)
+    # collapse whitespace
+    s = re.sub(r'\s+', ' ', s).strip()
+    return s
+
+
+def _load_county_lookup():
+    """Load `data/uscounties.csv` and build a normalized lookup.
+
+    Returns a dict keyed by (normalized_county, 2-letter-state) -> (lat, lng).
+    Caches both the raw table (_COUNTY_DF) and the lookup dict.
+    """
+    global _COUNTY_DF, _COUNTY_LOOKUP
+    if _COUNTY_LOOKUP is not None:
+        return _COUNTY_LOOKUP
+
+    # locate CSV relative to this file
+    csv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data', 'uscounties.csv'))
+    lookup = {}
+    # Prefer pandas if available; otherwise use the standard csv reader
+    df = None
+    try:
+        import pandas as pd
+        try:
+            df = pd.read_csv(csv_path, dtype=str)
+            _COUNTY_DF = df
+        except Exception as e:
+            logger.warning("Could not read uscounties.csv at %s using pandas: %s", csv_path, e)
+            df = None
+            _COUNTY_DF = None
+    except Exception:
+        df = None
+        _COUNTY_DF = None
+
+    if df is None:
+        # try builtin csv reader
+        try:
+            import csv as _csv
+            rows = []
+            with open(csv_path, newline='', encoding='utf-8') as fh:
+                reader = _csv.DictReader(fh)
+                for r in reader:
+                    rows.append(r)
+            df = rows
+        except Exception as e:
+            logger.warning('Could not read uscounties.csv at %s using csv module: %s', csv_path, e)
+            _COUNTY_DF = None
+            _COUNTY_LOOKUP = lookup
+            return lookup
+
+    # handle both pandas DataFrame (if pandas used) and list-of-dicts (csv.DictReader)
+    if hasattr(df, 'columns'):
+        # pandas DataFrame path
+        for col in ['county', 'county_ascii', 'county_full', 'state_id', 'lat', 'lng']:
+            if col not in df.columns:
+                df[col] = None
+
+        # Build normalized county name column
+        df['_county_norms'] = df.apply(lambda r: list({
+            _normalize_county_name(r.get('county')),
+            _normalize_county_name(r.get('county_ascii')),
+            _normalize_county_name(r.get('county_full'))
+        } - {''}), axis=1)
+
+    # populate lookup for each normalized variant (use normalized 2-letter codes)
+        for _, row in df.iterrows():
+            state_raw = row.get('state_id')
+            state_code = normalize_state_name(state_raw)
+            lat = row.get('lat')
+            lng = row.get('lng')
+            try:
+                latf = float(lat) if lat not in (None, '') else None
+                lngf = float(lng) if lng not in (None, '') else None
+            except Exception:
+                latf = None
+                lngf = None
+
+            if state_code is None:
+                # skip rows missing a recognizable state
+                continue
+
+            norms = row.get('_county_norms') or []
+            for n in norms:
+                key = (n, state_code)
+                # prefer first seen (dataset likely unique)
+                if key not in lookup and latf is not None and lngf is not None:
+                    lookup[key] = (latf, lngf)
+    else:
+        # list-of-dicts path (csv.DictReader) - normalize fields the same way
+        for row in df:
+            state_raw = row.get('state_id') or row.get('state') or row.get('state_name')
+            state_code = normalize_state_name(state_raw)
+            lat = row.get('lat') or row.get('latitude')
+            lng = row.get('lng') or row.get('longitude')
+            try:
+                latf = float(lat) if lat not in (None, '') else None
+                lngf = float(lng) if lng not in (None, '') else None
+            except Exception:
+                latf = None
+                lngf = None
+
+            if state_code is None:
+                # skip rows missing a recognizable state
+                continue
+
+            norms = set()
+            for col in ('county', 'county_ascii', 'county_full'):
+                norms.add(_normalize_county_name(row.get(col)))
+            norms.discard('')
+
+            for n in norms:
+                key = (n, state_code)
+                if key not in lookup and latf is not None and lngf is not None:
+                    lookup[key] = (latf, lngf)
+
+    _COUNTY_LOOKUP = lookup
+    return lookup
+
+
 def get_county_coordinates(county_name, state_name):
+    """Return (lat, lng) for a given county and state.
+
+    Attempts a county-level lookup first. If that fails, falls back to a
+    predefined state center. If the state is unrecognized, returns the
+    continental US center.
     """
-    Get approximate coordinates for a county using a simple lookup.
-    
-    For production, consider using a geocoding service or FIPS-based lookup.
-    This is a simplified version that returns the approximate center of the state.
-    You may want to use a proper geocoding library for more accurate county-level coordinates.
-    
-    Args:
-        county_name: Name of the county (not currently used, but kept for API compatibility)
-        state_name: Name or code of the state
-    
-    Returns:
-        Tuple of (latitude, longitude) for the state center
-    """
-    # Simple fallback: return approximate center of state
-    # In production, use a proper geocoding service or FIPS lookup table
+    # Predefined state center coordinates (fallback)
     state_centers = {
         'AL': (32.806671, -86.791130), 'AK': (61.370716, -152.404419), 'AZ': (33.729759, -111.431221),
         'AR': (34.969704, -92.373123), 'CA': (36.116203, -119.681564), 'CO': (39.059811, -105.311104),
@@ -80,10 +221,32 @@ def get_county_coordinates(county_name, state_name):
         'VA': (37.769337, -78.169968), 'WA': (47.400902, -121.490494), 'WV': (38.491226, -80.954453),
         'WI': (44.268543, -89.616508), 'WY': (42.755966, -107.302490), 'DC': (38.907192, -77.036873)
     }
-    
+
     state_code = normalize_state_name(state_name)
+    if state_code is None:
+        # fallback: center of US
+        return (39.8283, -98.5795)
+
+    # try county-level lookup
+    try:
+        lookup = _load_county_lookup()
+        if county_name:
+            cn = _normalize_county_name(county_name)
+            key = (cn, state_code)
+            if key in lookup:
+                return lookup[key]
+
+            # If exact normalized key not found, try searching for any key with same county normalized or fuzzy match
+            # simple heuristic: check keys with same state and county substring
+            for (k_county, k_state), coords in lookup.items():
+                if k_state == state_code and (cn == k_county or cn in k_county or k_county in cn):
+                    return coords
+    except Exception as e:
+        logger.debug('County lookup failed: %s', e)
+
+    # fallback to state center
     if state_code in state_centers:
         return state_centers[state_code]
-    # Default to center of US
+
     return (39.8283, -98.5795)
 
