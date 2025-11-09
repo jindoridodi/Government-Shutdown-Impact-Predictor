@@ -5,6 +5,7 @@ Main orchestrator script that coordinates data preprocessing and forecasting.
 
 import sys
 from pathlib import Path
+import os
 
 # Add parent directory to path to allow importing from utils and models
 _repo_root = Path(__file__).resolve().parents[1]
@@ -17,13 +18,13 @@ from utils.data_processing import preprocess_data
 from models.forecasting import forecast_risk_by_county
 from models.watsonx_ts_client import initialize_client
 from utils.logger import logger
+from utils.config import DATA_PATHS
 
 
 def save_results(results: pd.DataFrame, output_dir: Optional[Path] = None) -> Path:
     """Save forecast results to CSV file for heatmap visualization."""
     if output_dir is None:
-        repo_root = Path(__file__).resolve().parents[1]
-        output_dir = repo_root / 'data' / 'processed'
+        output_dir = Path(DATA_PATHS.get('processed', os.path.abspath(os.path.join(Path(__file__).resolve().parents[1], 'data', 'processed'))))
     else:
         output_dir = Path(output_dir)
     

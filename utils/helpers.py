@@ -24,13 +24,26 @@ def read_csv_flexible(file_path: Path) -> pd.DataFrame:
     
     for encoding in encodings:
         try:
+            # Try the fast C engine first
             df = pd.read_csv(file_path, encoding=encoding, low_memory=False)
             return df
         except (UnicodeDecodeError, UnicodeError):
+            # encoding issue - try next encoding
             continue
-    
-    # If all encodings fail, try with error handling
-    return pd.read_csv(file_path, encoding='utf-8', errors='replace', low_memory=False)
+        except pd.errors.ParserError:
+            # Fallback: try the python engine and skip bad lines to tolerate malformed rows
+            try:
+                df = pd.read_csv(file_path, encoding=encoding, engine='python', on_bad_lines='skip')
+                return df
+            except Exception:
+                continue
+
+    # If all encodings fail, try with error handling replacing invalid bytes
+    try:
+        return pd.read_csv(file_path, encoding='utf-8', errors='replace', low_memory=False)
+    except Exception:
+        # Final fallback: python engine and skip bad lines
+        return pd.read_csv(file_path, encoding='utf-8', engine='python', on_bad_lines='skip')
 
 
 def clean_numeric_column(series: pd.Series) -> pd.Series:

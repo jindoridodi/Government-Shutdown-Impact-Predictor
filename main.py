@@ -8,6 +8,7 @@ from PyQt6.QtWebEngineWidgets import QWebEngineView
 import pandas as pd
 import folium
 from folium import plugins
+from utils.config import DATA_PATHS
 
 class Dashboard(QWidget):
     def __init__(self):
@@ -26,7 +27,7 @@ class Dashboard(QWidget):
     def load_heatmap(self):
         # Load data from CSV and create heatmap using Folium
         base_dir = os.path.dirname(__file__)
-        csv_path = os.path.join(base_dir, "data", "processed", "regional_risk.csv")
+        csv_path = os.path.join(DATA_PATHS.get('processed', os.path.join(os.path.dirname(__file__), 'data', 'processed')), "regional_risk.csv")
         
         try:
             data = pd.read_csv(csv_path)

@@ -7,12 +7,14 @@ import numpy as np
 from pathlib import Path
 from typing import Optional
 import sys
+import os
 # Add parent directory to path to allow importing from models
 _repo_root = Path(__file__).resolve().parents[1]
 if str(_repo_root) not in sys.path:
     sys.path.insert(0, str(_repo_root))
 from utils.helpers import read_csv_flexible, clean_numeric_column, normalize_county_name, parse_period_to_date
 from utils.geocode import normalize_state_name
+from utils.config import DATA_PATHS
 from utils.logger import logger
 from models.constants import FIPS_TO_STATE, RISK_WEIGHTS, POPULATION_ESTIMATE_MULTIPLIER
 
@@ -83,9 +85,12 @@ def process_snap_data(snap_df: pd.DataFrame) -> pd.DataFrame:
     
     snap_processed = []
     for _, row in snap_df.iterrows():
-        county = normalize_county_name(str(row.get('county_name', '')))
-        state = normalize_state_name(str(row.get('state_name', '')))
-        snap_households = clean_numeric_column(pd.Series([row.get('snap_households', 0)]))[0] or 0
+        # tolerate different column names: 'county' or 'county_name', 'state' or 'state_name'
+        county_raw = row.get('county_name') if 'county_name' in row.index else row.get('county')
+        state_raw = row.get('state_name') if 'state_name' in row.index else row.get('state')
+        county = normalize_county_name(str(county_raw or ''))
+        state = normalize_state_name(str(state_raw or ''))
+        snap_households = clean_numeric_column(pd.Series([row.get('snap_households', row.get('snap_household_count', 0))]))[0] or 0
         
         if county and state:
             snap_processed.append({
@@ -189,8 +194,8 @@ def preprocess_data() -> pd.DataFrame:
     """
     logger.info("Starting data preprocessing...")
 
-    repo_root = Path(__file__).resolve().parents[1]
-    data_dir = repo_root / 'data'
+    # Use configured raw data directory (moved datasets are under data/datasets/)
+    data_dir = Path(DATA_PATHS.get('raw', os.path.abspath(os.path.join(Path(__file__).resolve().parents[1], 'data'))))
 
     # Load CSV files
     logger.info("Loading CSV files...")

@@ -1,0 +1,3223 @@
+﻿fips,county,state_name,snap_households,snap_household_rate
+01001,Autauga County,Alabama," 1,974 ", 8.76 
+01003,Baldwin County,Alabama," 6,480 ", 6.85 
+01005,Barbour County,Alabama," 2,013 ", 22.17 
+01007,Bibb County,Alabama," 1,535 ", 20.27 
+01009,Blount County,Alabama," 2,706 ", 12.31 
+01011,Bullock County,Alabama," 1,137 ", 32.93 
+01013,Butler County,Alabama," 1,189 ", 16.37 
+01015,Calhoun County,Alabama," 7,764 ", 17.21 
+01017,Chambers County,Alabama," 2,300 ", 17.14 
+01019,Cherokee County,Alabama," 1,200 ", 11.45 
+01021,Chilton County,Alabama," 2,434 ", 13.87 
+01023,Choctaw County,Alabama, 861 , 16.64 
+01025,Clarke County,Alabama," 1,902 ", 22.50 
+01027,Clay County,Alabama, 818 , 14.19 
+01029,Cleburne County,Alabama, 888 , 15.18 
+01031,Coffee County,Alabama," 2,562 ", 12.28 
+01033,Colbert County,Alabama," 3,841 ", 15.86 
+01035,Conecuh County,Alabama, 771 , 17.03 
+01037,Coosa County,Alabama, 573 , 13.64 
+01039,Covington County,Alabama," 1,994 ", 13.76 
+01041,Crenshaw County,Alabama, 934 , 18.40 
+01043,Cullman County,Alabama," 3,571 ", 10.34 
+01045,Dale County,Alabama," 3,463 ", 17.52 
+01047,Dallas County,Alabama," 5,012 ", 32.51 
+01049,DeKalb County,Alabama," 4,216 ", 16.25 
+01051,Elmore County,Alabama," 3,513 ", 10.80 
+01053,Escambia County,Alabama," 1,999 ", 15.64 
+01055,Etowah County,Alabama," 6,116 ", 15.62 
+01057,Fayette County,Alabama," 1,073 ", 17.73 
+01059,Franklin County,Alabama," 2,212 ", 19.08 
+01061,Geneva County,Alabama," 1,791 ", 16.98 
+01063,Greene County,Alabama, 916 , 30.16 
+01065,Hale County,Alabama," 1,462 ", 26.39 
+01067,Henry County,Alabama, 936 , 14.00 
+01069,Houston County,Alabama," 6,807 ", 15.99 
+01071,Jackson County,Alabama," 2,871 ", 13.55 
+01073,Jefferson County,Alabama," 37,463 ", 13.93 
+01075,Lamar County,Alabama, 929 , 18.63 
+01077,Lauderdale County,Alabama," 4,177 ", 10.77 
+01079,Lawrence County,Alabama," 2,070 ", 15.75 
+01081,Lee County,Alabama," 7,133 ", 10.50 
+01083,Limestone County,Alabama," 3,243 ", 8.10 
+01085,Lowndes County,Alabama," 1,122 ", 26.96 
+01087,Macon County,Alabama," 1,581 ", 22.11 
+01089,Madison County,Alabama," 12,936 ", 7.96 
+01091,Marengo County,Alabama," 1,779 ", 23.36 
+01093,Marion County,Alabama," 1,934 ", 17.79 
+01095,Marshall County,Alabama," 4,034 ", 11.22 
+01097,Mobile County,Alabama," 27,089 ", 16.88 
+01099,Monroe County,Alabama," 1,078 ", 14.58 
+01101,Montgomery County,Alabama," 18,272 ", 20.13 
+01103,Morgan County,Alabama," 6,145 ", 12.60 
+01105,Perry County,Alabama," 1,028 ", 32.18 
+01107,Pickens County,Alabama," 1,245 ", 17.92 
+01109,Pike County,Alabama," 1,867 ", 14.81 
+01111,Randolph County,Alabama," 1,602 ", 17.55 
+01113,Russell County,Alabama," 4,474 ", 18.81 
+01117,Shelby County,Alabama," 4,206 ", 4.92 
+01115,St. Clair County,Alabama," 3,581 ", 10.39 
+01119,Sumter County,Alabama," 1,270 ", 26.65 
+01121,Talladega County,Alabama," 5,360 ", 16.30 
+01123,Tallapoosa County,Alabama," 2,714 ", 16.40 
+01125,Tuscaloosa County,Alabama," 9,992 ", 11.45 
+01127,Walker County,Alabama," 3,539 ", 14.25 
+01129,Washington County,Alabama, 696 , 12.26 
+01131,Wilcox County,Alabama," 1,339 ", 36.26 
+01133,Winston County,Alabama," 1,423 ", 15.26 
+02013,Aleutians East Borough,Alaska, 129 , 12.93 
+02016,Aleutians West Census Area,Alaska, 49 , 5.02 
+02020,Anchorage Municipality,Alaska," 9,497 ", 8.80 
+02050,Bethel Census Area,Alaska," 1,974 ", 42.35 
+02060,Bristol Bay Borough,Alaska, 15 , 5.30 
+02063,Chugach Census Area,Alaska, 213 , 7.95 
+02066,Copper River Census Area,Alaska, 156 , 13.61 
+02068,Denali Borough,Alaska, 15 , 2.81 
+02070,Dillingham Census Area,Alaska, 415 , 30.01 
+02090,Fairbanks North Star Borough,Alaska," 2,351 ", 6.50 
+02100,Haines Borough,Alaska, 24 , 2.67 
+02105,Hoonah-Angoon Census Area,Alaska, 135 , 14.64 
+02110,Juneau City and Borough,Alaska, 916 , 6.97 
+02122,Kenai Peninsula Borough,Alaska," 2,051 ", 8.58 
+02130,Ketchikan Gateway Borough,Alaska, 511 , 9.09 
+02150,Kodiak Island Borough,Alaska, 390 , 8.46 
+02158,Kusilvak Census Area,Alaska, 962 , 50.87 
+02164,Lake and Peninsula Borough,Alaska, 92 , 28.57 
+02170,Matanuska-Susitna Borough,Alaska," 4,022 ", 10.14 
+02180,Nome Census Area,Alaska, 846 , 30.37 
+02185,North Slope Borough,Alaska, 262 , 11.88 
+02188,Northwest Arctic Borough,Alaska, 633 , 34.84 
+02195,Petersburg Borough,Alaska, 116 , 8.79 
+02198,Prince of Wales-Hyder Census Area,Alaska, 395 , 16.82 
+02220,Sitka City and Borough,Alaska, 232 , 6.62 
+02230,Skagway Municipality,Alaska, 11 , 2.44 
+02240,Southeast Fairbanks Census Area,Alaska, 202 , 8.74 
+02275,Wrangell City and Borough,Alaska, 105 , 11.51 
+02282,Yakutat City and Borough,Alaska, 12 , 5.80 
+02290,Yukon-Koyukuk Census Area,Alaska, 558 , 24.08 
+04001,Apache County,Arizona," 5,933 ", 29.03 
+04003,Cochise County,Arizona," 7,522 ", 14.90 
+04005,Coconino County,Arizona," 5,720 ", 10.66 
+04007,Gila County,Arizona," 3,341 ", 14.37 
+04009,Graham County,Arizona," 1,804 ", 14.48 
+04011,Greenlee County,Arizona, 247 , 7.17 
+04012,La Paz County,Arizona," 1,253 ", 14.10 
+04013,Maricopa County,Arizona," 142,229 ", 8.38 
+04015,Mohave County,Arizona," 11,792 ", 12.17 
+04017,Navajo County,Arizona," 8,228 ", 21.01 
+04019,Pima County,Arizona," 51,957 ", 12.06 
+04021,Pinal County,Arizona," 16,173 ", 10.29 
+04023,Santa Cruz County,Arizona," 3,967 ", 23.59 
+04025,Yavapai County,Arizona," 8,611 ", 7.91 
+04027,Yuma County,Arizona," 13,995 ", 18.20 
+05001,Arkansas County,Arkansas, 849 , 12.89 
+05003,Ashley County,Arkansas, 943 , 13.10 
+05005,Baxter County,Arkansas," 1,658 ", 8.60 
+05007,Benton County,Arkansas," 4,359 ", 4.05 
+05009,Boone County,Arkansas," 1,323 ", 8.69 
+05011,Bradley County,Arkansas, 704 , 19.56 
+05013,Calhoun County,Arkansas, 129 , 8.14 
+05015,Carroll County,Arkansas, 539 , 4.85 
+05017,Chicot County,Arkansas, 664 , 16.94 
+05019,Clark County,Arkansas," 1,039 ", 12.75 
+05021,Clay County,Arkansas, 731 , 11.95 
+05023,Cleburne County,Arkansas, 943 , 9.02 
+05025,Cleveland County,Arkansas, 382 , 13.68 
+05027,Columbia County,Arkansas," 1,136 ", 13.59 
+05029,Conway County,Arkansas," 1,166 ", 14.04 
+05031,Craighead County,Arkansas," 5,067 ", 11.69 
+05033,Crawford County,Arkansas," 2,289 ", 9.95 
+05035,Crittenden County,Arkansas," 3,087 ", 16.83 
+05037,Cross County,Arkansas, 817 , 12.52 
+05039,Dallas County,Arkansas, 312 , 12.87 
+05041,Desha County,Arkansas," 1,035 ", 21.79 
+05043,Drew County,Arkansas," 1,130 ", 16.13 
+05045,Faulkner County,Arkansas," 3,724 ", 7.62 
+05047,Franklin County,Arkansas, 846 , 12.30 
+05049,Fulton County,Arkansas, 648 , 13.48 
+05051,Garland County,Arkansas," 4,467 ", 10.21 
+05053,Grant County,Arkansas, 533 , 7.66 
+05055,Greene County,Arkansas," 2,660 ", 14.84 
+05057,Hempstead County,Arkansas, 678 , 9.10 
+05059,Hot Spring County,Arkansas," 1,421 ", 11.74 
+05061,Howard County,Arkansas, 610 , 11.80 
+05063,Independence County,Arkansas," 1,902 ", 13.10 
+05065,Izard County,Arkansas, 603 , 12.00 
+05067,Jackson County,Arkansas," 1,224 ", 20.09 
+05069,Jefferson County,Arkansas," 3,729 ", 15.32 
+05071,Johnson County,Arkansas," 1,310 ", 13.04 
+05073,Lafayette County,Arkansas, 409 , 15.95 
+05075,Lawrence County,Arkansas," 1,041 ", 16.17 
+05077,Lee County,Arkansas, 760 , 28.78 
+05079,Lincoln County,Arkansas, 400 , 11.37 
+05081,Little River County,Arkansas, 469 , 9.79 
+05083,Logan County,Arkansas, 953 , 11.23 
+05085,Lonoke County,Arkansas," 2,148 ", 7.72 
+05087,Madison County,Arkansas, 663 , 10.39 
+05089,Marion County,Arkansas, 745 , 10.21 
+05091,Miller County,Arkansas," 2,284 ", 14.00 
+05093,Mississippi County,Arkansas," 2,727 ", 17.73 
+05095,Monroe County,Arkansas, 512 , 18.16 
+05097,Montgomery County,Arkansas, 445 , 11.86 
+05099,Nevada County,Arkansas, 490 , 14.40 
+05101,Newton County,Arkansas, 385 , 12.63 
+05103,Ouachita County,Arkansas," 1,133 ", 13.19 
+05105,Perry County,Arkansas, 413 , 10.76 
+05107,Phillips County,Arkansas," 1,835 ", 29.70 
+05109,Pike County,Arkansas, 507 , 12.31 
+05111,Poinsett County,Arkansas," 1,730 ", 19.16 
+05113,Polk County,Arkansas, 969 , 12.29 
+05115,Pope County,Arkansas," 2,295 ", 9.53 
+05117,Prairie County,Arkansas, 377 , 11.56 
+05119,Pulaski County,Arkansas," 17,822 ", 10.52 
+05121,Randolph County,Arkansas," 1,112 ", 15.73 
+05125,Saline County,Arkansas," 2,750 ", 5.55 
+05127,Scott County,Arkansas, 535 , 13.62 
+05129,Searcy County,Arkansas, 334 , 10.94 
+05131,Sebastian County,Arkansas," 5,941 ", 11.44 
+05133,Sevier County,Arkansas," 1,221 ", 21.43 
+05135,Sharp County,Arkansas," 1,211 ", 17.78 
+05123,St. Francis County,Arkansas," 1,770 ", 22.46 
+05137,Stone County,Arkansas, 855 , 17.23 
+05139,Union County,Arkansas," 1,520 ", 10.05 
+05141,Van Buren County,Arkansas, 661 , 9.29 
+05143,Washington County,Arkansas," 5,552 ", 5.82 
+05145,White County,Arkansas," 3,342 ", 11.55 
+05147,Woodruff County,Arkansas, 532 , 19.32 
+05149,Yell County,Arkansas, 875 , 10.87 
+06001,Alameda County,California," 51,780 ", 8.73 
+06003,Alpine County,California, 40 , 8.46 
+06005,Amador County,California," 1,284 ", 7.99 
+06007,Butte County,California," 12,377 ", 15.03 
+06009,Calaveras County,California," 1,718 ", 9.60 
+06011,Colusa County,California," 1,065 ", 14.26 
+06013,Contra Costa County,California," 31,571 ", 7.67 
+06015,Del Norte County,California," 1,902 ", 19.77 
+06017,El Dorado County,California," 4,662 ", 6.16 
+06019,Fresno County,California," 66,018 ", 20.49 
+06021,Glenn County,California," 1,299 ", 13.31 
+06023,Humboldt County,California," 10,058 ", 18.33 
+06025,Imperial County,California," 13,036 ", 26.69 
+06027,Inyo County,California, 607 , 7.66 
+06029,Kern County,California," 53,553 ", 19.03 
+06031,Kings County,California," 8,129 ", 18.59 
+06033,Lake County,California," 5,534 ", 20.99 
+06035,Lassen County,California, 994 , 10.97 
+06037,Los Angeles County,California," 441,054 ", 13.01 
+06039,Madera County,California," 9,543 ", 21.44 
+06041,Marin County,California," 4,963 ", 4.81 
+06043,Mariposa County,California, 823 , 10.95 
+06045,Mendocino County,California," 5,304 ", 15.34 
+06047,Merced County,California," 17,527 ", 20.72 
+06049,Modoc County,California, 426 , 13.05 
+06051,Mono County,California, 174 , 3.15 
+06053,Monterey County,California," 11,594 ", 8.78 
+06055,Napa County,California," 2,927 ", 5.89 
+06057,Nevada County,California," 3,058 ", 7.30 
+06059,Orange County,California," 81,628 ", 7.60 
+06061,Placer County,California," 8,306 ", 5.34 
+06063,Plumas County,California, 850 , 10.55 
+06065,Riverside County,California," 89,704 ", 11.77 
+06067,Sacramento County,California," 76,928 ", 13.54 
+06069,San Benito County,California," 2,116 ", 10.48 
+06071,San Bernardino County,California," 99,812 ", 14.94 
+06073,San Diego County,California," 104,911 ", 9.05 
+06075,San Francisco County,California," 35,182 ", 9.70 
+06077,San Joaquin County,California," 36,376 ", 15.07 
+06079,San Luis Obispo County,California," 7,469 ", 6.86 
+06081,San Mateo County,California," 11,807 ", 4.47 
+06083,Santa Barbara County,California," 14,695 ", 9.87 
+06085,Santa Clara County,California," 37,459 ", 5.72 
+06087,Santa Cruz County,California," 9,002 ", 9.29 
+06089,Shasta County,California," 9,135 ", 12.78 
+06091,Sierra County,California, 84 , 6.97 
+06093,Siskiyou County,California," 2,831 ", 14.97 
+06095,Solano County,California," 15,843 ", 10.17 
+06097,Sonoma County,California," 13,814 ", 7.25 
+06099,Stanislaus County,California," 24,842 ", 14.08 
+06101,Sutter County,California," 4,424 ", 13.31 
+06103,Tehama County,California," 3,009 ", 12.27 
+06105,Trinity County,California, 487 , 9.06 
+06107,Tulare County,California," 33,224 ", 23.39 
+06109,Tuolumne County,California," 2,473 ", 10.84 
+06111,Ventura County,California," 22,222 ", 7.99 
+06113,Yolo County,California," 9,363 ", 12.22 
+06115,Yuba County,California," 5,036 ", 17.95 
+08001,Adams County,Colorado," 18,353 ", 9.92 
+08003,Alamosa County,Colorado," 1,767 ", 26.89 
+08005,Arapahoe County,Colorado," 19,169 ", 7.55 
+08007,Archuleta County,Colorado, 355 , 6.01 
+08009,Baca County,Colorado, 363 , 22.79 
+08011,Bent County,Colorado, 438 , 23.36 
+08013,Boulder County,Colorado," 7,756 ", 5.74 
+08014,Broomfield County,Colorado, 979 , 3.17 
+08015,Chaffee County,Colorado, 826 , 8.98 
+08017,Cheyenne County,Colorado, 49 , 6.52 
+08019,Clear Creek County,Colorado, 221 , 4.90 
+08021,Conejos County,Colorado, 568 , 18.25 
+08023,Costilla County,Colorado, 387 , 24.59 
+08025,Crowley County,Colorado, 324 , 24.31 
+08027,Custer County,Colorado, 144 , 5.88 
+08029,Delta County,Colorado," 1,537 ", 12.15 
+08031,Denver County,Colorado," 27,365 ", 8.30 
+08033,Dolores County,Colorado, 119 , 9.61 
+08035,Douglas County,Colorado," 2,646 ", 1.94 
+08037,Eagle County,Colorado, 737 , 3.52 
+08041,El Paso County,Colorado," 24,743 ", 8.74 
+08039,Elbert County,Colorado, 419 , 4.34 
+08043,Fremont County,Colorado," 2,743 ", 15.50 
+08045,Garfield County,Colorado," 1,984 ", 8.60 
+08047,Gilpin County,Colorado, 231 , 7.51 
+08049,Grand County,Colorado, 332 , 5.14 
+08051,Gunnison County,Colorado, 487 , 6.16 
+08053,Hinsdale County,Colorado, 44 , 9.30 
+08055,Huerfano County,Colorado, 424 , 14.95 
+08057,Jackson County,Colorado, 86 , 13.56 
+08059,Jefferson County,Colorado," 12,215 ", 5.09 
+08061,Kiowa County,Colorado, 88 , 15.33 
+08063,Kit Carson County,Colorado, 328 , 11.26 
+08067,La Plata County,Colorado," 1,689 ", 7.28 
+08065,Lake County,Colorado, 177 , 5.98 
+08069,Larimer County,Colorado," 10,605 ", 7.00 
+08071,Las Animas County,Colorado," 1,253 ", 18.70 
+08073,Lincoln County,Colorado, 212 , 10.76 
+08075,Logan County,Colorado," 1,233 ", 15.13 
+08077,Mesa County,Colorado," 6,869 ", 10.64 
+08079,Mineral County,Colorado, 42 , 9.68 
+08081,Moffat County,Colorado, 581 , 10.96 
+08083,Montezuma County,Colorado," 1,193 ", 10.93 
+08085,Montrose County,Colorado," 1,887 ", 10.77 
+08087,Morgan County,Colorado," 1,510 ", 13.69 
+08089,Otero County,Colorado," 1,528 ", 19.99 
+08091,Ouray County,Colorado, 104 , 4.14 
+08093,Park County,Colorado, 335 , 3.97 
+08095,Phillips County,Colorado, 173 , 9.31 
+08097,Pitkin County,Colorado, 133 , 1.47 
+08099,Prowers County,Colorado, 782 , 17.13 
+08101,Pueblo County,Colorado," 13,557 ", 19.99 
+08103,Rio Blanco County,Colorado, 343 , 13.26 
+08105,Rio Grande County,Colorado, 922 , 18.32 
+08107,Routt County,Colorado, 544 , 5.12 
+08109,Saguache County,Colorado, 673 , 20.64 
+08111,San Juan County,Colorado, 31 , 8.56 
+08113,San Miguel County,Colorado, 139 , 3.48 
+08115,Sedgwick County,Colorado, 151 , 15.10 
+08117,Summit County,Colorado, 255 , 2.07 
+08119,Teller County,Colorado," 1,193 ", 10.60 
+08121,Washington County,Colorado, 196 , 9.47 
+08123,Weld County,Colorado," 9,795 ", 8.16 
+08125,Yuma County,Colorado, 516 , 13.04 
+09110,Capitol Planning Region,Connecticut," 50,196 ", 12.90 
+09120,Greater Bridgeport Planning Region,Connecticut," 16,781 ", 14.18 
+09130,Lower Connecticut River Valley Planning Region,Connecticut," 5,523 ", 7.50 
+09140,Naugatuck Valley Planning Region,Connecticut," 25,030 ", 14.03 
+09150,Northeastern Connecticut Planning Region,Connecticut," 4,382 ", 11.19 
+09160,Northwest Hills Planning Region,Connecticut," 3,737 ", 7.95 
+09170,South Central Connecticut Planning Region,Connecticut," 30,291 ", 13.30 
+09180,Southeastern Connecticut Planning Region,Connecticut," 14,314 ", 12.49 
+09190,Western Connecticut Planning Region,Connecticut," 15,481 ", 6.66 
+10001,Kent County,Delaware," 9,987 ", 14.26 
+10003,New Castle County,Delaware," 22,072 ", 9.90 
+10005,Sussex County,Delaware," 10,962 ", 10.62 
+11001,District of Columbia,District of Columbia," 42,590 ", 13.24 
+12001,Alachua County,Florida," 9,970 ", 8.84 
+12003,Baker County,Florida," 1,652 ", 18.33 
+12005,Bay County,Florida," 9,623 ", 12.64 
+12007,Bradford County,Florida," 1,646 ", 18.08 
+12009,Brevard County,Florida," 23,786 ", 9.44 
+12011,Broward County,Florida," 97,613 ", 13.03 
+12013,Calhoun County,Florida," 1,042 ", 22.53 
+12015,Charlotte County,Florida," 6,413 ", 7.34 
+12017,Citrus County,Florida," 8,423 ", 12.08 
+12019,Clay County,Florida," 7,072 ", 8.65 
+12021,Collier County,Florida," 9,311 ", 5.79 
+12023,Columbia County,Florida," 5,286 ", 19.78 
+12027,DeSoto County,Florida," 2,855 ", 22.56 
+12029,Dixie County,Florida," 1,237 ", 20.18 
+12031,Duval County,Florida," 57,145 ", 14.11 
+12033,Escambia County,Florida," 18,861 ", 14.70 
+12035,Flagler County,Florida," 3,740 ", 7.44 
+12037,Franklin County,Florida, 845 , 17.18 
+12039,Gadsden County,Florida," 4,102 ", 24.88 
+12041,Gilchrist County,Florida," 1,155 ", 16.71 
+12043,Glades County,Florida, 728 , 15.96 
+12045,Gulf County,Florida, 794 , 13.69 
+12047,Hamilton County,Florida," 1,401 ", 32.13 
+12049,Hardee County,Florida," 2,108 ", 25.87 
+12051,Hendry County,Florida," 2,510 ", 18.00 
+12053,Hernando County,Florida," 10,500 ", 13.04 
+12055,Highlands County,Florida," 6,856 ", 14.92 
+12057,Hillsborough County,Florida," 74,643 ", 13.10 
+12059,Holmes County,Florida, 977 , 13.79 
+12061,Indian River County,Florida," 5,195 ", 7.56 
+12063,Jackson County,Florida," 3,423 ", 20.09 
+12065,Jefferson County,Florida," 1,217 ", 21.44 
+12067,Lafayette County,Florida, 464 , 17.72 
+12069,Lake County,Florida," 15,766 ", 9.89 
+12071,Lee County,Florida," 26,323 ", 8.24 
+12073,Leon County,Florida," 13,792 ", 11.43 
+12075,Levy County,Florida," 3,002 ", 16.70 
+12077,Liberty County,Florida, 755 , 29.56 
+12079,Madison County,Florida," 1,220 ", 17.48 
+12081,Manatee County,Florida," 13,195 ", 7.83 
+12083,Marion County,Florida," 22,116 ", 13.84 
+12085,Martin County,Florida," 4,504 ", 6.64 
+12086,Miami-Dade County,Florida," 219,474 ", 22.75 
+12087,Monroe County,Florida," 2,565 ", 7.41 
+12089,Nassau County,Florida," 2,730 ", 7.16 
+12091,Okaloosa County,Florida," 6,188 ", 7.36 
+12093,Okeechobee County,Florida," 2,742 ", 18.05 
+12095,Orange County,Florida," 71,616 ", 14.07 
+12097,Osceola County,Florida," 22,823 ", 17.37 
+12099,Palm Beach County,Florida," 59,511 ", 9.97 
+12101,Pasco County,Florida," 25,233 ", 10.98 
+12103,Pinellas County,Florida," 37,002 ", 8.74 
+12105,Polk County,Florida," 40,315 ", 14.57 
+12107,Putnam County,Florida," 6,793 ", 22.16 
+12113,Santa Rosa County,Florida," 6,611 ", 9.28 
+12115,Sarasota County,Florida," 11,171 ", 5.44 
+12117,Seminole County,Florida," 16,837 ", 9.08 
+12109,St. Johns County,Florida," 4,854 ", 4.46 
+12111,St. Lucie County,Florida," 16,515 ", 12.55 
+12119,Sumter County,Florida," 3,543 ", 5.29 
+12121,Suwannee County,Florida," 2,394 ", 15.38 
+12123,Taylor County,Florida," 1,362 ", 17.99 
+12125,Union County,Florida, 812 , 19.37 
+12127,Volusia County,Florida," 29,132 ", 12.27 
+12129,Wakulla County,Florida," 1,470 ", 12.06 
+12131,Walton County,Florida," 2,857 ", 8.75 
+12133,Washington County,Florida," 1,162 ", 12.52 
+13001,Appling County,Georgia," 1,438 ", 20.43 
+13003,Atkinson County,Georgia, 751 , 23.55 
+13005,Bacon County,Georgia, 801 , 19.96 
+13007,Baker County,Georgia, 189 , 16.97 
+13009,Baldwin County,Georgia," 2,482 ", 15.44 
+13011,Banks County,Georgia, 599 , 8.83 
+13013,Barrow County,Georgia," 2,998 ", 10.07 
+13015,Bartow County,Georgia," 3,161 ", 7.97 
+13017,Ben Hill County,Georgia," 1,570 ", 21.92 
+13019,Berrien County,Georgia," 1,521 ", 22.10 
+13021,Bibb County,Georgia," 13,205 ", 22.13 
+13023,Bleckley County,Georgia," 1,040 ", 24.28 
+13025,Brantley County,Georgia," 1,529 ", 22.39 
+13027,Brooks County,Georgia," 1,076 ", 17.95 
+13029,Bryan County,Georgia," 1,332 ", 8.42 
+13031,Bulloch County,Georgia," 4,454 ", 14.71 
+13033,Burke County,Georgia," 1,566 ", 17.21 
+13035,Butts County,Georgia," 1,325 ", 15.14 
+13037,Calhoun County,Georgia, 511 , 33.89 
+13039,Camden County,Georgia," 2,471 ", 11.75 
+13043,Candler County,Georgia, 956 , 22.85 
+13045,Carroll County,Georgia," 6,493 ", 14.89 
+13047,Catoosa County,Georgia," 2,928 ", 11.20 
+13049,Charlton County,Georgia, 895 , 21.90 
+13051,Chatham County,Georgia," 14,019 ", 11.76 
+13053,Chattahoochee County,Georgia, 364 , 19.19 
+13055,Chattooga County,Georgia," 1,688 ", 18.46 
+13057,Cherokee County,Georgia," 3,678 ", 3.71 
+13059,Clarke County,Georgia," 4,934 ", 9.11 
+13061,Clay County,Georgia, 320 , 27.14 
+13063,Clayton County,Georgia," 19,773 ", 18.72 
+13065,Clinch County,Georgia, 540 , 21.86 
+13067,Cobb County,Georgia," 18,495 ", 6.30 
+13069,Coffee County,Georgia," 2,779 ", 18.14 
+13071,Colquitt County,Georgia," 3,015 ", 17.94 
+13073,Columbia County,Georgia," 3,282 ", 6.30 
+13075,Cook County,Georgia, 955 , 15.10 
+13077,Coweta County,Georgia," 4,008 ", 7.25 
+13079,Crawford County,Georgia, 663 , 15.10 
+13081,Crisp County,Georgia," 2,444 ", 30.68 
+13083,Dade County,Georgia, 510 , 8.26 
+13085,Dawson County,Georgia, 840 , 7.75 
+13089,DeKalb County,Georgia," 36,574 ", 12.85 
+13087,Decatur County,Georgia," 2,434 ", 23.24 
+13091,Dodge County,Georgia," 1,388 ", 20.85 
+13093,Dooly County,Georgia, 806 , 20.57 
+13095,Dougherty County,Georgia," 9,978 ", 29.11 
+13097,Douglas County,Georgia," 6,683 ", 13.02 
+13099,Early County,Georgia," 1,098 ", 27.16 
+13101,Echols County,Georgia, 131 , 10.84 
+13103,Effingham County,Georgia," 1,885 ", 8.00 
+13105,Elbert County,Georgia," 1,295 ", 15.71 
+13107,Emanuel County,Georgia," 2,214 ", 26.78 
+13109,Evans County,Georgia, 679 , 17.52 
+13111,Fannin County,Georgia," 1,553 ", 13.67 
+13113,Fayette County,Georgia," 1,990 ", 4.56 
+13115,Floyd County,Georgia," 5,254 ", 14.32 
+13117,Forsyth County,Georgia," 2,116 ", 2.44 
+13119,Franklin County,Georgia," 1,286 ", 14.66 
+13121,Fulton County,Georgia," 54,817 ", 11.97 
+13123,Gilmer County,Georgia," 1,165 ", 9.24 
+13125,Glascock County,Georgia, 154 , 14.78 
+13127,Glynn County,Georgia," 4,640 ", 13.40 
+13129,Gordon County,Georgia," 1,849 ", 8.87 
+13131,Grady County,Georgia," 2,155 ", 21.39 
+13133,Greene County,Georgia, 527 , 6.72 
+13135,Gwinnett County,Georgia," 23,868 ", 7.39 
+13137,Habersham County,Georgia," 1,947 ", 12.13 
+13139,Hall County,Georgia," 6,417 ", 9.00 
+13141,Hancock County,Georgia, 798 , 27.98 
+13143,Haralson County,Georgia," 1,798 ", 15.62 
+13145,Harris County,Georgia," 1,333 ", 10.55 
+13147,Hart County,Georgia," 1,178 ", 11.17 
+13149,Heard County,Georgia," 1,170 ", 26.95 
+13151,Henry County,Georgia," 8,380 ", 9.92 
+13153,Houston County,Georgia," 6,597 ", 10.61 
+13155,Irwin County,Georgia, 463 , 12.43 
+13157,Jackson County,Georgia," 2,177 ", 8.07 
+13159,Jasper County,Georgia, 720 , 12.39 
+13161,Jeff Davis County,Georgia, 840 , 15.65 
+13163,Jefferson County,Georgia," 1,397 ", 23.93 
+13165,Jenkins County,Georgia, 591 , 19.27 
+13167,Johnson County,Georgia, 873 , 26.99 
+13169,Jones County,Georgia," 1,564 ", 14.52 
+13171,Lamar County,Georgia," 1,060 ", 15.14 
+13173,Lanier County,Georgia, 545 , 15.83 
+13175,Laurens County,Georgia," 3,554 ", 19.60 
+13177,Lee County,Georgia, 936 , 7.83 
+13179,Liberty County,Georgia," 3,649 ", 15.59 
+13181,Lincoln County,Georgia, 360 , 12.10 
+13183,Long County,Georgia, 935 , 16.02 
+13185,Lowndes County,Georgia," 7,904 ", 17.59 
+13187,Lumpkin County,Georgia," 1,022 ", 8.99 
+13193,Macon County,Georgia," 1,089 ", 27.43 
+13195,Madison County,Georgia," 1,318 ", 12.10 
+13197,Marion County,Georgia, 690 , 23.39 
+13189,McDuffie County,Georgia," 1,388 ", 16.73 
+13191,McIntosh County,Georgia," 1,088 ", 22.74 
+13199,Meriwether County,Georgia," 1,865 ", 22.83 
+13201,Miller County,Georgia, 473 , 19.06 
+13205,Mitchell County,Georgia," 2,364 ", 29.57 
+13207,Monroe County,Georgia, 740 , 7.10 
+13209,Montgomery County,Georgia, 493 , 16.32 
+13211,Morgan County,Georgia, 977 , 12.54 
+13213,Murray County,Georgia," 1,713 ", 11.23 
+13215,Muscogee County,Georgia," 13,336 ", 16.55 
+13217,Newton County,Georgia," 5,574 ", 13.75 
+13219,Oconee County,Georgia, 388 , 2.64 
+13221,Oglethorpe County,Georgia, 560 , 10.68 
+13223,Paulding County,Georgia," 5,396 ", 9.21 
+13225,Peach County,Georgia," 1,648 ", 16.02 
+13227,Pickens County,Georgia," 1,347 ", 10.32 
+13229,Pierce County,Georgia, 979 , 13.06 
+13231,Pike County,Georgia, 299 , 4.60 
+13233,Polk County,Georgia," 2,838 ", 18.21 
+13235,Pulaski County,Georgia, 462 , 14.07 
+13237,Putnam County,Georgia," 1,348 ", 13.30 
+13239,Quitman County,Georgia, 246 , 26.31 
+13241,Rabun County,Georgia, 574 , 8.07 
+13243,Randolph County,Georgia," 1,094 ", 41.38 
+13245,Richmond County,Georgia," 15,781 ", 21.03 
+13247,Rockdale County,Georgia," 4,125 ", 12.15 
+13249,Schley County,Georgia, 272 , 16.72 
+13251,Screven County,Georgia, 684 , 14.36 
+13253,Seminole County,Georgia, 783 , 21.32 
+13255,Spalding County,Georgia," 4,987 ", 18.79 
+13257,Stephens County,Georgia," 1,560 ", 15.18 
+13259,Stewart County,Georgia, 590 , 33.60 
+13261,Sumter County,Georgia," 2,512 ", 23.16 
+13263,Talbot County,Georgia, 499 , 19.71 
+13265,Taliaferro County,Georgia, 169 , 26.24 
+13267,Tattnall County,Georgia," 1,459 ", 19.32 
+13269,Taylor County,Georgia, 896 , 29.27 
+13271,Telfair County,Georgia, 800 , 25.62 
+13273,Terrell County,Georgia," 1,037 ", 30.91 
+13275,Thomas County,Georgia," 3,707 ", 20.18 
+13277,Tift County,Georgia," 2,873 ", 18.49 
+13279,Toombs County,Georgia," 2,079 ", 20.53 
+13281,Towns County,Georgia, 458 , 7.87 
+13283,Treutlen County,Georgia, 607 , 26.31 
+13285,Troup County,Georgia," 5,313 ", 20.26 
+13287,Turner County,Georgia," 1,059 ", 32.11 
+13289,Twiggs County,Georgia, 652 , 22.89 
+13291,Union County,Georgia, 811 , 7.36 
+13293,Upson County,Georgia," 2,469 ", 23.79 
+13295,Walker County,Georgia," 3,062 ", 11.70 
+13297,Walton County,Georgia," 4,062 ", 11.62 
+13299,Ware County,Georgia," 2,462 ", 19.14 
+13301,Warren County,Georgia, 515 , 25.76 
+13303,Washington County,Georgia," 1,961 ", 26.97 
+13305,Wayne County,Georgia," 2,116 ", 19.16 
+13307,Webster County,Georgia, 227 , 26.74 
+13309,Wheeler County,Georgia, 319 , 20.65 
+13311,White County,Georgia, 987 , 9.47 
+13313,Whitfield County,Georgia," 3,771 ", 10.45 
+13315,Wilcox County,Georgia, 513 , 20.49 
+13317,Wilkes County,Georgia, 711 , 17.31 
+13319,Wilkinson County,Georgia, 530 , 15.84 
+13321,Worth County,Georgia," 1,565 ", 19.87 
+15001,Hawaii County,Hawaii," 13,089 ", 17.94 
+15003,Honolulu County,Hawaii," 33,816 ", 10.03 
+15005,Kalawao County,Hawaii, -   , -   
+15007,Kauai County,Hawaii," 2,789 ", 11.89 
+15009,Maui County,Hawaii," 5,261 ", 9.48 
+16001,Ada County,Idaho," 10,113 ", 5.14 
+16003,Adams County,Idaho, 48 , 2.74 
+16005,Bannock County,Idaho," 4,826 ", 14.48 
+16007,Bear Lake County,Idaho, 117 , 5.07 
+16009,Benewah County,Idaho, 427 , 10.73 
+16011,Bingham County,Idaho," 1,588 ", 9.92 
+16013,Blaine County,Idaho, 440 , 4.48 
+16015,Boise County,Idaho, 225 , 6.38 
+16017,Bonner County,Idaho," 1,361 ", 6.94 
+16019,Bonneville County,Idaho," 4,028 ", 9.29 
+16021,Boundary County,Idaho, 601 , 12.43 
+16023,Butte County,Idaho, 107 , 10.52 
+16025,Camas County,Idaho, 1 , 0.29 
+16027,Canyon County,Idaho," 8,047 ", 9.71 
+16029,Caribou County,Idaho, 189 , 7.78 
+16031,Cassia County,Idaho, 613 , 7.44 
+16033,Clark County,Idaho, 9 , 3.57 
+16035,Clearwater County,Idaho, 244 , 6.85 
+16037,Custer County,Idaho, 82 , 4.24 
+16039,Elmore County,Idaho, 991 , 9.14 
+16041,Franklin County,Idaho, 372 , 7.64 
+16043,Fremont County,Idaho, 431 , 9.57 
+16045,Gem County,Idaho, 476 , 6.43 
+16047,Gooding County,Idaho, 535 , 9.71 
+16049,Idaho County,Idaho, 267 , 4.07 
+16051,Jefferson County,Idaho, 503 , 5.08 
+16053,Jerome County,Idaho, 667 , 8.14 
+16055,Kootenai County,Idaho," 5,002 ", 7.24 
+16057,Latah County,Idaho, 782 , 4.87 
+16059,Lemhi County,Idaho, 405 , 12.09 
+16061,Lewis County,Idaho, 168 , 10.87 
+16063,Lincoln County,Idaho, 133 , 7.24 
+16065,Madison County,Idaho," 1,307 ", 10.23 
+16067,Minidoka County,Idaho, 904 , 11.57 
+16069,Nez Perce County,Idaho," 1,250 ", 7.25 
+16071,Oneida County,Idaho, 119 , 6.16 
+16073,Owyhee County,Idaho, 465 , 10.95 
+16075,Payette County,Idaho," 1,317 ", 13.89 
+16077,Power County,Idaho, 247 , 9.12 
+16079,Shoshone County,Idaho, 666 , 11.73 
+16081,Teton County,Idaho, 112 , 2.45 
+16083,Twin Falls County,Idaho," 3,612 ", 10.65 
+16085,Valley County,Idaho, 96 , 2.54 
+16087,Washington County,Idaho, 435 , 10.64 
+17001,Adams County,Illinois," 3,304 ", 11.90 
+17003,Alexander County,Illinois, 520 , 28.48 
+17005,Bond County,Illinois, 858 , 13.71 
+17007,Boone County,Illinois," 2,581 ", 13.47 
+17009,Brown County,Illinois, 251 , 12.42 
+17011,Bureau County,Illinois," 1,936 ", 13.82 
+17013,Calhoun County,Illinois, 96 , 7.86 
+17015,Carroll County,Illinois, 817 , 12.61 
+17017,Cass County,Illinois, 682 , 13.28 
+17019,Champaign County,Illinois," 8,037 ", 9.59 
+17021,Christian County,Illinois," 2,088 ", 15.43 
+17023,Clark County,Illinois, 808 , 12.25 
+17025,Clay County,Illinois, 926 , 17.05 
+17027,Clinton County,Illinois," 1,192 ", 8.24 
+17029,Coles County,Illinois," 3,496 ", 17.19 
+17031,Cook County,Illinois," 317,064 ", 15.21 
+17033,Crawford County,Illinois," 1,094 ", 14.76 
+17035,Cumberland County,Illinois, 342 , 8.18 
+17039,De Witt County,Illinois, 758 , 11.41 
+17037,DeKalb County,Illinois," 5,925 ", 15.07 
+17041,Douglas County,Illinois, 830 , 10.61 
+17043,DuPage County,Illinois," 25,442 ", 7.28 
+17045,Edgar County,Illinois," 1,450 ", 19.05 
+17047,Edwards County,Illinois, 482 , 18.17 
+17049,Effingham County,Illinois," 1,860 ", 13.26 
+17051,Fayette County,Illinois, 992 , 12.67 
+17053,Ford County,Illinois," 1,005 ", 17.55 
+17055,Franklin County,Illinois," 3,818 ", 23.67 
+17057,Fulton County,Illinois," 2,235 ", 16.08 
+17059,Gallatin County,Illinois, 457 , 21.80 
+17061,Greene County,Illinois, 678 , 15.02 
+17063,Grundy County,Illinois," 1,893 ", 9.23 
+17065,Hamilton County,Illinois, 506 , 15.10 
+17067,Hancock County,Illinois, 930 , 12.38 
+17069,Hardin County,Illinois, 266 , 17.92 
+17071,Henderson County,Illinois, 277 , 10.41 
+17073,Henry County,Illinois," 2,420 ", 11.94 
+17075,Iroquois County,Illinois," 1,636 ", 14.44 
+17077,Jackson County,Illinois," 4,209 ", 18.23 
+17079,Jasper County,Illinois, 424 , 11.26 
+17081,Jefferson County,Illinois," 2,585 ", 17.46 
+17083,Jersey County,Illinois, 949 , 11.89 
+17085,Jo Daviess County,Illinois, 733 , 7.06 
+17087,Johnson County,Illinois, 538 , 13.02 
+17089,Kane County,Illinois," 19,728 ", 10.77 
+17091,Kankakee County,Illinois," 6,805 ", 16.64 
+17093,Kendall County,Illinois," 3,618 ", 8.13 
+17095,Knox County,Illinois," 3,557 ", 17.13 
+17099,LaSalle County,Illinois," 6,488 ", 14.39 
+17097,Lake County,Illinois," 22,694 ", 8.84 
+17101,Lawrence County,Illinois, 823 , 15.20 
+17103,Lee County,Illinois," 2,087 ", 15.60 
+17105,Livingston County,Illinois," 2,116 ", 14.48 
+17107,Logan County,Illinois," 1,946 ", 17.50 
+17115,Macon County,Illinois," 8,299 ", 19.15 
+17117,Macoupin County,Illinois," 2,509 ", 14.39 
+17119,Madison County,Illinois," 14,753 ", 13.49 
+17121,Marion County,Illinois," 3,032 ", 19.61 
+17123,Marshall County,Illinois, 601 , 12.11 
+17125,Mason County,Illinois, 823 , 14.40 
+17127,Massac County,Illinois, 892 , 16.27 
+17109,McDonough County,Illinois," 1,656 ", 14.08 
+17111,McHenry County,Illinois," 7,953 ", 6.84 
+17113,McLean County,Illinois," 6,755 ", 9.78 
+17129,Menard County,Illinois, 714 , 13.74 
+17131,Mercer County,Illinois, 621 , 9.68 
+17133,Monroe County,Illinois, 703 , 5.08 
+17135,Montgomery County,Illinois," 1,984 ", 17.61 
+17137,Morgan County,Illinois," 2,088 ", 15.91 
+17139,Moultrie County,Illinois, 622 , 10.68 
+17141,Ogle County,Illinois," 2,213 ", 10.69 
+17143,Peoria County,Illinois," 13,614 ", 17.66 
+17145,Perry County,Illinois," 1,556 ", 19.46 
+17147,Piatt County,Illinois, 417 , 6.09 
+17149,Pike County,Illinois, 854 , 14.69 
+17151,Pope County,Illinois, 133 , 9.75 
+17153,Pulaski County,Illinois, 388 , 20.84 
+17155,Putnam County,Illinois, 179 , 7.24 
+17157,Randolph County,Illinois," 1,314 ", 11.26 
+17159,Richland County,Illinois, 974 , 15.22 
+17161,Rock Island County,Illinois," 9,914 ", 16.20 
+17165,Saline County,Illinois," 2,533 ", 25.25 
+17167,Sangamon County,Illinois," 12,325 ", 14.62 
+17169,Schuyler County,Illinois, 257 , 9.41 
+17171,Scott County,Illinois, 314 , 15.45 
+17173,Shelby County,Illinois," 1,065 ", 12.11 
+17163,St. Clair County,Illinois," 16,565 ", 16.36 
+17175,Stark County,Illinois, 256 , 11.18 
+17177,Stephenson County,Illinois," 3,292 ", 16.91 
+17179,Tazewell County,Illinois," 5,468 ", 10.16 
+17181,Union County,Illinois," 1,253 ", 18.12 
+17183,Vermilion County,Illinois," 5,800 ", 19.21 
+17185,Wabash County,Illinois, 943 , 19.71 
+17187,Warren County,Illinois, 939 , 13.97 
+17189,Washington County,Illinois, 582 , 10.17 
+17191,Wayne County,Illinois, 934 , 13.63 
+17193,White County,Illinois," 1,083 ", 19.10 
+17195,Whiteside County,Illinois," 3,082 ", 13.28 
+17197,Will County,Illinois," 23,044 ", 9.55 
+17199,Williamson County,Illinois," 4,688 ", 16.29 
+17201,Winnebago County,Illinois," 23,274 ", 20.16 
+17203,Woodford County,Illinois, 955 , 6.49 
+18001,Adams County,Indiana, 751 , 6.08 
+18003,Allen County,Indiana," 13,706 ", 8.89 
+18005,Bartholomew County,Indiana," 2,415 ", 7.32 
+18007,Benton County,Indiana, 293 , 8.45 
+18009,Blackford County,Indiana, 813 , 16.07 
+18011,Boone County,Indiana," 1,070 ", 3.83 
+18013,Brown County,Indiana, 407 , 6.08 
+18015,Carroll County,Indiana, 343 , 4.27 
+18017,Cass County,Indiana," 1,424 ", 9.54 
+18019,Clark County,Indiana," 3,626 ", 7.37 
+18021,Clay County,Indiana," 1,093 ", 10.37 
+18023,Clinton County,Indiana, 796 , 6.42 
+18025,Crawford County,Indiana, 577 , 12.62 
+18027,Daviess County,Indiana," 1,022 ", 8.83 
+18033,DeKalb County,Indiana," 1,016 ", 5.97 
+18029,Dearborn County,Indiana," 1,656 ", 8.22 
+18031,Decatur County,Indiana, 551 , 5.24 
+18035,Delaware County,Indiana," 6,526 ", 14.14 
+18037,Dubois County,Indiana, 601 , 3.42 
+18039,Elkhart County,Indiana," 4,922 ", 6.86 
+18041,Fayette County,Indiana," 1,375 ", 14.51 
+18043,Floyd County,Indiana," 2,280 ", 7.31 
+18045,Fountain County,Indiana, 542 , 7.91 
+18047,Franklin County,Indiana, 422 , 4.62 
+18049,Fulton County,Indiana, 825 , 10.41 
+18051,Gibson County,Indiana, 947 , 7.20 
+18053,Grant County,Indiana," 3,712 ", 13.87 
+18055,Greene County,Indiana," 1,424 ", 11.14 
+18057,Hamilton County,Indiana," 3,302 ", 2.48 
+18059,Hancock County,Indiana," 1,271 ", 3.94 
+18061,Harrison County,Indiana, 891 , 5.88 
+18063,Hendricks County,Indiana," 2,189 ", 3.32 
+18065,Henry County,Indiana," 1,763 ", 9.55 
+18067,Howard County,Indiana," 3,779 ", 10.76 
+18069,Huntington County,Indiana," 1,696 ", 11.14 
+18071,Jackson County,Indiana," 1,573 ", 8.86 
+18073,Jasper County,Indiana, 732 , 5.82 
+18075,Jay County,Indiana, 722 , 9.07 
+18077,Jefferson County,Indiana," 1,274 ", 10.03 
+18079,Jennings County,Indiana, 972 , 9.03 
+18081,Johnson County,Indiana," 3,697 ", 6.01 
+18083,Knox County,Indiana," 1,970 ", 13.04 
+18085,Kosciusko County,Indiana," 1,877 ", 5.91 
+18087,LaGrange County,Indiana, 553 , 4.32 
+18091,LaPorte County,Indiana," 4,391 ", 10.05 
+18089,Lake County,Indiana," 24,979 ", 12.91 
+18093,Lawrence County,Indiana," 1,679 ", 8.76 
+18095,Madison County,Indiana," 7,187 ", 13.60 
+18097,Marion County,Indiana," 48,782 ", 12.30 
+18099,Marshall County,Indiana, 980 , 5.64 
+18101,Martin County,Indiana, 273 , 6.95 
+18103,Miami County,Indiana," 1,325 ", 9.98 
+18105,Monroe County,Indiana," 3,594 ", 6.17 
+18107,Montgomery County,Indiana," 1,466 ", 9.44 
+18109,Morgan County,Indiana," 2,067 ", 7.46 
+18111,Newton County,Indiana, 617 , 11.04 
+18113,Noble County,Indiana," 1,116 ", 6.21 
+18115,Ohio County,Indiana, 102 , 3.97 
+18117,Orange County,Indiana, 886 , 11.08 
+18119,Owen County,Indiana, 794 , 9.23 
+18121,Parke County,Indiana, 707 , 11.81 
+18123,Perry County,Indiana, 689 , 8.89 
+18125,Pike County,Indiana, 471 , 9.43 
+18127,Porter County,Indiana," 3,945 ", 5.80 
+18129,Posey County,Indiana, 577 , 5.62 
+18131,Pulaski County,Indiana, 322 , 6.58 
+18133,Putnam County,Indiana," 1,021 ", 7.30 
+18135,Randolph County,Indiana," 1,560 ", 15.32 
+18137,Ripley County,Indiana, 774 , 6.82 
+18139,Rush County,Indiana, 716 , 10.77 
+18143,Scott County,Indiana," 1,339 ", 13.89 
+18145,Shelby County,Indiana," 1,359 ", 7.49 
+18147,Spencer County,Indiana, 542 , 6.79 
+18141,St. Joseph County,Indiana," 10,545 ", 9.85 
+18149,Starke County,Indiana," 1,078 ", 12.31 
+18151,Steuben County,Indiana, 818 , 5.94 
+18153,Sullivan County,Indiana, 880 , 11.43 
+18155,Switzerland County,Indiana, 461 , 11.83 
+18157,Tippecanoe County,Indiana," 4,956 ", 6.66 
+18159,Tipton County,Indiana, 503 , 8.03 
+18161,Union County,Indiana, 115 , 4.03 
+18163,Vanderburgh County,Indiana," 8,393 ", 10.87 
+18165,Vermillion County,Indiana, 694 , 10.58 
+18167,Vigo County,Indiana," 5,480 ", 12.87 
+18169,Wabash County,Indiana," 1,221 ", 9.73 
+18171,Warren County,Indiana, 212 , 6.31 
+18173,Warrick County,Indiana, 928 , 3.76 
+18175,Washington County,Indiana," 1,191 ", 10.83 
+18177,Wayne County,Indiana," 3,892 ", 14.51 
+18179,Wells County,Indiana, 641 , 5.64 
+18181,White County,Indiana, 616 , 6.24 
+18183,Whitley County,Indiana, 916 , 6.58 
+19001,Adair County,Iowa, 335 , 10.28 
+19003,Adams County,Iowa, 206 , 13.46 
+19005,Allamakee County,Iowa, 458 , 7.60 
+19007,Appanoose County,Iowa, 682 , 13.62 
+19009,Audubon County,Iowa, 212 , 8.40 
+19011,Benton County,Iowa, 536 , 5.30 
+19013,Black Hawk County,Iowa," 6,334 ", 11.79 
+19015,Boone County,Iowa, 502 , 4.59 
+19017,Bremer County,Iowa, 503 , 5.19 
+19019,Buchanan County,Iowa, 533 , 6.54 
+19021,Buena Vista County,Iowa, 701 , 9.29 
+19023,Butler County,Iowa, 481 , 8.17 
+19025,Calhoun County,Iowa, 362 , 9.32 
+19027,Carroll County,Iowa, 632 , 7.22 
+19029,Cass County,Iowa, 802 , 13.85 
+19031,Cedar County,Iowa, 475 , 6.30 
+19033,Cerro Gordo County,Iowa," 1,769 ", 9.11 
+19035,Cherokee County,Iowa, 306 , 6.02 
+19037,Chickasaw County,Iowa, 252 , 5.06 
+19039,Clarke County,Iowa, 525 , 13.12 
+19041,Clay County,Iowa, 750 , 10.35 
+19043,Clayton County,Iowa, 530 , 7.16 
+19045,Clinton County,Iowa," 2,531 ", 13.02 
+19047,Crawford County,Iowa, 457 , 7.34 
+19049,Dallas County,Iowa," 2,375 ", 5.81 
+19051,Davis County,Iowa, 205 , 6.47 
+19053,Decatur County,Iowa, 301 , 9.87 
+19055,Delaware County,Iowa, 669 , 9.32 
+19057,Des Moines County,Iowa," 2,194 ", 12.76 
+19059,Dickinson County,Iowa, 381 , 4.40 
+19061,Dubuque County,Iowa," 3,230 ", 7.96 
+19063,Emmet County,Iowa, 317 , 8.08 
+19065,Fayette County,Iowa, 676 , 8.24 
+19067,Floyd County,Iowa, 547 , 8.26 
+19069,Franklin County,Iowa, 296 , 7.25 
+19071,Fremont County,Iowa, 294 , 10.65 
+19073,Greene County,Iowa, 392 , 9.98 
+19075,Grundy County,Iowa, 252 , 4.96 
+19077,Guthrie County,Iowa, 374 , 8.15 
+19079,Hamilton County,Iowa, 513 , 8.12 
+19081,Hancock County,Iowa, 369 , 8.00 
+19083,Hardin County,Iowa, 587 , 8.37 
+19085,Harrison County,Iowa, 367 , 6.11 
+19087,Henry County,Iowa, 667 , 8.76 
+19089,Howard County,Iowa, 231 , 6.29 
+19091,Humboldt County,Iowa, 445 , 10.51 
+19093,Ida County,Iowa, 221 , 7.38 
+19095,Iowa County,Iowa, 520 , 7.59 
+19097,Jackson County,Iowa, 853 , 10.27 
+19099,Jasper County,Iowa," 1,351 ", 9.16 
+19101,Jefferson County,Iowa," 1,116 ", 16.23 
+19103,Johnson County,Iowa," 3,867 ", 6.22 
+19105,Jones County,Iowa, 811 , 10.00 
+19107,Keokuk County,Iowa, 399 , 9.82 
+19109,Kossuth County,Iowa, 375 , 5.77 
+19111,Lee County,Iowa," 2,085 ", 14.58 
+19113,Linn County,Iowa," 8,361 ", 8.80 
+19115,Louisa County,Iowa, 494 , 11.92 
+19117,Lucas County,Iowa, 351 , 9.56 
+19119,Lyon County,Iowa, 146 , 3.29 
+19121,Madison County,Iowa, 358 , 5.40 
+19123,Mahaska County,Iowa," 1,187 ", 13.35 
+19125,Marion County,Iowa," 1,135 ", 8.46 
+19127,Marshall County,Iowa," 1,524 ", 9.80 
+19129,Mills County,Iowa, 334 , 6.24 
+19131,Mitchell County,Iowa, 306 , 6.83 
+19133,Monona County,Iowa, 323 , 8.30 
+19135,Monroe County,Iowa, 247 , 8.26 
+19137,Montgomery County,Iowa, 574 , 12.45 
+19139,Muscatine County,Iowa," 2,131 ", 12.41 
+19141,O'Brien County,Iowa, 412 , 7.11 
+19143,Osceola County,Iowa, 167 , 6.41 
+19145,Page County,Iowa, 889 , 14.43 
+19147,Palo Alto County,Iowa, 342 , 9.15 
+19149,Plymouth County,Iowa, 720 , 6.99 
+19151,Pocahontas County,Iowa, 238 , 7.72 
+19153,Polk County,Iowa," 20,421 ", 10.09 
+19155,Pottawattamie County,Iowa," 3,856 ", 10.27 
+19157,Poweshiek County,Iowa, 784 , 10.06 
+19159,Ringgold County,Iowa, 246 , 13.16 
+19161,Sac County,Iowa, 341 , 8.02 
+19163,Scott County,Iowa," 8,119 ", 11.17 
+19165,Shelby County,Iowa, 381 , 7.65 
+19167,Sioux County,Iowa, 383 , 3.05 
+19169,Story County,Iowa," 1,856 ", 4.79 
+19171,Tama County,Iowa, 688 , 10.22 
+19173,Taylor County,Iowa, 215 , 8.70 
+19175,Union County,Iowa, 906 , 17.92 
+19177,Van Buren County,Iowa, 276 , 9.52 
+19179,Wapello County,Iowa," 2,212 ", 15.70 
+19181,Warren County,Iowa," 1,331 ", 6.58 
+19183,Washington County,Iowa, 786 , 8.69 
+19185,Wayne County,Iowa, 259 , 10.14 
+19187,Webster County,Iowa," 1,799 ", 11.50 
+19189,Winnebago County,Iowa, 468 , 10.19 
+19191,Winneshiek County,Iowa, 263 , 3.21 
+19193,Woodbury County,Iowa," 4,993 ", 12.33 
+19195,Worth County,Iowa, 246 , 7.70 
+19197,Wright County,Iowa, 409 , 7.64 
+20001,Allen County,Kansas, 566 , 11.29 
+20003,Anderson County,Kansas, 224 , 6.81 
+20005,Atchison County,Kansas, 628 , 10.69 
+20007,Barber County,Kansas, 59 , 3.27 
+20009,Barton County,Kansas, 655 , 6.41 
+20011,Bourbon County,Kansas, 594 , 10.29 
+20013,Brown County,Kansas, 430 , 11.56 
+20015,Butler County,Kansas," 1,729 ", 6.91 
+20017,Chase County,Kansas, 61 , 5.33 
+20019,Chautauqua County,Kansas, 164 , 12.47 
+20021,Cherokee County,Kansas, 992 , 12.84 
+20023,Cheyenne County,Kansas, 40 , 3.37 
+20025,Clark County,Kansas, 30 , 3.69 
+20027,Clay County,Kansas, 223 , 6.14 
+20029,Cloud County,Kansas, 196 , 5.34 
+20031,Coffey County,Kansas, 289 , 8.15 
+20033,Comanche County,Kansas, 42 , 5.12 
+20035,Cowley County,Kansas," 1,361 ", 10.20 
+20037,Crawford County,Kansas," 1,950 ", 12.27 
+20039,Decatur County,Kansas, 54 , 3.93 
+20041,Dickinson County,Kansas, 437 , 5.49 
+20043,Doniphan County,Kansas, 159 , 5.96 
+20045,Douglas County,Kansas," 2,659 ", 5.32 
+20047,Edwards County,Kansas, 59 , 4.97 
+20049,Elk County,Kansas, 91 , 8.46 
+20051,Ellis County,Kansas, 674 , 5.53 
+20053,Ellsworth County,Kansas, 116 , 4.98 
+20055,Finney County,Kansas," 1,575 ", 11.93 
+20057,Ford County,Kansas, 816 , 6.93 
+20059,Franklin County,Kansas, 697 , 6.77 
+20061,Geary County,Kansas," 1,253 ", 9.09 
+20063,Gove County,Kansas, 34 , 2.90 
+20065,Graham County,Kansas, 60 , 5.08 
+20067,Grant County,Kansas, 47 , 1.98 
+20069,Gray County,Kansas, 43 , 2.07 
+20071,Greeley County,Kansas, 9 , 1.72 
+20073,Greenwood County,Kansas, 383 , 14.71 
+20075,Hamilton County,Kansas, 21 , 2.73 
+20077,Harper County,Kansas, 252 , 11.43 
+20079,Harvey County,Kansas, 746 , 5.53 
+20081,Haskell County,Kansas, 36 , 2.60 
+20083,Hodgeman County,Kansas, 22 , 3.30 
+20085,Jackson County,Kansas, 274 , 5.37 
+20087,Jefferson County,Kansas, 229 , 3.10 
+20089,Jewell County,Kansas, 69 , 5.44 
+20091,Johnson County,Kansas," 5,226 ", 2.14 
+20093,Kearny County,Kansas, 115 , 8.42 
+20095,Kingman County,Kansas, 210 , 6.80 
+20097,Kiowa County,Kansas, 53 , 5.59 
+20099,Labette County,Kansas, 824 , 10.23 
+20101,Lane County,Kansas, 20 , 2.76 
+20103,Leavenworth County,Kansas," 1,621 ", 5.45 
+20105,Lincoln County,Kansas, 83 , 6.80 
+20107,Linn County,Kansas, 334 , 7.77 
+20109,Logan County,Kansas, 117 , 9.45 
+20111,Lyon County,Kansas, 854 , 6.41 
+20115,Marion County,Kansas, 296 , 6.31 
+20117,Marshall County,Kansas, 230 , 5.61 
+20113,McPherson County,Kansas, 287 , 2.36 
+20119,Meade County,Kansas, 82 , 5.48 
+20121,Miami County,Kansas, 405 , 2.99 
+20123,Mitchell County,Kansas, 155 , 6.04 
+20125,Montgomery County,Kansas," 1,453 ", 11.29 
+20127,Morris County,Kansas, 108 , 4.32 
+20129,Morton County,Kansas, 63 , 6.63 
+20131,Nemaha County,Kansas, 128 , 3.16 
+20133,Neosho County,Kansas, 658 , 10.41 
+20135,Ness County,Kansas, 40 , 3.44 
+20137,Norton County,Kansas, 176 , 9.18 
+20139,Osage County,Kansas, 562 , 8.83 
+20141,Osborne County,Kansas, 161 , 10.01 
+20143,Ottawa County,Kansas, 197 , 8.29 
+20145,Pawnee County,Kansas, 88 , 3.64 
+20147,Phillips County,Kansas, 173 , 7.93 
+20149,Pottawatomie County,Kansas, 387 , 4.26 
+20151,Pratt County,Kansas, 200 , 5.68 
+20153,Rawlins County,Kansas, 137 , 11.75 
+20155,Reno County,Kansas," 2,050 ", 8.09 
+20157,Republic County,Kansas, 74 , 3.71 
+20159,Rice County,Kansas, 214 , 5.79 
+20161,Riley County,Kansas," 2,052 ", 7.56 
+20163,Rooks County,Kansas, 109 , 5.09 
+20165,Rush County,Kansas, 82 , 5.93 
+20167,Russell County,Kansas, 430 , 13.88 
+20169,Saline County,Kansas," 1,969 ", 8.83 
+20171,Scott County,Kansas, 120 , 5.48 
+20173,Sedgwick County,Kansas," 19,963 ", 9.74 
+20175,Seward County,Kansas, 743 , 10.31 
+20177,Shawnee County,Kansas," 6,494 ", 8.71 
+20179,Sheridan County,Kansas, 26 , 2.54 
+20181,Sherman County,Kansas, 106 , 4.50 
+20183,Smith County,Kansas, 74 , 4.69 
+20185,Stafford County,Kansas, 62 , 3.88 
+20187,Stanton County,Kansas, 51 , 6.20 
+20189,Stevens County,Kansas, 51 , 2.85 
+20191,Sumner County,Kansas, 861 , 9.59 
+20193,Thomas County,Kansas, 128 , 4.13 
+20195,Trego County,Kansas, 81 , 6.02 
+20197,Wabaunsee County,Kansas, 137 , 5.24 
+20199,Wallace County,Kansas, 47 , 7.12 
+20201,Washington County,Kansas, 118 , 4.98 
+20203,Wichita County,Kansas, 46 , 5.24 
+20205,Wilson County,Kansas, 293 , 8.34 
+20207,Woodson County,Kansas, 105 , 8.56 
+20209,Wyandotte County,Kansas," 7,822 ", 12.77 
+21001,Adair County,Kentucky," 1,097 ", 15.70 
+21003,Allen County,Kentucky," 1,021 ", 13.00 
+21005,Anderson County,Kentucky, 757 , 7.97 
+21007,Ballard County,Kentucky, 335 , 10.73 
+21009,Barren County,Kentucky," 2,702 ", 15.03 
+21011,Bath County,Kentucky, 954 , 20.11 
+21013,Bell County,Kentucky," 2,050 ", 21.52 
+21015,Boone County,Kentucky," 2,908 ", 5.78 
+21017,Bourbon County,Kentucky," 1,149 ", 14.14 
+21019,Boyd County,Kentucky," 3,097 ", 16.29 
+21021,Boyle County,Kentucky," 1,064 ", 9.01 
+21023,Bracken County,Kentucky, 535 , 16.40 
+21025,Breathitt County,Kentucky," 1,813 ", 32.77 
+21027,Breckinridge County,Kentucky," 1,027 ", 13.43 
+21029,Bullitt County,Kentucky," 2,210 ", 7.03 
+21031,Butler County,Kentucky, 817 , 17.91 
+21033,Caldwell County,Kentucky, 643 , 12.40 
+21035,Calloway County,Kentucky," 1,612 ", 10.69 
+21037,Campbell County,Kentucky," 2,454 ", 6.26 
+21039,Carlisle County,Kentucky, 245 , 13.06 
+21041,Carroll County,Kentucky, 506 , 12.38 
+21043,Carter County,Kentucky," 1,955 ", 18.85 
+21045,Casey County,Kentucky, 975 , 15.68 
+21047,Christian County,Kentucky," 3,293 ", 12.83 
+21049,Clark County,Kentucky," 1,791 ", 11.99 
+21051,Clay County,Kentucky," 2,395 ", 33.37 
+21053,Clinton County,Kentucky, 800 , 21.27 
+21055,Crittenden County,Kentucky, 494 , 13.90 
+21057,Cumberland County,Kentucky, 672 , 27.65 
+21059,Daviess County,Kentucky," 4,761 ", 11.57 
+21061,Edmonson County,Kentucky, 639 , 12.90 
+21063,Elliott County,Kentucky, 533 , 23.29 
+21065,Estill County,Kentucky," 1,580 ", 26.78 
+21067,Fayette County,Kentucky," 11,730 ", 8.51 
+21069,Fleming County,Kentucky," 1,115 ", 19.29 
+21071,Floyd County,Kentucky," 3,289 ", 22.75 
+21073,Franklin County,Kentucky," 2,713 ", 12.03 
+21075,Fulton County,Kentucky, 596 , 23.90 
+21077,Gallatin County,Kentucky, 381 , 11.72 
+21079,Garrard County,Kentucky, 970 , 14.64 
+21081,Grant County,Kentucky," 1,237 ", 13.39 
+21083,Graves County,Kentucky," 2,057 ", 14.54 
+21085,Grayson County,Kentucky," 1,087 ", 11.12 
+21087,Green County,Kentucky, 844 , 19.21 
+21089,Greenup County,Kentucky," 1,966 ", 13.47 
+21091,Hancock County,Kentucky, 509 , 14.39 
+21093,Hardin County,Kentucky," 4,180 ", 9.61 
+21095,Harlan County,Kentucky," 2,861 ", 27.25 
+21097,Harrison County,Kentucky," 1,156 ", 15.97 
+21099,Hart County,Kentucky," 1,199 ", 16.60 
+21101,Henderson County,Kentucky," 2,687 ", 14.56 
+21103,Henry County,Kentucky, 618 , 10.05 
+21105,Hickman County,Kentucky, 224 , 13.66 
+21107,Hopkins County,Kentucky," 2,394 ", 13.18 
+21109,Jackson County,Kentucky," 1,467 ", 29.25 
+21111,Jefferson County,Kentucky," 34,541 ", 10.49 
+21113,Jessamine County,Kentucky," 1,796 ", 9.14 
+21115,Johnson County,Kentucky," 2,095 ", 23.69 
+21117,Kenton County,Kentucky," 4,672 ", 6.91 
+21119,Knott County,Kentucky," 1,494 ", 27.42 
+21121,Knox County,Kentucky," 3,541 ", 31.26 
+21123,Larue County,Kentucky, 843 , 14.13 
+21125,Laurel County,Kentucky," 4,049 ", 16.99 
+21127,Lawrence County,Kentucky," 1,471 ", 23.92 
+21129,Lee County,Kentucky, 785 , 30.12 
+21131,Leslie County,Kentucky," 1,189 ", 30.42 
+21133,Letcher County,Kentucky," 2,234 ", 26.70 
+21135,Lewis County,Kentucky," 1,089 ", 22.20 
+21137,Lincoln County,Kentucky," 1,656 ", 17.10 
+21139,Livingston County,Kentucky, 448 , 12.79 
+21141,Logan County,Kentucky," 1,353 ", 12.39 
+21143,Lyon County,Kentucky, 375 , 11.31 
+21151,Madison County,Kentucky," 4,998 ", 13.61 
+21153,Magoffin County,Kentucky," 1,484 ", 32.52 
+21155,Marion County,Kentucky," 1,225 ", 16.14 
+21157,Marshall County,Kentucky," 1,139 ", 8.66 
+21159,Martin County,Kentucky, 996 , 25.31 
+21161,Mason County,Kentucky," 1,347 ", 19.45 
+21145,McCracken County,Kentucky," 2,637 ", 9.66 
+21147,McCreary County,Kentucky," 1,931 ", 34.51 
+21149,McLean County,Kentucky, 348 , 9.65 
+21163,Meade County,Kentucky," 1,300 ", 12.04 
+21165,Menifee County,Kentucky, 528 , 22.12 
+21167,Mercer County,Kentucky, 887 , 9.71 
+21169,Metcalfe County,Kentucky, 749 , 17.64 
+21171,Monroe County,Kentucky, 760 , 16.57 
+21173,Montgomery County,Kentucky," 1,907 ", 17.42 
+21175,Morgan County,Kentucky, 872 , 18.37 
+21177,Muhlenberg County,Kentucky," 1,793 ", 15.02 
+21179,Nelson County,Kentucky," 1,891 ", 10.07 
+21181,Nicholas County,Kentucky, 421 , 15.34 
+21183,Ohio County,Kentucky, 991 , 10.82 
+21185,Oldham County,Kentucky, 607 , 2.70 
+21187,Owen County,Kentucky, 463 , 10.87 
+21189,Owsley County,Kentucky, 435 , 28.88 
+21191,Pendleton County,Kentucky, 775 , 14.53 
+21193,Perry County,Kentucky," 2,958 ", 26.19 
+21195,Pike County,Kentucky," 4,945 ", 20.23 
+21197,Powell County,Kentucky, 952 , 20.57 
+21199,Pulaski County,Kentucky," 3,714 ", 14.33 
+21201,Robertson County,Kentucky, 188 , 23.77 
+21203,Rockcastle County,Kentucky," 1,326 ", 20.63 
+21205,Rowan County,Kentucky," 1,736 ", 18.58 
+21207,Russell County,Kentucky," 1,194 ", 16.56 
+21209,Scott County,Kentucky," 1,774 ", 8.02 
+21211,Shelby County,Kentucky," 1,442 ", 8.08 
+21213,Simpson County,Kentucky, 848 , 11.03 
+21215,Spencer County,Kentucky, 491 , 6.95 
+21217,Taylor County,Kentucky," 1,396 ", 13.90 
+21219,Todd County,Kentucky, 556 , 12.54 
+21221,Trigg County,Kentucky, 646 , 10.75 
+21223,Trimble County,Kentucky, 372 , 11.35 
+21225,Union County,Kentucky, 592 , 11.54 
+21227,Warren County,Kentucky," 6,440 ", 11.88 
+21229,Washington County,Kentucky, 688 , 14.80 
+21231,Wayne County,Kentucky," 1,407 ", 17.53 
+21233,Webster County,Kentucky, 560 , 11.38 
+21235,Whitley County,Kentucky," 2,661 ", 19.61 
+21237,Wolfe County,Kentucky, 883 , 34.70 
+21239,Woodford County,Kentucky, 777 , 7.23 
+22001,Acadia Parish,Louisiana," 5,060 ", 23.50 
+22003,Allen Parish,Louisiana," 1,805 ", 23.57 
+22005,Ascension Parish,Louisiana," 5,207 ", 11.13 
+22007,Assumption Parish,Louisiana," 1,712 ", 20.33 
+22009,Avoyelles Parish,Louisiana," 3,917 ", 26.94 
+22011,Beauregard Parish,Louisiana," 2,427 ", 17.73 
+22013,Bienville Parish,Louisiana," 1,266 ", 23.34 
+22015,Bossier Parish,Louisiana," 5,117 ", 10.30 
+22017,Caddo Parish,Louisiana," 19,438 ", 20.48 
+22019,Calcasieu Parish,Louisiana," 11,071 ", 14.38 
+22021,Caldwell Parish,Louisiana, 869 , 23.58 
+22023,Cameron Parish,Louisiana, 138 , 6.78 
+22025,Catahoula Parish,Louisiana, 591 , 19.21 
+22027,Claiborne Parish,Louisiana," 1,429 ", 28.47 
+22029,Concordia Parish,Louisiana," 1,839 ", 27.97 
+22031,De Soto Parish,Louisiana," 2,228 ", 21.65 
+22033,East Baton Rouge Parish,Louisiana," 26,870 ", 15.32 
+22035,East Carroll Parish,Louisiana, 746 , 29.74 
+22037,East Feliciana Parish,Louisiana, 870 , 13.31 
+22039,Evangeline Parish,Louisiana," 3,443 ", 28.13 
+22041,Franklin Parish,Louisiana," 1,738 ", 23.64 
+22043,Grant Parish,Louisiana," 1,387 ", 19.28 
+22045,Iberia Parish,Louisiana," 6,277 ", 23.36 
+22047,Iberville Parish,Louisiana," 1,997 ", 18.10 
+22049,Jackson Parish,Louisiana, 950 , 16.96 
+22053,Jefferson Davis Parish,Louisiana," 2,291 ", 19.57 
+22051,Jefferson Parish,Louisiana," 25,110 ", 14.19 
+22059,LaSalle Parish,Louisiana, 810 , 16.59 
+22055,Lafayette Parish,Louisiana," 12,014 ", 12.09 
+22057,Lafourche Parish,Louisiana," 6,159 ", 16.47 
+22061,Lincoln Parish,Louisiana," 3,511 ", 19.14 
+22063,Livingston Parish,Louisiana," 6,569 ", 12.79 
+22065,Madison Parish,Louisiana, 817 , 27.05 
+22067,Morehouse Parish,Louisiana," 2,881 ", 29.46 
+22069,Natchitoches Parish,Louisiana," 2,741 ", 19.43 
+22071,Orleans Parish,Louisiana," 28,694 ", 18.51 
+22073,Ouachita Parish,Louisiana," 12,072 ", 19.85 
+22075,Plaquemines Parish,Louisiana," 1,148 ", 14.00 
+22077,Pointe Coupee Parish,Louisiana, 925 , 11.28 
+22079,Rapides Parish,Louisiana," 9,116 ", 18.73 
+22081,Red River Parish,Louisiana, 565 , 18.82 
+22083,Richland Parish,Louisiana," 1,745 ", 24.07 
+22085,Sabine Parish,Louisiana," 1,731 ", 20.40 
+22087,St. Bernard Parish,Louisiana," 3,787 ", 23.96 
+22089,St. Charles Parish,Louisiana," 1,785 ", 9.59 
+22091,St. Helena Parish,Louisiana," 1,240 ", 30.24 
+22093,St. James Parish,Louisiana," 1,022 ", 13.74 
+22095,St. John the Baptist Parish,Louisiana," 2,600 ", 17.42 
+22097,St. Landry Parish,Louisiana," 6,302 ", 19.92 
+22099,St. Martin Parish,Louisiana," 3,887 ", 19.47 
+22101,St. Mary Parish,Louisiana," 4,171 ", 22.30 
+22103,St. Tammany Parish,Louisiana," 8,993 ", 8.71 
+22105,Tangipahoa Parish,Louisiana," 9,585 ", 19.10 
+22107,Tensas Parish,Louisiana, 549 , 33.70 
+22109,Terrebonne Parish,Louisiana," 6,675 ", 15.95 
+22111,Union Parish,Louisiana," 1,615 ", 19.58 
+22113,Vermilion Parish,Louisiana," 3,595 ", 16.41 
+22115,Vernon Parish,Louisiana," 2,286 ", 12.88 
+22117,Washington Parish,Louisiana," 4,827 ", 27.35 
+22119,Webster Parish,Louisiana," 3,652 ", 24.74 
+22121,West Baton Rouge Parish,Louisiana, 971 , 9.34 
+22123,West Carroll Parish,Louisiana, 788 , 20.34 
+22125,West Feliciana Parish,Louisiana, 482 , 12.32 
+22127,Winn Parish,Louisiana, 782 , 16.01 
+23001,Androscoggin County,Maine," 7,471 ", 16.02 
+23003,Aroostook County,Maine," 5,967 ", 20.10 
+23005,Cumberland County,Maine," 9,228 ", 7.10 
+23007,Franklin County,Maine," 1,792 ", 14.39 
+23009,Hancock County,Maine," 2,083 ", 8.33 
+23011,Kennebec County,Maine," 7,155 ", 13.27 
+23013,Knox County,Maine," 1,720 ", 9.57 
+23015,Lincoln County,Maine," 1,250 ", 7.72 
+23017,Oxford County,Maine," 3,517 ", 14.84 
+23019,Penobscot County,Maine," 9,746 ", 15.05 
+23021,Piscataquis County,Maine," 1,496 ", 18.44 
+23023,Sagadahoc County,Maine," 1,360 ", 8.41 
+23025,Somerset County,Maine," 4,227 ", 18.59 
+23027,Waldo County,Maine," 2,282 ", 13.06 
+23029,Washington County,Maine," 2,756 ", 19.70 
+23031,York County,Maine," 7,573 ", 8.39 
+24001,Allegany County,Maryland," 6,039 ", 22.01 
+24003,Anne Arundel County,Maryland," 14,583 ", 6.52 
+24005,Baltimore County,Maryland," 36,243 ", 10.98 
+24510,Baltimore city,Maryland," 59,108 ", 23.59 
+24009,Calvert County,Maryland," 1,721 ", 5.14 
+24011,Caroline County,Maryland," 2,132 ", 17.50 
+24013,Carroll County,Maryland," 3,354 ", 5.28 
+24015,Cecil County,Maryland," 5,096 ", 12.69 
+24017,Charles County,Maryland," 5,408 ", 8.98 
+24019,Dorchester County,Maryland," 2,776 ", 20.83 
+24021,Frederick County,Maryland," 7,267 ", 7.14 
+24023,Garrett County,Maryland," 1,942 ", 15.46 
+24025,Harford County,Maryland," 7,514 ", 7.49 
+24027,Howard County,Maryland," 6,412 ", 5.34 
+24029,Kent County,Maryland, 984 , 11.54 
+24031,Montgomery County,Maryland," 27,978 ", 7.21 
+24033,Prince George's County,Maryland," 40,125 ", 11.64 
+24035,Queen Anne's County,Maryland," 1,404 ", 7.15 
+24039,Somerset County,Maryland," 2,281 ", 27.50 
+24037,St. Mary's County,Maryland," 4,553 ", 10.91 
+24041,Talbot County,Maryland," 1,727 ", 10.65 
+24043,Washington County,Maryland," 9,397 ", 15.82 
+24045,Wicomico County,Maryland," 6,781 ", 16.94 
+24047,Worcester County,Maryland," 2,321 ", 9.74 
+25001,Barnstable County,Massachusetts," 8,591 ", 8.34 
+25003,Berkshire County,Massachusetts," 8,793 ", 15.56 
+25005,Bristol County,Massachusetts," 44,171 ", 19.02 
+25007,Dukes County,Massachusetts, 557 , 7.57 
+25009,Essex County,Massachusetts," 49,859 ", 16.00 
+25011,Franklin County,Massachusetts," 5,080 ", 16.13 
+25013,Hampden County,Massachusetts," 44,416 ", 24.11 
+25015,Hampshire County,Massachusetts," 6,610 ", 10.70 
+25017,Middlesex County,Massachusetts," 54,324 ", 8.61 
+25019,Nantucket County,Massachusetts, 304 , 6.02 
+25021,Norfolk County,Massachusetts," 24,504 ", 8.71 
+25023,Plymouth County,Massachusetts," 24,243 ", 12.06 
+25025,Suffolk County,Massachusetts," 60,090 ", 18.65 
+25027,Worcester County,Massachusetts," 50,938 ", 15.28 
+26001,Alcona County,Michigan, 603 , 11.79 
+26003,Alger County,Michigan, 377 , 10.80 
+26005,Allegan County,Michigan," 3,178 ", 7.06 
+26007,Alpena County,Michigan," 2,172 ", 17.06 
+26009,Antrim County,Michigan," 1,026 ", 9.30 
+26011,Arenac County,Michigan," 1,005 ", 15.65 
+26013,Baraga County,Michigan, 510 , 15.28 
+26015,Barry County,Michigan," 2,115 ", 8.66 
+26017,Bay County,Michigan," 6,025 ", 13.41 
+26019,Benzie County,Michigan, 550 , 7.37 
+26021,Berrien County,Michigan," 8,488 ", 13.34 
+26023,Branch County,Michigan," 2,180 ", 12.88 
+26025,Calhoun County,Michigan," 6,943 ", 12.99 
+26027,Cass County,Michigan," 2,620 ", 12.42 
+26029,Charlevoix County,Michigan, 975 , 7.96 
+26031,Cheboygan County,Michigan," 1,356 ", 12.61 
+26033,Chippewa County,Michigan," 2,007 ", 14.47 
+26035,Clare County,Michigan," 2,182 ", 17.96 
+26037,Clinton County,Michigan," 1,898 ", 6.06 
+26039,Crawford County,Michigan, 843 , 14.03 
+26041,Delta County,Michigan," 2,150 ", 13.52 
+26043,Dickinson County,Michigan," 1,061 ", 8.96 
+26045,Eaton County,Michigan," 4,115 ", 9.12 
+26047,Emmet County,Michigan," 1,093 ", 7.48 
+26049,Genesee County,Michigan," 31,606 ", 19.00 
+26051,Gladwin County,Michigan," 1,570 ", 14.20 
+26053,Gogebic County,Michigan," 1,177 ", 16.72 
+26055,Grand Traverse County,Michigan," 3,180 ", 8.03 
+26057,Gratiot County,Michigan," 2,111 ", 14.55 
+26059,Hillsdale County,Michigan," 2,113 ", 11.83 
+26061,Houghton County,Michigan," 1,193 ", 8.37 
+26063,Huron County,Michigan," 1,431 ", 10.34 
+26065,Ingham County,Michigan," 13,918 ", 11.94 
+26067,Ionia County,Michigan," 2,959 ", 12.87 
+26069,Iosco County,Michigan," 1,675 ", 14.63 
+26071,Iron County,Michigan, 689 , 12.87 
+26073,Isabella County,Michigan," 2,841 ", 11.39 
+26075,Jackson County,Michigan," 8,325 ", 13.42 
+26077,Kalamazoo County,Michigan," 11,012 ", 10.36 
+26079,Kalkaska County,Michigan," 1,187 ", 15.38 
+26081,Kent County,Michigan," 25,849 ", 10.14 
+26083,Keweenaw County,Michigan, 84 , 7.71 
+26085,Lake County,Michigan, 900 , 18.25 
+26087,Lapeer County,Michigan," 3,611 ", 10.47 
+26089,Leelanau County,Michigan, 409 , 4.33 
+26091,Lenawee County,Michigan," 4,414 ", 11.37 
+26093,Livingston County,Michigan," 3,803 ", 5.02 
+26095,Luce County,Michigan, 362 , 15.06 
+26097,Mackinac County,Michigan, 574 , 11.19 
+26099,Macomb County,Michigan," 42,558 ", 11.94 
+26101,Manistee County,Michigan," 1,239 ", 12.00 
+26103,Marquette County,Michigan," 2,580 ", 9.25 
+26105,Mason County,Michigan," 1,501 ", 12.08 
+26107,Mecosta County,Michigan," 2,288 ", 14.03 
+26109,Menominee County,Michigan, 920 , 9.19 
+26111,Midland County,Michigan," 4,078 ", 11.78 
+26113,Missaukee County,Michigan, 771 , 13.41 
+26115,Monroe County,Michigan," 6,193 ", 9.91 
+26117,Montcalm County,Michigan," 3,122 ", 12.93 
+26119,Montmorency County,Michigan, 642 , 13.46 
+26121,Muskegon County,Michigan," 11,745 ", 17.50 
+26123,Newaygo County,Michigan," 3,271 ", 16.84 
+26125,Oakland County,Michigan," 40,259 ", 7.61 
+26127,Oceana County,Michigan," 1,463 ", 14.28 
+26129,Ogemaw County,Michigan," 1,663 ", 18.23 
+26131,Ontonagon County,Michigan, 403 , 13.53 
+26133,Osceola County,Michigan," 1,305 ", 14.38 
+26135,Oscoda County,Michigan, 594 , 16.28 
+26137,Otsego County,Michigan," 1,272 ", 11.57 
+26139,Ottawa County,Michigan," 6,321 ", 5.75 
+26141,Presque Isle County,Michigan, 667 , 10.56 
+26143,Roscommon County,Michigan," 1,659 ", 14.46 
+26145,Saginaw County,Michigan," 15,368 ", 19.81 
+26151,Sanilac County,Michigan," 2,037 ", 11.67 
+26153,Schoolcraft County,Michigan, 420 , 10.99 
+26155,Shiawassee County,Michigan," 3,884 ", 14.06 
+26147,St. Clair County,Michigan," 8,802 ", 13.21 
+26149,St. Joseph County,Michigan," 3,246 ", 13.75 
+26157,Tuscola County,Michigan," 3,010 ", 14.02 
+26159,Van Buren County,Michigan," 4,104 ", 13.63 
+26161,Washtenaw County,Michigan," 11,670 ", 7.82 
+26163,Wayne County,Michigan," 154,418 ", 22.27 
+26165,Wexford County,Michigan," 2,142 ", 15.95 
+27001,Aitkin County,Minnesota, 554 , 7.99 
+27003,Anoka County,Minnesota," 9,188 ", 6.75 
+27005,Becker County,Minnesota," 1,422 ", 9.87 
+27007,Beltrami County,Minnesota," 2,466 ", 13.77 
+27009,Benton County,Minnesota," 1,436 ", 8.71 
+27011,Big Stone County,Minnesota, 192 , 8.81 
+27013,Blue Earth County,Minnesota," 2,158 ", 7.94 
+27015,Brown County,Minnesota, 641 , 5.86 
+27017,Carlton County,Minnesota, 999 , 7.15 
+27019,Carver County,Minnesota," 1,233 ", 3.06 
+27021,Cass County,Minnesota," 1,348 ", 10.56 
+27023,Chippewa County,Minnesota, 393 , 7.56 
+27025,Chisago County,Minnesota," 1,080 ", 5.08 
+27027,Clay County,Minnesota," 2,274 ", 8.77 
+27029,Clearwater County,Minnesota, 417 , 12.85 
+27031,Cook County,Minnesota, 173 , 6.41 
+27033,Cottonwood County,Minnesota, 385 , 8.26 
+27035,Crow Wing County,Minnesota," 2,340 ", 8.13 
+27037,Dakota County,Minnesota," 8,289 ", 4.83 
+27039,Dodge County,Minnesota, 297 , 3.70 
+27041,Douglas County,Minnesota, 937 , 5.38 
+27043,Faribault County,Minnesota, 597 , 9.68 
+27045,Fillmore County,Minnesota, 632 , 7.33 
+27047,Freeborn County,Minnesota," 1,209 ", 9.38 
+27049,Goodhue County,Minnesota," 1,385 ", 7.06 
+27051,Grant County,Minnesota, 178 , 7.06 
+27053,Hennepin County,Minnesota," 42,082 ", 7.87 
+27055,Houston County,Minnesota, 324 , 4.01 
+27057,Hubbard County,Minnesota, 811 , 9.13 
+27059,Isanti County,Minnesota," 1,056 ", 6.65 
+27061,Itasca County,Minnesota," 1,955 ", 10.56 
+27063,Jackson County,Minnesota, 253 , 5.72 
+27065,Kanabec County,Minnesota, 600 , 9.27 
+27067,Kandiyohi County,Minnesota," 1,869 ", 10.71 
+27069,Kittson County,Minnesota, 84 , 4.78 
+27071,Koochiching County,Minnesota, 528 , 9.25 
+27073,Lac qui Parle County,Minnesota, 245 , 8.50 
+27075,Lake County,Minnesota, 423 , 8.41 
+27077,Lake of the Woods County,Minnesota, 82 , 4.92 
+27079,Le Sueur County,Minnesota, 729 , 6.34 
+27081,Lincoln County,Minnesota, 162 , 6.65 
+27083,Lyon County,Minnesota, 936 , 9.36 
+27087,Mahnomen County,Minnesota, 404 , 21.59 
+27089,Marshall County,Minnesota, 177 , 4.73 
+27091,Martin County,Minnesota, 857 , 9.69 
+27085,McLeod County,Minnesota, 975 , 6.51 
+27093,Meeker County,Minnesota, 641 , 7.01 
+27095,Mille Lacs County,Minnesota," 1,067 ", 9.94 
+27097,Morrison County,Minnesota, 991 , 7.15 
+27099,Mower County,Minnesota," 1,796 ", 11.54 
+27101,Murray County,Minnesota, 239 , 6.64 
+27103,Nicollet County,Minnesota, 968 , 7.46 
+27105,Nobles County,Minnesota, 561 , 7.30 
+27107,Norman County,Minnesota, 263 , 9.83 
+27109,Olmsted County,Minnesota," 4,676 ", 7.02 
+27111,Otter Tail County,Minnesota," 1,766 ", 7.01 
+27113,Pennington County,Minnesota, 512 , 8.30 
+27115,Pine County,Minnesota," 1,235 ", 10.37 
+27117,Pipestone County,Minnesota, 395 , 9.95 
+27119,Polk County,Minnesota," 1,435 ", 11.53 
+27121,Pope County,Minnesota, 397 , 7.96 
+27123,Ramsey County,Minnesota," 24,236 ", 11.06 
+27125,Red Lake County,Minnesota, 108 , 6.55 
+27127,Redwood County,Minnesota, 511 , 8.30 
+27129,Renville County,Minnesota, 533 , 8.94 
+27131,Rice County,Minnesota," 1,707 ", 7.31 
+27133,Rock County,Minnesota, 285 , 7.20 
+27135,Roseau County,Minnesota, 318 , 5.25 
+27139,Scott County,Minnesota," 2,486 ", 4.58 
+27141,Sherburne County,Minnesota," 1,571 ", 4.49 
+27143,Sibley County,Minnesota, 421 , 7.15 
+27137,St. Louis County,Minnesota," 8,382 ", 9.72 
+27145,Stearns County,Minnesota," 5,572 ", 9.14 
+27147,Steele County,Minnesota, 962 , 6.41 
+27149,Stevens County,Minnesota, 409 , 10.66 
+27151,Swift County,Minnesota, 459 , 11.10 
+27153,Todd County,Minnesota, 754 , 7.50 
+27155,Traverse County,Minnesota, 198 , 14.04 
+27157,Wabasha County,Minnesota, 487 , 5.33 
+27159,Wadena County,Minnesota, 938 , 15.93 
+27161,Waseca County,Minnesota, 592 , 7.89 
+27163,Washington County,Minnesota," 4,499 ", 4.35 
+27165,Watonwan County,Minnesota, 400 , 9.27 
+27167,Wilkin County,Minnesota, 289 , 10.74 
+27169,Winona County,Minnesota," 1,291 ", 6.36 
+27171,Wright County,Minnesota," 2,144 ", 4.06 
+27173,Yellow Medicine County,Minnesota, 238 , 5.96 
+28001,Adams County,Mississippi," 2,030 ", 17.54 
+28003,Alcorn County,Mississippi," 2,678 ", 18.75 
+28005,Amite County,Mississippi, 955 , 16.29 
+28007,Attala County,Mississippi," 1,137 ", 17.58 
+28009,Benton County,Mississippi, 500 , 16.52 
+28011,Bolivar County,Mississippi," 3,318 ", 27.87 
+28013,Calhoun County,Mississippi, 755 , 13.25 
+28015,Carroll County,Mississippi, 656 , 15.60 
+28017,Chickasaw County,Mississippi," 1,060 ", 15.87 
+28019,Choctaw County,Mississippi, 453 , 13.13 
+28021,Claiborne County,Mississippi, 645 , 22.74 
+28023,Clarke County,Mississippi," 1,077 ", 17.24 
+28025,Clay County,Mississippi," 1,591 ", 20.59 
+28027,Coahoma County,Mississippi," 2,386 ", 28.19 
+28029,Copiah County,Mississippi," 1,799 ", 18.16 
+28031,Covington County,Mississippi," 1,151 ", 16.26 
+28033,DeSoto County,Mississippi," 5,085 ", 7.33 
+28035,Forrest County,Mississippi," 4,863 ", 16.36 
+28037,Franklin County,Mississippi, 429 , 14.55 
+28039,George County,Mississippi, 930 , 10.11 
+28041,Greene County,Mississippi, 524 , 13.72 
+28043,Grenada County,Mississippi, 791 , 9.27 
+28045,Hancock County,Mississippi," 2,119 ", 10.64 
+28047,Harrison County,Mississippi," 12,212 ", 15.04 
+28049,Hinds County,Mississippi," 13,160 ", 14.67 
+28051,Holmes County,Mississippi," 1,842 ", 30.68 
+28053,Humphreys County,Mississippi, 971 , 32.33 
+28055,Issaquena County,Mississippi, 150 , 39.89 
+28057,Itawamba County,Mississippi, 664 , 7.20 
+28059,Jackson County,Mississippi," 5,480 ", 9.61 
+28061,Jasper County,Mississippi, 890 , 13.93 
+28063,Jefferson County,Mississippi, 462 , 19.48 
+28065,Jefferson Davis County,Mississippi, 864 , 19.71 
+28067,Jones County,Mississippi," 4,006 ", 16.28 
+28069,Kemper County,Mississippi, 511 , 15.92 
+28071,Lafayette County,Mississippi, 777 , 4.20 
+28073,Lamar County,Mississippi," 2,522 ", 10.07 
+28075,Lauderdale County,Mississippi," 5,251 ", 18.39 
+28077,Lawrence County,Mississippi, 831 , 19.22 
+28079,Leake County,Mississippi, 896 , 12.13 
+28081,Lee County,Mississippi," 3,080 ", 9.68 
+28083,Leflore County,Mississippi," 2,741 ", 27.48 
+28085,Lincoln County,Mississippi," 1,575 ", 12.09 
+28087,Lowndes County,Mississippi," 2,967 ", 13.00 
+28089,Madison County,Mississippi," 3,212 ", 7.45 
+28091,Marion County,Mississippi," 1,100 ", 11.96 
+28093,Marshall County,Mississippi," 1,467 ", 11.46 
+28095,Monroe County,Mississippi," 1,607 ", 11.75 
+28097,Montgomery County,Mississippi, 603 , 15.92 
+28099,Neshoba County,Mississippi," 1,709 ", 16.62 
+28101,Newton County,Mississippi, 768 , 9.98 
+28103,Noxubee County,Mississippi," 1,227 ", 32.41 
+28105,Oktibbeha County,Mississippi," 2,287 ", 10.74 
+28107,Panola County,Mississippi," 1,934 ", 15.62 
+28109,Pearl River County,Mississippi," 3,034 ", 14.12 
+28111,Perry County,Mississippi, 670 , 14.72 
+28113,Pike County,Mississippi," 3,071 ", 20.17 
+28115,Pontotoc County,Mississippi, 975 , 8.35 
+28117,Prentiss County,Mississippi," 1,067 ", 11.40 
+28119,Quitman County,Mississippi, 658 , 24.80 
+28121,Rankin County,Mississippi," 3,045 ", 5.11 
+28123,Scott County,Mississippi," 1,167 ", 12.07 
+28125,Sharkey County,Mississippi, 446 , 31.86 
+28127,Simpson County,Mississippi," 1,212 ", 12.66 
+28129,Smith County,Mississippi, 583 , 10.80 
+28131,Stone County,Mississippi," 1,073 ", 16.22 
+28133,Sunflower County,Mississippi," 2,705 ", 33.57 
+28135,Tallahatchie County,Mississippi," 1,039 ", 24.04 
+28137,Tate County,Mississippi," 1,044 ", 9.74 
+28139,Tippah County,Mississippi, 836 , 10.59 
+28141,Tishomingo County,Mississippi, 877 , 10.16 
+28143,Tunica County,Mississippi," 1,041 ", 28.92 
+28145,Union County,Mississippi, 807 , 8.07 
+28147,Walthall County,Mississippi, 979 , 18.13 
+28149,Warren County,Mississippi," 2,383 ", 14.17 
+28151,Washington County,Mississippi," 3,701 ", 21.48 
+28153,Wayne County,Mississippi," 1,491 ", 20.02 
+28155,Webster County,Mississippi, 672 , 16.39 
+28157,Wilkinson County,Mississippi, 712 , 20.72 
+28159,Winston County,Mississippi," 1,585 ", 22.42 
+28161,Yalobusha County,Mississippi, 509 , 10.11 
+28163,Yazoo County,Mississippi," 2,163 ", 24.33 
+29001,Adair County,Missouri, 756 , 8.48 
+29003,Andrew County,Missouri, 380 , 5.45 
+29005,Atchison County,Missouri, 131 , 5.71 
+29007,Audrain County,Missouri," 1,093 ", 12.16 
+29009,Barry County,Missouri," 1,729 ", 12.94 
+29011,Barton County,Missouri, 833 , 18.82 
+29013,Bates County,Missouri, 795 , 13.31 
+29015,Benton County,Missouri," 1,080 ", 13.23 
+29017,Bollinger County,Missouri, 445 , 11.45 
+29019,Boone County,Missouri," 5,101 ", 6.79 
+29021,Buchanan County,Missouri," 4,715 ", 14.12 
+29023,Butler County,Missouri," 3,243 ", 19.67 
+29025,Caldwell County,Missouri, 289 , 8.05 
+29027,Callaway County,Missouri," 1,386 ", 8.55 
+29029,Camden County,Missouri," 1,402 ", 8.17 
+29031,Cape Girardeau County,Missouri," 3,144 ", 9.66 
+29033,Carroll County,Missouri, 271 , 7.87 
+29035,Carter County,Missouri, 375 , 19.08 
+29037,Cass County,Missouri," 2,508 ", 5.93 
+29039,Cedar County,Missouri, 842 , 14.94 
+29041,Chariton County,Missouri, 190 , 7.16 
+29043,Christian County,Missouri," 2,149 ", 6.27 
+29045,Clark County,Missouri, 183 , 8.08 
+29047,Clay County,Missouri," 6,535 ", 6.47 
+29049,Clinton County,Missouri, 599 , 7.27 
+29051,Cole County,Missouri," 1,874 ", 6.10 
+29053,Cooper County,Missouri, 422 , 6.84 
+29055,Crawford County,Missouri," 1,031 ", 10.89 
+29057,Dade County,Missouri, 462 , 15.21 
+29059,Dallas County,Missouri, 881 , 13.31 
+29061,Daviess County,Missouri, 300 , 9.77 
+29063,DeKalb County,Missouri, 293 , 7.76 
+29065,Dent County,Missouri, 913 , 16.09 
+29067,Douglas County,Missouri, 642 , 13.69 
+29069,Dunklin County,Missouri," 2,759 ", 24.71 
+29071,Franklin County,Missouri," 3,231 ", 7.64 
+29073,Gasconade County,Missouri, 564 , 9.34 
+29075,Gentry County,Missouri, 206 , 8.58 
+29077,Greene County,Missouri," 14,334 ", 10.88 
+29079,Grundy County,Missouri, 504 , 13.17 
+29081,Harrison County,Missouri, 418 , 13.64 
+29083,Henry County,Missouri," 1,239 ", 13.40 
+29085,Hickory County,Missouri, 365 , 10.56 
+29087,Holt County,Missouri, 116 , 6.74 
+29089,Howard County,Missouri, 310 , 8.94 
+29091,Howell County,Missouri," 2,624 ", 16.40 
+29093,Iron County,Missouri, 685 , 18.01 
+29095,Jackson County,Missouri," 31,048 ", 10.26 
+29097,Jasper County,Missouri," 7,117 ", 14.71 
+29099,Jefferson County,Missouri," 6,289 ", 7.23 
+29101,Johnson County,Missouri," 1,545 ", 7.47 
+29103,Knox County,Missouri, 100 , 8.24 
+29105,Laclede County,Missouri," 2,298 ", 15.90 
+29107,Lafayette County,Missouri," 1,200 ", 9.65 
+29109,Lawrence County,Missouri," 1,973 ", 13.43 
+29111,Lewis County,Missouri, 201 , 6.25 
+29113,Lincoln County,Missouri," 1,910 ", 8.52 
+29115,Linn County,Missouri, 427 , 8.89 
+29117,Livingston County,Missouri, 591 , 10.70 
+29121,Macon County,Missouri, 489 , 8.22 
+29123,Madison County,Missouri, 790 , 17.16 
+29125,Maries County,Missouri, 417 , 11.79 
+29127,Marion County,Missouri," 1,249 ", 11.10 
+29119,McDonald County,Missouri, 985 , 11.57 
+29129,Mercer County,Missouri, 121 , 9.39 
+29131,Miller County,Missouri," 1,018 ", 10.15 
+29133,Mississippi County,Missouri," 1,416 ", 31.06 
+29135,Moniteau County,Missouri, 439 , 7.60 
+29137,Monroe County,Missouri, 273 , 7.89 
+29139,Montgomery County,Missouri, 492 , 10.72 
+29141,Morgan County,Missouri," 1,044 ", 12.73 
+29143,New Madrid County,Missouri," 1,745 ", 25.68 
+29145,Newton County,Missouri," 2,451 ", 11.10 
+29147,Nodaway County,Missouri, 670 , 7.99 
+29149,Oregon County,Missouri, 613 , 18.24 
+29151,Osage County,Missouri, 249 , 4.81 
+29153,Ozark County,Missouri, 601 , 16.77 
+29155,Pemiscot County,Missouri," 2,014 ", 32.32 
+29157,Perry County,Missouri, 714 , 9.75 
+29159,Pettis County,Missouri," 1,838 ", 10.85 
+29161,Phelps County,Missouri," 2,084 ", 11.81 
+29163,Pike County,Missouri, 563 , 8.73 
+29165,Platte County,Missouri," 1,827 ", 4.22 
+29167,Polk County,Missouri," 1,399 ", 11.70 
+29169,Pulaski County,Missouri," 1,283 ", 7.81 
+29171,Putnam County,Missouri, 164 , 8.75 
+29173,Ralls County,Missouri, 206 , 5.20 
+29175,Randolph County,Missouri," 1,395 ", 15.08 
+29177,Ray County,Missouri, 771 , 8.52 
+29179,Reynolds County,Missouri, 337 , 14.58 
+29181,Ripley County,Missouri, 660 , 16.38 
+29195,Saline County,Missouri, 998 , 12.46 
+29197,Schuyler County,Missouri, 90 , 7.19 
+29199,Scotland County,Missouri, 74 , 4.80 
+29201,Scott County,Missouri," 2,591 ", 17.09 
+29203,Shannon County,Missouri, 350 , 12.49 
+29205,Shelby County,Missouri, 242 , 10.19 
+29183,St. Charles County,Missouri," 4,996 ", 3.15 
+29185,St. Clair County,Missouri, 598 , 14.62 
+29187,St. Francois County,Missouri," 3,733 ", 15.48 
+29189,St. Louis County,Missouri," 32,611 ", 7.86 
+29510,St. Louis city,Missouri," 26,043 ", 18.03 
+29186,Ste. Genevieve County,Missouri, 447 , 6.28 
+29207,Stoddard County,Missouri," 2,043 ", 17.93 
+29209,Stone County,Missouri, 827 , 6.28 
+29211,Sullivan County,Missouri, 202 , 9.90 
+29213,Taney County,Missouri," 2,483 ", 11.21 
+29215,Texas County,Missouri," 1,256 ", 13.18 
+29217,Vernon County,Missouri," 1,039 ", 13.29 
+29219,Warren County,Missouri," 1,087 ", 8.10 
+29221,Washington County,Missouri," 1,904 ", 21.48 
+29223,Wayne County,Missouri, 811 , 18.01 
+29225,Webster County,Missouri," 1,350 ", 9.82 
+29227,Worth County,Missouri, 109 , 13.66 
+29229,Wright County,Missouri," 1,092 ", 15.68 
+30001,Beaverhead County,Montana, 303 , 7.35 
+30003,Big Horn County,Montana, 602 , 16.31 
+30005,Blaine County,Montana, 342 , 14.89 
+30007,Broadwater County,Montana, 173 , 5.99 
+30009,Carbon County,Montana, 326 , 6.91 
+30011,Carter County,Montana, 43 , 7.18 
+30013,Cascade County,Montana," 3,668 ", 10.51 
+30015,Chouteau County,Montana, 245 , 11.08 
+30017,Custer County,Montana, 429 , 8.51 
+30019,Daniels County,Montana, 24 , 3.35 
+30021,Dawson County,Montana, 102 , 2.75 
+30023,Deer Lodge County,Montana, 693 , 15.20 
+30025,Fallon County,Montana, 32 , 2.79 
+30027,Fergus County,Montana, 401 , 7.71 
+30029,Flathead County,Montana," 2,929 ", 6.72 
+30031,Gallatin County,Montana," 1,609 ", 3.22 
+30033,Garfield County,Montana, 14 , 3.44 
+30035,Glacier County,Montana, 910 , 21.80 
+30037,Golden Valley County,Montana, 10 , 2.76 
+30039,Granite County,Montana, 115 , 8.36 
+30041,Hill County,Montana, 836 , 13.43 
+30043,Jefferson County,Montana, 309 , 6.32 
+30045,Judith Basin County,Montana, 67 , 7.39 
+30047,Lake County,Montana," 1,495 ", 12.28 
+30049,Lewis and Clark County,Montana," 2,406 ", 7.85 
+30051,Liberty County,Montana, 42 , 6.13 
+30053,Lincoln County,Montana," 1,160 ", 13.10 
+30057,Madison County,Montana, 151 , 4.08 
+30055,McCone County,Montana, 3 , 0.37 
+30059,Meagher County,Montana, 77 , 8.58 
+30061,Mineral County,Montana, 351 , 16.46 
+30063,Missoula County,Montana," 4,032 ", 7.81 
+30065,Musselshell County,Montana, 206 , 9.67 
+30067,Park County,Montana, 535 , 6.48 
+30069,Petroleum County,Montana, 1 , 0.50 
+30071,Phillips County,Montana, 134 , 7.57 
+30073,Pondera County,Montana, 221 , 9.87 
+30075,Powder River County,Montana, 39 , 5.47 
+30077,Powell County,Montana, 252 , 10.73 
+30079,Prairie County,Montana, 98 , 18.85 
+30081,Ravalli County,Montana," 1,528 ", 8.14 
+30083,Richland County,Montana, 181 , 4.02 
+30085,Roosevelt County,Montana, 353 , 11.81 
+30087,Rosebud County,Montana, 387 , 12.61 
+30089,Sanders County,Montana, 572 , 10.49 
+30091,Sheridan County,Montana, 44 , 2.99 
+30093,Silver Bow County,Montana," 2,090 ", 13.62 
+30095,Stillwater County,Montana, 239 , 6.18 
+30097,Sweet Grass County,Montana, 61 , 4.07 
+30099,Teton County,Montana, 114 , 4.65 
+30101,Toole County,Montana, 168 , 9.22 
+30103,Treasure County,Montana, 16 , 4.19 
+30105,Valley County,Montana, 270 , 9.13 
+30107,Wheatland County,Montana, 55 , 6.36 
+30109,Wibaux County,Montana, 17 , 3.63 
+30111,Yellowstone County,Montana," 6,175 ", 8.91 
+31001,Adams County,Nebraska," 1,247 ", 9.67 
+31003,Antelope County,Nebraska, 141 , 5.25 
+31005,Arthur County,Nebraska, 11 , 5.98 
+31007,Banner County,Nebraska, 11 , 4.26 
+31009,Blaine County,Nebraska, -   , -   
+31011,Boone County,Nebraska, 92 , 4.18 
+31013,Box Butte County,Nebraska, 289 , 6.37 
+31015,Boyd County,Nebraska, 48 , 6.12 
+31017,Brown County,Nebraska, 71 , 5.88 
+31019,Buffalo County,Nebraska," 1,405 ", 7.15 
+31021,Burt County,Nebraska, 236 , 8.23 
+31023,Butler County,Nebraska, 181 , 5.12 
+31025,Cass County,Nebraska, 402 , 3.81 
+31027,Cedar County,Nebraska, 188 , 5.50 
+31029,Chase County,Nebraska, 65 , 4.52 
+31031,Cherry County,Nebraska, 139 , 6.24 
+31033,Cheyenne County,Nebraska, 557 , 12.80 
+31035,Clay County,Nebraska, 166 , 6.71 
+31037,Colfax County,Nebraska, 283 , 7.78 
+31039,Cuming County,Nebraska, 165 , 4.36 
+31041,Custer County,Nebraska, 373 , 8.37 
+31043,Dakota County,Nebraska, 603 , 8.26 
+31045,Dawes County,Nebraska, 257 , 7.60 
+31047,Dawson County,Nebraska, 656 , 7.30 
+31049,Deuel County,Nebraska, 61 , 7.39 
+31051,Dixon County,Nebraska, 133 , 5.95 
+31053,Dodge County,Nebraska," 1,484 ", 9.98 
+31055,Douglas County,Nebraska," 21,672 ", 9.22 
+31057,Dundy County,Nebraska, 48 , 5.97 
+31059,Fillmore County,Nebraska, 123 , 5.16 
+31061,Franklin County,Nebraska, 93 , 7.21 
+31063,Frontier County,Nebraska, 118 , 11.21 
+31065,Furnas County,Nebraska, 107 , 5.33 
+31067,Gage County,Nebraska," 1,097 ", 11.97 
+31069,Garden County,Nebraska, 80 , 9.67 
+31071,Garfield County,Nebraska, 25 , 3.33 
+31073,Gosper County,Nebraska, 47 , 6.05 
+31075,Grant County,Nebraska, 6 , 2.03 
+31077,Greeley County,Nebraska, 47 , 4.99 
+31079,Hall County,Nebraska," 2,115 ", 8.67 
+31081,Hamilton County,Nebraska, 200 , 5.72 
+31083,Harlan County,Nebraska, 67 , 5.58 
+31085,Hayes County,Nebraska, 17 , 4.76 
+31087,Hitchcock County,Nebraska, 75 , 6.67 
+31089,Holt County,Nebraska, 332 , 8.17 
+31091,Hooker County,Nebraska, -   , -   
+31093,Howard County,Nebraska, 199 , 7.98 
+31095,Jefferson County,Nebraska, 354 , 11.37 
+31097,Johnson County,Nebraska, 182 , 10.40 
+31099,Kearney County,Nebraska, 75 , 2.75 
+31101,Keith County,Nebraska, 290 , 7.35 
+31103,Keya Paha County,Nebraska, 4 , 1.22 
+31105,Kimball County,Nebraska, 171 , 11.17 
+31107,Knox County,Nebraska, 264 , 8.16 
+31109,Lancaster County,Nebraska," 11,086 ", 8.39 
+31111,Lincoln County,Nebraska," 1,874 ", 12.85 
+31113,Logan County,Nebraska, 11 , 3.54 
+31115,Loup County,Nebraska, 19 , 7.63 
+31119,Madison County,Nebraska, 937 , 6.62 
+31117,McPherson County,Nebraska, 1 , 0.51 
+31121,Merrick County,Nebraska, 195 , 6.07 
+31123,Morrill County,Nebraska, 181 , 9.58 
+31125,Nance County,Nebraska, 77 , 5.72 
+31127,Nemaha County,Nebraska, 281 , 9.99 
+31129,Nuckolls County,Nebraska, 80 , 4.40 
+31131,Otoe County,Nebraska, 326 , 5.08 
+31133,Pawnee County,Nebraska, 67 , 6.22 
+31135,Perkins County,Nebraska, 51 , 4.39 
+31137,Phelps County,Nebraska, 414 , 10.84 
+31139,Pierce County,Nebraska, 202 , 7.07 
+31141,Platte County,Nebraska, 802 , 5.99 
+31143,Polk County,Nebraska, 96 , 4.66 
+31145,Red Willow County,Nebraska, 366 , 8.24 
+31147,Richardson County,Nebraska, 226 , 6.34 
+31149,Rock County,Nebraska, 20 , 3.44 
+31151,Saline County,Nebraska, 310 , 6.00 
+31153,Sarpy County,Nebraska," 3,693 ", 5.08 
+31155,Saunders County,Nebraska, 392 , 4.44 
+31157,Scotts Bluff County,Nebraska," 1,809 ", 11.99 
+31159,Seward County,Nebraska, 266 , 4.00 
+31161,Sheridan County,Nebraska, 198 , 9.33 
+31163,Sherman County,Nebraska, 62 , 4.79 
+31165,Sioux County,Nebraska, 10 , 2.19 
+31167,Stanton County,Nebraska, 90 , 3.93 
+31169,Thayer County,Nebraska, 169 , 8.12 
+31171,Thomas County,Nebraska, 8 , 2.52 
+31173,Thurston County,Nebraska, 340 , 17.15 
+31175,Valley County,Nebraska, 168 , 9.22 
+31177,Washington County,Nebraska, 314 , 3.74 
+31179,Wayne County,Nebraska, 186 , 4.94 
+31181,Webster County,Nebraska, 142 , 9.45 
+31183,Wheeler County,Nebraska, 11 , 3.06 
+31185,York County,Nebraska, 375 , 6.71 
+32510,Carson City,Nevada," 2,385 ", 10.08 
+32001,Churchill County,Nevada," 1,000 ", 10.28 
+32003,Clark County,Nevada," 111,140 ", 13.12 
+32005,Douglas County,Nevada," 1,128 ", 5.35 
+32007,Elko County,Nevada," 1,623 ", 8.30 
+32009,Esmeralda County,Nevada, 179 , 36.31 
+32011,Eureka County,Nevada, 19 , 3.02 
+32013,Humboldt County,Nevada, 710 , 10.15 
+32015,Lander County,Nevada, 268 , 11.67 
+32017,Lincoln County,Nevada, 130 , 8.00 
+32019,Lyon County,Nevada," 2,534 ", 10.82 
+32021,Mineral County,Nevada, 301 , 17.38 
+32023,Nye County,Nevada," 3,331 ", 15.18 
+32027,Pershing County,Nevada, 118 , 6.39 
+32029,Storey County,Nevada, 71 , 3.79 
+32031,Washoe County,Nevada," 20,899 ", 10.68 
+32033,White Pine County,Nevada, 347 , 10.18 
+33001,Belknap County,New Hampshire," 1,605 ", 6.15 
+33003,Carroll County,New Hampshire, 975 , 4.41 
+33005,Cheshire County,New Hampshire," 1,862 ", 6.10 
+33007,Coos County,New Hampshire," 1,810 ", 13.10 
+33009,Grafton County,New Hampshire," 2,489 ", 6.89 
+33011,Hillsborough County,New Hampshire," 10,362 ", 6.18 
+33013,Merrimack County,New Hampshire," 4,319 ", 7.15 
+33015,Rockingham County,New Hampshire," 4,385 ", 3.46 
+33017,Strafford County,New Hampshire," 3,782 ", 7.32 
+33019,Sullivan County,New Hampshire," 1,237 ", 7.69 
+34001,Atlantic County,New Jersey," 13,074 ", 12.03 
+34003,Bergen County,New Jersey," 17,978 ", 5.09 
+34005,Burlington County,New Jersey," 8,685 ", 4.93 
+34007,Camden County,New Jersey," 25,894 ", 12.91 
+34009,Cape May County,New Jersey," 3,419 ", 7.71 
+34011,Cumberland County,New Jersey," 8,622 ", 16.16 
+34013,Essex County,New Jersey," 45,883 ", 14.45 
+34015,Gloucester County,New Jersey," 7,373 ", 6.60 
+34017,Hudson County,New Jersey," 40,836 ", 13.82 
+34019,Hunterdon County,New Jersey," 1,447 ", 2.88 
+34021,Mercer County,New Jersey," 12,903 ", 9.12 
+34023,Middlesex County,New Jersey," 23,462 ", 7.68 
+34025,Monmouth County,New Jersey," 12,466 ", 4.98 
+34027,Morris County,New Jersey," 6,967 ", 3.63 
+34029,Ocean County,New Jersey," 15,492 ", 6.41 
+34031,Passaic County,New Jersey," 32,314 ", 18.16 
+34033,Salem County,New Jersey," 2,904 ", 11.67 
+34035,Somerset County,New Jersey," 4,481 ", 3.46 
+34037,Sussex County,New Jersey," 1,724 ", 3.01 
+34039,Union County,New Jersey," 16,394 ", 8.13 
+34041,Warren County,New Jersey," 3,562 ", 7.93 
+35001,Bernalillo County,New Mexico," 47,848 ", 16.87 
+35003,Catron County,New Mexico, 267 , 16.23 
+35005,Chaves County,New Mexico," 5,581 ", 23.64 
+35006,Cibola County,New Mexico," 2,015 ", 24.12 
+35007,Colfax County,New Mexico," 1,310 ", 24.20 
+35009,Curry County,New Mexico," 4,055 ", 21.95 
+35011,De Baca County,New Mexico, 172 , 23.66 
+35013,DoÃ±a Ana County,New Mexico," 19,808 ", 23.71 
+35015,Eddy County,New Mexico," 2,986 ", 12.85 
+35017,Grant County,New Mexico," 2,258 ", 20.40 
+35019,Guadalupe County,New Mexico, 474 , 32.67 
+35021,Harding County,New Mexico, 14 , 4.96 
+35023,Hidalgo County,New Mexico, 296 , 19.72 
+35025,Lea County,New Mexico," 4,362 ", 17.75 
+35027,Lincoln County,New Mexico," 1,133 ", 12.08 
+35028,Los Alamos County,New Mexico, 283 , 3.45 
+35029,Luna County,New Mexico," 2,401 ", 26.44 
+35031,McKinley County,New Mexico," 7,958 ", 37.74 
+35033,Mora County,New Mexico, 422 , 21.20 
+35035,Otero County,New Mexico," 5,241 ", 21.58 
+35037,Quay County,New Mexico," 1,144 ", 27.89 
+35039,Rio Arriba County,New Mexico," 2,811 ", 18.77 
+35041,Roosevelt County,New Mexico," 1,487 ", 20.62 
+35045,San Juan County,New Mexico," 9,270 ", 22.58 
+35047,San Miguel County,New Mexico," 3,648 ", 30.59 
+35043,Sandoval County,New Mexico," 7,453 ", 13.37 
+35049,Santa Fe County,New Mexico," 7,594 ", 10.95 
+35051,Sierra County,New Mexico, 873 , 16.11 
+35053,Socorro County,New Mexico," 1,100 ", 21.06 
+35055,Taos County,New Mexico," 2,120 ", 14.66 
+35057,Torrance County,New Mexico," 1,394 ", 24.14 
+35059,Union County,New Mexico, 287 , 19.08 
+35061,Valencia County,New Mexico," 5,863 ", 21.89 
+36001,Albany County,New York," 14,953 ", 11.27 
+36003,Allegany County,New York," 2,575 ", 15.10 
+36005,Bronx County,New York," 195,580 ", 36.90 
+36007,Broome County,New York," 12,526 ", 15.32 
+36009,Cattaraugus County,New York," 5,339 ", 16.78 
+36011,Cayuga County,New York," 4,753 ", 15.17 
+36013,Chautauqua County,New York," 10,467 ", 19.53 
+36015,Chemung County,New York," 5,766 ", 16.51 
+36017,Chenango County,New York," 2,930 ", 14.80 
+36019,Clinton County,New York," 5,534 ", 16.63 
+36021,Columbia County,New York," 2,357 ", 9.03 
+36023,Cortland County,New York," 2,774 ", 14.78 
+36025,Delaware County,New York," 2,413 ", 12.74 
+36027,Dutchess County,New York," 9,021 ", 7.83 
+36029,Erie County,New York," 64,070 ", 15.68 
+36031,Essex County,New York," 1,489 ", 9.28 
+36033,Franklin County,New York," 3,203 ", 16.65 
+36035,Fulton County,New York," 3,404 ", 15.06 
+36037,Genesee County,New York," 3,169 ", 12.79 
+36039,Greene County,New York," 1,406 ", 7.73 
+36041,Hamilton County,New York, 102 , 4.83 
+36043,Herkimer County,New York," 3,494 ", 13.74 
+36045,Jefferson County,New York," 7,663 ", 16.41 
+36047,Kings County,New York," 221,971 ", 21.99 
+36049,Lewis County,New York," 1,264 ", 11.53 
+36051,Livingston County,New York," 2,434 ", 10.00 
+36053,Madison County,New York," 2,897 ", 11.33 
+36055,Monroe County,New York," 46,870 ", 14.81 
+36057,Montgomery County,New York," 3,075 ", 15.99 
+36059,Nassau County,New York," 21,478 ", 4.71 
+36061,New York County,New York," 107,223 ", 13.83 
+36063,Niagara County,New York," 13,281 ", 14.52 
+36065,Oneida County,New York," 14,954 ", 15.85 
+36067,Onondaga County,New York," 28,048 ", 14.39 
+36069,Ontario County,New York," 4,172 ", 8.75 
+36071,Orange County,New York," 14,703 ", 10.71 
+36073,Orleans County,New York," 2,338 ", 14.42 
+36075,Oswego County,New York," 7,434 ", 15.77 
+36077,Otsego County,New York," 2,178 ", 9.63 
+36079,Putnam County,New York," 1,085 ", 3.10 
+36081,Queens County,New York," 121,921 ", 14.72 
+36083,Rensselaer County,New York," 6,977 ", 10.53 
+36085,Richmond County,New York," 22,066 ", 12.98 
+36087,Rockland County,New York," 11,560 ", 11.19 
+36091,Saratoga County,New York," 6,384 ", 6.39 
+36093,Schenectady County,New York," 8,781 ", 13.24 
+36095,Schoharie County,New York," 1,462 ", 11.75 
+36097,Schuyler County,New York," 1,187 ", 16.03 
+36099,Seneca County,New York," 1,528 ", 11.17 
+36089,St. Lawrence County,New York," 6,613 ", 15.85 
+36101,Steuben County,New York," 4,605 ", 11.83 
+36103,Suffolk County,New York," 33,283 ", 6.50 
+36105,Sullivan County,New York," 4,943 ", 16.36 
+36107,Tioga County,New York," 2,516 ", 12.45 
+36109,Tompkins County,New York," 3,654 ", 8.44 
+36111,Ulster County,New York," 7,110 ", 9.73 
+36113,Warren County,New York," 3,023 ", 10.06 
+36115,Washington County,New York," 2,903 ", 11.97 
+36117,Wayne County,New York," 4,218 ", 11.04 
+36119,Westchester County,New York," 35,200 ", 9.51 
+36121,Wyoming County,New York," 1,504 ", 9.25 
+36123,Yates County,New York, 973 , 10.70 
+37001,Alamance County,North Carolina," 9,145 ", 13.36 
+37003,Alexander County,North Carolina," 1,356 ", 9.76 
+37005,Alleghany County,North Carolina, 556 , 11.01 
+37007,Anson County,North Carolina," 2,594 ", 31.20 
+37009,Ashe County,North Carolina," 1,633 ", 13.61 
+37011,Avery County,North Carolina, 703 , 10.72 
+37013,Beaufort County,North Carolina," 2,795 ", 14.63 
+37015,Bertie County,North Carolina," 1,880 ", 26.77 
+37017,Bladen County,North Carolina," 3,193 ", 27.44 
+37019,Brunswick County,North Carolina," 6,147 ", 9.54 
+37021,Buncombe County,North Carolina," 9,478 ", 9.23 
+37023,Burke County,North Carolina," 5,457 ", 15.21 
+37025,Cabarrus County,North Carolina," 7,636 ", 9.50 
+37027,Caldwell County,North Carolina," 4,136 ", 12.62 
+37029,Camden County,North Carolina, 408 , 10.33 
+37031,Carteret County,North Carolina," 2,824 ", 9.05 
+37033,Caswell County,North Carolina," 1,633 ", 18.82 
+37035,Catawba County,North Carolina," 7,877 ", 12.08 
+37037,Chatham County,North Carolina," 1,942 ", 6.02 
+37039,Cherokee County,North Carolina," 1,408 ", 10.80 
+37041,Chowan County,North Carolina," 1,282 ", 21.41 
+37043,Clay County,North Carolina, 528 , 10.47 
+37045,Cleveland County,North Carolina," 7,386 ", 19.85 
+37047,Columbus County,North Carolina," 4,293 ", 22.33 
+37049,Craven County,North Carolina," 5,565 ", 13.42 
+37051,Cumberland County,North Carolina," 24,138 ", 18.84 
+37053,Currituck County,North Carolina, 633 , 5.51 
+37055,Dare County,North Carolina, 872 , 5.29 
+37057,Davidson County,North Carolina," 9,151 ", 13.36 
+37059,Davie County,North Carolina," 1,737 ", 10.29 
+37061,Duplin County,North Carolina," 3,391 ", 16.87 
+37063,Durham County,North Carolina," 12,595 ", 9.09 
+37065,Edgecombe County,North Carolina," 4,724 ", 24.18 
+37067,Forsyth County,North Carolina," 20,884 ", 13.41 
+37069,Franklin County,North Carolina," 3,533 ", 12.87 
+37071,Gaston County,North Carolina," 14,707 ", 15.94 
+37073,Gates County,North Carolina, 538 , 12.75 
+37075,Graham County,North Carolina, 404 , 12.20 
+37077,Granville County,North Carolina," 2,747 ", 12.39 
+37079,Greene County,North Carolina," 1,533 ", 22.44 
+37081,Guilford County,North Carolina," 32,247 ", 14.94 
+37083,Halifax County,North Carolina," 6,036 ", 29.78 
+37085,Harnett County,North Carolina," 6,997 ", 14.39 
+37087,Haywood County,North Carolina," 3,445 ", 12.87 
+37089,Henderson County,North Carolina," 4,575 ", 9.07 
+37091,Hertford County,North Carolina," 2,129 ", 25.56 
+37093,Hoke County,North Carolina," 3,615 ", 19.27 
+37095,Hyde County,North Carolina, 498 , 23.55 
+37097,Iredell County,North Carolina," 5,521 ", 7.47 
+37099,Jackson County,North Carolina," 1,894 ", 10.43 
+37101,Johnston County,North Carolina," 9,912 ", 12.04 
+37103,Jones County,North Carolina, 780 , 19.92 
+37105,Lee County,North Carolina," 3,943 ", 15.99 
+37107,Lenoir County,North Carolina," 5,931 ", 25.87 
+37109,Lincoln County,North Carolina," 3,752 ", 10.52 
+37113,Macon County,North Carolina," 1,708 ", 9.44 
+37115,Madison County,North Carolina," 1,010 ", 12.03 
+37117,Martin County,North Carolina," 1,774 ", 18.95 
+37111,McDowell County,North Carolina," 3,383 ", 18.34 
+37119,Mecklenburg County,North Carolina," 38,786 ", 8.52 
+37121,Mitchell County,North Carolina, 903 , 14.09 
+37123,Montgomery County,North Carolina," 2,088 ", 20.72 
+37125,Moore County,North Carolina," 3,360 ", 7.85 
+37127,Nash County,North Carolina," 7,233 ", 18.97 
+37129,New Hanover County,North Carolina," 9,301 ", 9.09 
+37131,Northampton County,North Carolina," 2,001 ", 26.34 
+37133,Onslow County,North Carolina," 8,724 ", 12.03 
+37135,Orange County,North Carolina," 2,957 ", 5.24 
+37137,Pamlico County,North Carolina, 470 , 8.99 
+37139,Pasquotank County,North Carolina," 2,635 ", 17.12 
+37141,Pender County,North Carolina," 2,924 ", 12.11 
+37143,Perquimans County,North Carolina, 850 , 15.23 
+37145,Person County,North Carolina," 3,355 ", 20.70 
+37147,Pitt County,North Carolina," 10,744 ", 14.64 
+37149,Polk County,North Carolina, 788 , 9.03 
+37151,Randolph County,North Carolina," 8,414 ", 14.77 
+37153,Richmond County,North Carolina," 4,966 ", 29.45 
+37155,Robeson County,North Carolina," 13,724 ", 32.11 
+37157,Rockingham County,North Carolina," 6,826 ", 17.49 
+37159,Rowan County,North Carolina," 9,388 ", 16.25 
+37161,Rutherford County,North Carolina," 5,114 ", 19.23 
+37163,Sampson County,North Carolina," 4,220 ", 19.79 
+37165,Scotland County,North Carolina," 3,811 ", 30.79 
+37167,Stanly County,North Carolina," 3,757 ", 15.37 
+37169,Stokes County,North Carolina," 2,740 ", 14.14 
+37171,Surry County,North Carolina," 5,412 ", 18.43 
+37173,Swain County,North Carolina, 840 , 14.39 
+37175,Transylvania County,North Carolina," 1,526 ", 10.46 
+37177,Tyrrell County,North Carolina, 372 , 26.09 
+37179,Union County,North Carolina," 6,235 ", 7.58 
+37181,Vance County,North Carolina," 3,951 ", 24.57 
+37183,Wake County,North Carolina," 27,193 ", 6.10 
+37185,Warren County,North Carolina," 1,811 ", 22.84 
+37187,Washington County,North Carolina," 1,592 ", 32.95 
+37189,Watauga County,North Carolina," 1,395 ", 6.58 
+37191,Wayne County,North Carolina," 8,993 ", 19.18 
+37193,Wilkes County,North Carolina," 3,967 ", 14.71 
+37195,Wilson County,North Carolina," 6,033 ", 18.36 
+37197,Yadkin County,North Carolina," 1,901 ", 12.76 
+37199,Yancey County,North Carolina," 1,076 ", 13.14 
+38001,Adams County,North Dakota, 118 , 11.58 
+38003,Barnes County,North Dakota, 334 , 6.88 
+38005,Benson County,North Dakota, 367 , 19.09 
+38007,Billings County,North Dakota, -   , -   
+38009,Bottineau County,North Dakota, 162 , 6.01 
+38011,Bowman County,North Dakota, 41 , 3.31 
+38013,Burke County,North Dakota, 45 , 4.83 
+38015,Burleigh County,North Dakota," 2,289 ", 5.67 
+38017,Cass County,North Dakota," 4,937 ", 6.05 
+38019,Cavalier County,North Dakota, 43 , 2.79 
+38021,Dickey County,North Dakota, 124 , 6.35 
+38023,Divide County,North Dakota, 39 , 4.17 
+38025,Dunn County,North Dakota, 43 , 2.84 
+38027,Eddy County,North Dakota, 68 , 5.95 
+38029,Emmons County,North Dakota, 125 , 8.25 
+38031,Foster County,North Dakota, 148 , 9.77 
+38033,Golden Valley County,North Dakota, 106 , 15.99 
+38035,Grand Forks County,North Dakota," 2,033 ", 6.55 
+38037,Grant County,North Dakota, 112 , 10.45 
+38039,Griggs County,North Dakota, 46 , 4.86 
+38041,Hettinger County,North Dakota, 46 , 4.16 
+38043,Kidder County,North Dakota, 37 , 3.28 
+38045,LaMoure County,North Dakota, 101 , 5.90 
+38047,Logan County,North Dakota, 39 , 5.05 
+38049,McHenry County,North Dakota, 158 , 6.98 
+38051,McIntosh County,North Dakota, 67 , 5.63 
+38053,McKenzie County,North Dakota, 182 , 3.08 
+38055,McLean County,North Dakota, 175 , 4.11 
+38057,Mercer County,North Dakota, 141 , 3.92 
+38059,Morton County,North Dakota, 476 , 3.52 
+38061,Mountrail County,North Dakota, 205 , 5.34 
+38063,Nelson County,North Dakota, 74 , 5.71 
+38065,Oliver County,North Dakota, 17 , 2.34 
+38067,Pembina County,North Dakota, 253 , 8.55 
+38069,Pierce County,North Dakota, 133 , 7.23 
+38071,Ramsey County,North Dakota, 652 , 12.57 
+38073,Ransom County,North Dakota, 119 , 5.16 
+38075,Renville County,North Dakota, 52 , 5.64 
+38077,Richland County,North Dakota, 557 , 8.23 
+38079,Rolette County,North Dakota, 881 , 23.90 
+38081,Sargent County,North Dakota, 97 , 5.59 
+38083,Sheridan County,North Dakota, 51 , 7.54 
+38085,Sioux County,North Dakota, 390 , 36.55 
+38087,Slope County,North Dakota, 14 , 4.12 
+38089,Stark County,North Dakota, 844 , 6.39 
+38091,Steele County,North Dakota, 19 , 2.60 
+38093,Stutsman County,North Dakota, 655 , 7.05 
+38095,Towner County,North Dakota, 56 , 5.85 
+38097,Traill County,North Dakota, 147 , 4.43 
+38099,Walsh County,North Dakota, 217 , 4.88 
+38101,Ward County,North Dakota," 1,704 ", 6.02 
+38103,Wells County,North Dakota, 129 , 7.13 
+38105,Williams County,North Dakota, 908 , 5.93 
+39001,Adams County,Ohio," 2,077 ", 20.30 
+39003,Allen County,Ohio," 5,395 ", 13.18 
+39005,Ashland County,Ohio," 1,772 ", 8.58 
+39007,Ashtabula County,Ohio," 7,209 ", 18.50 
+39009,Athens County,Ohio," 3,325 ", 14.63 
+39011,Auglaize County,Ohio," 1,375 ", 7.26 
+39013,Belmont County,Ohio," 3,743 ", 14.15 
+39015,Brown County,Ohio," 2,728 ", 15.91 
+39017,Butler County,Ohio," 13,776 ", 9.49 
+39019,Carroll County,Ohio," 1,398 ", 12.18 
+39021,Champaign County,Ohio," 1,618 ", 10.43 
+39023,Clark County,Ohio," 10,189 ", 18.42 
+39025,Clermont County,Ohio," 6,254 ", 7.42 
+39027,Clinton County,Ohio," 2,086 ", 12.62 
+39029,Columbiana County,Ohio," 6,081 ", 14.70 
+39031,Coshocton County,Ohio," 2,680 ", 18.03 
+39033,Crawford County,Ohio," 2,675 ", 14.76 
+39035,Cuyahoga County,Ohio," 91,449 ", 16.50 
+39037,Darke County,Ohio," 1,836 ", 8.61 
+39039,Defiance County,Ohio," 1,420 ", 9.24 
+39041,Delaware County,Ohio," 3,124 ", 3.88 
+39043,Erie County,Ohio," 3,707 ", 11.54 
+39045,Fairfield County,Ohio," 5,411 ", 9.02 
+39047,Fayette County,Ohio," 1,624 ", 13.96 
+39049,Franklin County,Ohio," 59,520 ", 10.86 
+39051,Fulton County,Ohio," 1,347 ", 7.98 
+39053,Gallia County,Ohio," 2,059 ", 18.21 
+39055,Geauga County,Ohio," 1,501 ", 4.22 
+39057,Greene County,Ohio," 5,207 ", 7.72 
+39059,Guernsey County,Ohio," 2,836 ", 17.46 
+39061,Hamilton County,Ohio," 42,214 ", 11.99 
+39063,Hancock County,Ohio," 2,939 ", 9.30 
+39065,Hardin County,Ohio," 1,491 ", 12.73 
+39067,Harrison County,Ohio, 863 , 14.58 
+39069,Henry County,Ohio, 692 , 6.16 
+39071,Highland County,Ohio," 2,620 ", 15.58 
+39073,Hocking County,Ohio," 2,066 ", 17.86 
+39075,Holmes County,Ohio, 513 , 3.85 
+39077,Huron County,Ohio," 2,494 ", 10.64 
+39079,Jackson County,Ohio," 2,499 ", 19.72 
+39081,Jefferson County,Ohio," 4,179 ", 15.41 
+39083,Knox County,Ohio," 2,271 ", 9.69 
+39085,Lake County,Ohio," 7,573 ", 7.55 
+39087,Lawrence County,Ohio," 4,649 ", 20.66 
+39089,Licking County,Ohio," 8,255 ", 12.09 
+39091,Logan County,Ohio," 2,252 ", 11.51 
+39093,Lorain County,Ohio," 14,415 ", 11.45 
+39095,Lucas County,Ohio," 30,241 ", 16.60 
+39097,Madison County,Ohio," 1,719 ", 11.19 
+39099,Mahoning County,Ohio," 17,938 ", 18.27 
+39101,Marion County,Ohio," 4,268 ", 17.40 
+39103,Medina County,Ohio," 4,776 ", 6.59 
+39105,Meigs County,Ohio," 2,202 ", 24.81 
+39107,Mercer County,Ohio, 705 , 4.33 
+39109,Miami County,Ohio," 3,580 ", 8.03 
+39111,Monroe County,Ohio, 796 , 14.45 
+39113,Montgomery County,Ohio," 31,021 ", 13.48 
+39115,Morgan County,Ohio, 916 , 16.26 
+39117,Morrow County,Ohio," 1,469 ", 10.92 
+39119,Muskingum County,Ohio," 6,540 ", 19.10 
+39121,Noble County,Ohio, 386 , 8.42 
+39123,Ottawa County,Ohio," 1,260 ", 6.96 
+39125,Paulding County,Ohio, 844 , 11.19 
+39127,Perry County,Ohio," 2,325 ", 17.42 
+39129,Pickaway County,Ohio," 2,795 ", 13.05 
+39131,Pike County,Ohio," 2,825 ", 26.12 
+39133,Portage County,Ohio," 6,732 ", 10.43 
+39135,Preble County,Ohio," 1,668 ", 9.96 
+39137,Putnam County,Ohio, 948 , 7.20 
+39139,Richland County,Ohio," 7,624 ", 15.23 
+39141,Ross County,Ohio," 5,084 ", 17.28 
+39143,Sandusky County,Ohio," 3,038 ", 12.42 
+39145,Scioto County,Ohio," 6,643 ", 23.20 
+39147,Seneca County,Ohio," 3,056 ", 13.83 
+39149,Shelby County,Ohio," 1,503 ", 8.00 
+39151,Stark County,Ohio," 20,039 ", 12.90 
+39153,Summit County,Ohio," 31,275 ", 13.63 
+39155,Trumbull County,Ohio," 11,827 ", 13.73 
+39157,Tuscarawas County,Ohio," 5,472 ", 14.35 
+39159,Union County,Ohio, 982 , 4.18 
+39161,Van Wert County,Ohio, 790 , 6.78 
+39163,Vinton County,Ohio," 1,070 ", 20.49 
+39165,Warren County,Ohio," 3,846 ", 4.26 
+39167,Washington County,Ohio," 3,050 ", 12.26 
+39169,Wayne County,Ohio," 3,568 ", 8.07 
+39171,Williams County,Ohio," 2,189 ", 14.16 
+39173,Wood County,Ohio," 3,662 ", 6.76 
+39175,Wyandot County,Ohio, 859 , 9.48 
+40001,Adair County,Oklahoma," 1,674 ", 24.17 
+40003,Alfalfa County,Oklahoma, 180 , 9.52 
+40005,Atoka County,Oklahoma, 726 , 14.92 
+40007,Beaver County,Oklahoma, 90 , 5.31 
+40009,Beckham County,Oklahoma," 1,352 ", 16.50 
+40011,Blaine County,Oklahoma, 432 , 12.73 
+40013,Bryan County,Oklahoma," 2,246 ", 12.32 
+40015,Caddo County,Oklahoma," 1,376 ", 15.11 
+40017,Canadian County,Oklahoma," 4,312 ", 7.50 
+40019,Carter County,Oklahoma," 2,871 ", 15.20 
+40021,Cherokee County,Oklahoma," 2,925 ", 15.89 
+40023,Choctaw County,Oklahoma," 1,372 ", 23.42 
+40025,Cimarron County,Oklahoma, 61 , 8.69 
+40027,Cleveland County,Oklahoma," 10,875 ", 9.43 
+40029,Coal County,Oklahoma, 378 , 18.26 
+40031,Comanche County,Oklahoma," 7,031 ", 15.72 
+40033,Cotton County,Oklahoma, 354 , 17.26 
+40035,Craig County,Oklahoma, 743 , 14.16 
+40037,Creek County,Oklahoma," 3,891 ", 13.98 
+40039,Custer County,Oklahoma," 1,296 ", 12.02 
+40041,Delaware County,Oklahoma," 2,557 ", 15.10 
+40043,Dewey County,Oklahoma, 147 , 9.22 
+40045,Ellis County,Oklahoma, 153 , 10.57 
+40047,Garfield County,Oklahoma," 3,573 ", 14.94 
+40049,Garvin County,Oklahoma," 1,196 ", 11.96 
+40051,Grady County,Oklahoma," 2,442 ", 11.89 
+40053,Grant County,Oklahoma, 148 , 9.52 
+40055,Greer County,Oklahoma, 448 , 22.07 
+40057,Harmon County,Oklahoma, 194 , 20.42 
+40059,Harper County,Oklahoma, 84 , 6.69 
+40061,Haskell County,Oklahoma, 941 , 20.60 
+40063,Hughes County,Oklahoma, 571 , 14.26 
+40065,Jackson County,Oklahoma," 1,389 ", 14.21 
+40067,Jefferson County,Oklahoma, 516 , 23.89 
+40069,Johnston County,Oklahoma, 704 , 17.98 
+40071,Kay County,Oklahoma," 2,955 ", 17.68 
+40073,Kingfisher County,Oklahoma, 393 , 6.97 
+40075,Kiowa County,Oklahoma, 742 , 22.18 
+40077,Latimer County,Oklahoma, 721 , 18.72 
+40079,Le Flore County,Oklahoma," 3,698 ", 20.85 
+40081,Lincoln County,Oklahoma," 1,920 ", 14.80 
+40083,Logan County,Oklahoma," 1,798 ", 10.25 
+40085,Love County,Oklahoma, 517 , 13.72 
+40093,Major County,Oklahoma, 379 , 11.84 
+40095,Marshall County,Oklahoma, 736 , 12.81 
+40097,Mayes County,Oklahoma," 2,269 ", 14.86 
+40087,McClain County,Oklahoma," 1,309 ", 8.17 
+40089,McCurtain County,Oklahoma," 2,283 ", 20.20 
+40091,McIntosh County,Oklahoma," 1,565 ", 20.54 
+40099,Murray County,Oklahoma, 586 , 11.78 
+40101,Muskogee County,Oklahoma," 5,121 ", 19.85 
+40103,Noble County,Oklahoma, 427 , 10.16 
+40105,Nowata County,Oklahoma, 659 , 17.74 
+40107,Okfuskee County,Oklahoma, 763 , 19.52 
+40109,Oklahoma County,Oklahoma," 46,140 ", 14.28 
+40111,Okmulgee County,Oklahoma," 2,959 ", 20.87 
+40113,Osage County,Oklahoma," 2,187 ", 12.81 
+40115,Ottawa County,Oklahoma," 2,067 ", 17.58 
+40117,Pawnee County,Oklahoma, 791 , 13.18 
+40119,Payne County,Oklahoma," 3,216 ", 9.94 
+40121,Pittsburg County,Oklahoma," 3,046 ", 17.26 
+40123,Pontotoc County,Oklahoma," 2,267 ", 15.14 
+40125,Pottawatomie County,Oklahoma," 4,671 ", 17.57 
+40127,Pushmataha County,Oklahoma, 842 , 19.24 
+40129,Roger Mills County,Oklahoma, 134 , 9.42 
+40131,Rogers County,Oklahoma," 3,616 ", 10.12 
+40133,Seminole County,Oklahoma," 1,923 ", 22.10 
+40135,Sequoyah County,Oklahoma," 3,089 ", 20.34 
+40137,Stephens County,Oklahoma," 2,836 ", 16.46 
+40139,Texas County,Oklahoma, 492 , 7.16 
+40141,Tillman County,Oklahoma, 532 , 20.04 
+40143,Tulsa County,Oklahoma," 33,556 ", 12.50 
+40145,Wagoner County,Oklahoma," 2,590 ", 8.47 
+40147,Washington County,Oklahoma," 2,980 ", 14.47 
+40149,Washita County,Oklahoma, 563 , 13.73 
+40151,Woods County,Oklahoma, 421 , 12.07 
+40153,Woodward County,Oklahoma, 733 , 9.03 
+41001,Baker County,Oregon," 1,285 ", 17.69 
+41003,Benton County,Oregon," 4,691 ", 12.25 
+41005,Clackamas County,Oregon," 15,830 ", 9.73 
+41007,Clatsop County,Oregon," 2,695 ", 14.89 
+41009,Columbia County,Oregon," 3,232 ", 15.61 
+41011,Coos County,Oregon," 6,265 ", 22.05 
+41013,Crook County,Oregon," 1,587 ", 14.91 
+41015,Curry County,Oregon," 1,883 ", 16.69 
+41017,Deschutes County,Oregon," 7,321 ", 8.80 
+41019,Douglas County,Oregon," 9,457 ", 20.26 
+41021,Gilliam County,Oregon, 116 , 13.35 
+41023,Grant County,Oregon, 491 , 14.65 
+41025,Harney County,Oregon, 699 , 22.25 
+41027,Hood River County,Oregon," 1,151 ", 12.76 
+41029,Jackson County,Oregon," 15,980 ", 17.62 
+41031,Jefferson County,Oregon," 2,253 ", 26.02 
+41033,Josephine County,Oregon," 8,783 ", 24.17 
+41035,Klamath County,Oregon," 6,600 ", 22.88 
+41037,Lake County,Oregon, 607 , 17.74 
+41039,Lane County,Oregon," 29,709 ", 18.63 
+41041,Lincoln County,Oregon," 4,451 ", 19.50 
+41043,Linn County,Oregon," 9,700 ", 19.19 
+41045,Malheur County,Oregon," 2,641 ", 26.31 
+41047,Marion County,Oregon," 24,545 ", 19.57 
+41049,Morrow County,Oregon, 864 , 19.99 
+41051,Multnomah County,Oregon," 51,570 ", 14.84 
+41053,Polk County,Oregon," 6,166 ", 18.93 
+41055,Sherman County,Oregon, 147 , 18.75 
+41057,Tillamook County,Oregon," 1,932 ", 16.35 
+41059,Umatilla County,Oregon," 5,366 ", 19.03 
+41061,Union County,Oregon," 2,204 ", 20.30 
+41063,Wallowa County,Oregon, 385 , 11.47 
+41065,Wasco County,Oregon," 2,188 ", 21.02 
+41067,Washington County,Oregon," 22,303 ", 9.60 
+41069,Wheeler County,Oregon, 95 , 14.33 
+41071,Yamhill County,Oregon," 6,092 ", 15.69 
+42001,Adams County,Pennsylvania," 3,207 ", 7.94 
+42003,Allegheny County,Pennsylvania," 68,986 ", 12.62 
+42005,Armstrong County,Pennsylvania," 4,142 ", 14.79 
+42007,Beaver County,Pennsylvania," 9,957 ", 13.83 
+42009,Bedford County,Pennsylvania," 2,772 ", 14.03 
+42011,Berks County,Pennsylvania," 22,281 ", 13.78 
+42013,Blair County,Pennsylvania," 8,805 ", 17.42 
+42015,Bradford County,Pennsylvania," 3,241 ", 13.24 
+42017,Bucks County,Pennsylvania," 18,541 ", 7.49 
+42019,Butler County,Pennsylvania," 7,615 ", 9.49 
+42021,Cambria County,Pennsylvania," 10,442 ", 18.75 
+42023,Cameron County,Pennsylvania, 598 , 26.83 
+42025,Carbon County,Pennsylvania," 4,018 ", 14.83 
+42027,Centre County,Pennsylvania," 4,484 ", 7.60 
+42029,Chester County,Pennsylvania," 11,067 ", 5.47 
+42031,Clarion County,Pennsylvania," 2,342 ", 15.63 
+42033,Clearfield County,Pennsylvania," 6,012 ", 18.74 
+42035,Clinton County,Pennsylvania," 2,590 ", 16.97 
+42037,Columbia County,Pennsylvania," 2,637 ", 10.19 
+42039,Crawford County,Pennsylvania," 5,882 ", 17.50 
+42041,Cumberland County,Pennsylvania," 7,586 ", 7.21 
+42043,Dauphin County,Pennsylvania," 14,251 ", 11.90 
+42045,Delaware County,Pennsylvania," 27,451 ", 12.67 
+42047,Elk County,Pennsylvania," 1,992 ", 14.78 
+42049,Erie County,Pennsylvania," 20,666 ", 18.77 
+42051,Fayette County,Pennsylvania," 12,822 ", 23.33 
+42053,Forest County,Pennsylvania, 308 , 15.84 
+42055,Franklin County,Pennsylvania," 6,818 ", 10.82 
+42057,Fulton County,Pennsylvania, 818 , 13.29 
+42059,Greene County,Pennsylvania," 3,049 ", 21.58 
+42061,Huntingdon County,Pennsylvania," 2,165 ", 13.50 
+42063,Indiana County,Pennsylvania," 4,866 ", 15.07 
+42065,Jefferson County,Pennsylvania," 2,636 ", 14.48 
+42067,Juniata County,Pennsylvania, 909 , 10.18 
+42069,Lackawanna County,Pennsylvania," 15,508 ", 17.57 
+42071,Lancaster County,Pennsylvania," 18,433 ", 8.76 
+42073,Lawrence County,Pennsylvania," 7,249 ", 20.13 
+42075,Lebanon County,Pennsylvania," 6,610 ", 11.84 
+42077,Lehigh County,Pennsylvania," 22,184 ", 15.47 
+42079,Luzerne County,Pennsylvania," 25,712 ", 19.27 
+42081,Lycoming County,Pennsylvania," 6,884 ", 14.90 
+42083,McKean County,Pennsylvania," 2,703 ", 16.68 
+42085,Mercer County,Pennsylvania," 8,087 ", 17.53 
+42087,Mifflin County,Pennsylvania," 3,184 ", 17.21 
+42089,Monroe County,Pennsylvania," 8,417 ", 13.90 
+42091,Montgomery County,Pennsylvania," 20,838 ", 6.25 
+42093,Montour County,Pennsylvania, 568 , 7.39 
+42095,Northampton County,Pennsylvania," 12,277 ", 10.10 
+42097,Northumberland County,Pennsylvania," 5,438 ", 14.47 
+42099,Perry County,Pennsylvania," 1,964 ", 10.77 
+42101,Philadelphia County,Pennsylvania," 175,693 ", 26.25 
+42103,Pike County,Pennsylvania," 3,053 ", 12.72 
+42105,Potter County,Pennsylvania, 971 , 14.37 
+42107,Schuylkill County,Pennsylvania," 9,616 ", 16.73 
+42109,Snyder County,Pennsylvania," 1,493 ", 10.26 
+42111,Somerset County,Pennsylvania," 4,129 ", 14.20 
+42113,Sullivan County,Pennsylvania, 214 , 8.44 
+42115,Susquehanna County,Pennsylvania," 1,830 ", 11.70 
+42117,Tioga County,Pennsylvania," 2,229 ", 13.40 
+42119,Union County,Pennsylvania," 1,632 ", 11.41 
+42121,Venango County,Pennsylvania," 3,958 ", 18.55 
+42123,Warren County,Pennsylvania," 2,039 ", 12.53 
+42125,Washington County,Pennsylvania," 11,847 ", 13.51 
+42127,Wayne County,Pennsylvania," 2,503 ", 12.32 
+42129,Westmoreland County,Pennsylvania," 20,024 ", 12.97 
+42131,Wyoming County,Pennsylvania," 1,748 ", 16.05 
+42133,York County,Pennsylvania," 19,864 ", 11.02 
+72001,Adjuntas Municipio,Puerto Rico," 3,463 ", 58.58 
+72003,Aguada Municipio,Puerto Rico," 7,176 ", 56.72 
+72005,Aguadilla Municipio,Puerto Rico," 11,133 ", 51.45 
+72007,Aguas Buenas Municipio,Puerto Rico," 5,481 ", 62.26 
+72009,Aibonito Municipio,Puerto Rico," 4,946 ", 52.53 
+72013,Arecibo Municipio,Puerto Rico," 17,147 ", 53.50 
+72015,Arroyo Municipio,Puerto Rico," 3,803 ", 59.76 
+72011,AÃ±asco Municipio,Puerto Rico," 4,971 ", 56.26 
+72017,Barceloneta Municipio,Puerto Rico," 4,954 ", 57.96 
+72019,Barranquitas Municipio,Puerto Rico," 5,785 ", 60.76 
+72021,BayamÃ³n Municipio,Puerto Rico," 26,221 ", 36.72 
+72023,Cabo Rojo Municipio,Puerto Rico," 8,252 ", 45.41 
+72025,Caguas Municipio,Puerto Rico," 21,565 ", 42.71 
+72027,Camuy Municipio,Puerto Rico," 6,672 ", 56.48 
+72029,CanÃ³vanas Municipio,Puerto Rico," 7,864 ", 51.62 
+72031,Carolina Municipio,Puerto Rico," 20,817 ", 33.35 
+72033,CataÃ±o Municipio,Puerto Rico," 4,372 ", 48.59 
+72035,Cayey Municipio,Puerto Rico," 7,395 ", 44.73 
+72037,Ceiba Municipio,Puerto Rico," 2,081 ", 50.76 
+72039,Ciales Municipio,Puerto Rico," 4,013 ", 71.27 
+72041,Cidra Municipio,Puerto Rico," 7,405 ", 50.87 
+72043,Coamo Municipio,Puerto Rico," 7,451 ", 57.29 
+72045,ComerÃ­o Municipio,Puerto Rico," 3,518 ", 62.69 
+72047,Corozal Municipio,Puerto Rico," 6,351 ", 58.26 
+72049,Culebra Municipio,Puerto Rico, 136 , 31.78 
+72051,Dorado Municipio,Puerto Rico," 4,488 ", 37.17 
+72053,Fajardo Municipio,Puerto Rico," 5,894 ", 45.82 
+72054,Florida Municipio,Puerto Rico," 3,017 ", 66.82 
+72057,Guayama Municipio,Puerto Rico," 8,440 ", 56.40 
+72059,Guayanilla Municipio,Puerto Rico," 3,781 ", 59.62 
+72061,Guaynabo Municipio,Puerto Rico," 8,837 ", 25.35 
+72063,Gurabo Municipio,Puerto Rico," 5,471 ", 36.05 
+72055,GuÃ¡nica Municipio,Puerto Rico," 3,335 ", 59.73 
+72065,Hatillo Municipio,Puerto Rico," 6,750 ", 50.82 
+72067,Hormigueros Municipio,Puerto Rico," 2,860 ", 47.32 
+72069,Humacao Municipio,Puerto Rico," 8,458 ", 44.96 
+72071,Isabela Municipio,Puerto Rico," 7,204 ", 49.21 
+72073,Jayuya Municipio,Puerto Rico," 3,198 ", 65.59 
+72075,Juana DÃ­az Municipio,Puerto Rico," 8,606 ", 54.77 
+72077,Juncos Municipio,Puerto Rico," 6,987 ", 52.06 
+72079,Lajas Municipio,Puerto Rico," 4,509 ", 54.75 
+72081,Lares Municipio,Puerto Rico," 7,055 ", 67.08 
+72083,Las MarÃ­as Municipio,Puerto Rico," 1,674 ", 59.32 
+72085,Las Piedras Municipio,Puerto Rico," 6,713 ", 53.62 
+72087,LoÃ­za Municipio,Puerto Rico," 5,013 ", 57.42 
+72089,Luquillo Municipio,Puerto Rico," 3,608 ", 53.55 
+72091,ManatÃ­ Municipio,Puerto Rico," 7,015 ", 47.36 
+72093,Maricao Municipio,Puerto Rico," 1,001 ", 55.33 
+72095,Maunabo Municipio,Puerto Rico," 2,073 ", 52.02 
+72097,MayagÃ¼ez Municipio,Puerto Rico," 15,346 ", 52.18 
+72099,Moca Municipio,Puerto Rico," 7,457 ", 56.28 
+72101,Morovis Municipio,Puerto Rico," 6,096 ", 60.80 
+72103,Naguabo Municipio,Puerto Rico," 4,339 ", 52.81 
+72105,Naranjito Municipio,Puerto Rico," 5,036 ", 56.80 
+72107,Orocovis Municipio,Puerto Rico," 4,272 ", 62.47 
+72109,Patillas Municipio,Puerto Rico," 3,320 ", 55.22 
+72111,PeÃ±uelas Municipio,Puerto Rico," 4,086 ", 59.18 
+72113,Ponce Municipio,Puerto Rico," 29,404 ", 54.87 
+72115,Quebradillas Municipio,Puerto Rico," 4,636 ", 56.77 
+72117,RincÃ³n Municipio,Puerto Rico," 2,510 ", 44.94 
+72119,RÃ­o Grande Municipio,Puerto Rico," 8,064 ", 49.18 
+72121,Sabana Grande Municipio,Puerto Rico," 3,170 ", 42.76 
+72123,Salinas Municipio,Puerto Rico," 5,407 ", 53.91 
+72125,San GermÃ¡n Municipio,Puerto Rico," 6,217 ", 53.83 
+72127,San Juan Municipio,Puerto Rico," 51,670 ", 34.96 
+72129,San Lorenzo Municipio,Puerto Rico," 7,873 ", 56.48 
+72131,San SebastiÃ¡n Municipio,Puerto Rico," 8,724 ", 61.27 
+72133,Santa Isabel Municipio,Puerto Rico," 3,729 ", 50.19 
+72135,Toa Alta Municipio,Puerto Rico," 8,046 ", 34.81 
+72137,Toa Baja Municipio,Puerto Rico," 11,458 ", 39.53 
+72139,Trujillo Alto Municipio,Puerto Rico," 8,840 ", 33.83 
+72141,Utuado Municipio,Puerto Rico," 6,420 ", 60.91 
+72143,Vega Alta Municipio,Puerto Rico," 6,600 ", 49.38 
+72145,Vega Baja Municipio,Puerto Rico," 9,443 ", 46.10 
+72147,Vieques Municipio,Puerto Rico," 1,391 ", 52.23 
+72149,Villalba Municipio,Puerto Rico," 4,643 ", 61.20 
+72151,Yabucoa Municipio,Puerto Rico," 7,456 ", 63.40 
+72153,Yauco Municipio,Puerto Rico," 5,972 ", 47.53 
+44001,Bristol County,Rhode Island," 1,171 ", 6.03 
+44003,Kent County,Rhode Island," 9,070 ", 12.47 
+44005,Newport County,Rhode Island," 3,116 ", 8.61 
+44007,Providence County,Rhode Island," 44,517 ", 17.36 
+44009,Washington County,Rhode Island," 3,278 ", 6.30 
+45001,Abbeville County,South Carolina," 1,472 ", 15.44 
+45003,Aiken County,South Carolina," 7,742 ", 11.28 
+45005,Allendale County,South Carolina, 781 , 24.69 
+45007,Anderson County,South Carolina," 8,686 ", 10.58 
+45009,Bamberg County,South Carolina, 995 , 21.67 
+45011,Barnwell County,South Carolina," 2,136 ", 26.35 
+45013,Beaufort County,South Carolina," 3,897 ", 4.95 
+45015,Berkeley County,South Carolina," 6,551 ", 7.25 
+45017,Calhoun County,South Carolina, 898 , 14.66 
+45019,Charleston County,South Carolina," 10,835 ", 6.17 
+45021,Cherokee County,South Carolina," 3,065 ", 14.02 
+45023,Chester County,South Carolina," 2,209 ", 17.09 
+45025,Chesterfield County,South Carolina," 3,101 ", 17.84 
+45027,Clarendon County,South Carolina," 2,149 ", 17.98 
+45029,Colleton County,South Carolina," 3,743 ", 23.44 
+45031,Darlington County,South Carolina," 4,691 ", 18.71 
+45033,Dillon County,South Carolina," 2,404 ", 22.71 
+45035,Dorchester County,South Carolina," 5,003 ", 8.13 
+45037,Edgefield County,South Carolina," 1,204 ", 12.66 
+45039,Fairfield County,South Carolina," 1,620 ", 18.47 
+45041,Florence County,South Carolina," 8,016 ", 15.26 
+45043,Georgetown County,South Carolina," 3,044 ", 11.45 
+45045,Greenville County,South Carolina," 16,426 ", 7.61 
+45047,Greenwood County,South Carolina," 3,781 ", 13.62 
+45049,Hampton County,South Carolina," 1,510 ", 21.26 
+45051,Horry County,South Carolina," 10,943 ", 7.28 
+45053,Jasper County,South Carolina," 1,613 ", 12.99 
+45055,Kershaw County,South Carolina," 3,220 ", 12.44 
+45057,Lancaster County,South Carolina," 3,950 ", 10.08 
+45059,Laurens County,South Carolina," 4,579 ", 17.42 
+45061,Lee County,South Carolina," 1,554 ", 24.69 
+45063,Lexington County,South Carolina," 11,805 ", 9.77 
+45067,Marion County,South Carolina," 2,609 ", 22.13 
+45069,Marlboro County,South Carolina," 1,820 ", 18.71 
+45065,McCormick County,South Carolina, 458 , 11.15 
+45071,Newberry County,South Carolina," 1,970 ", 12.94 
+45073,Oconee County,South Carolina," 4,058 ", 12.06 
+45075,Orangeburg County,South Carolina," 6,669 ", 20.28 
+45077,Pickens County,South Carolina," 4,551 ", 8.85 
+45079,Richland County,South Carolina," 17,421 ", 10.54 
+45081,Saluda County,South Carolina," 1,040 ", 13.85 
+45083,Spartanburg County,South Carolina," 13,464 ", 10.47 
+45085,Sumter County,South Carolina," 6,690 ", 16.25 
+45087,Union County,South Carolina," 2,378 ", 20.26 
+45089,Williamsburg County,South Carolina," 2,595 ", 21.34 
+45091,York County,South Carolina," 7,669 ", 6.87 
+46003,Aurora County,South Dakota, 52 , 4.99 
+46005,Beadle County,South Dakota, 774 , 10.34 
+46007,Bennett County,South Dakota, 186 , 18.16 
+46009,Bon Homme County,South Dakota, 149 , 6.14 
+46011,Brookings County,South Dakota, 688 , 5.10 
+46013,Brown County,South Dakota," 1,128 ", 6.89 
+46015,Brule County,South Dakota, 64 , 3.31 
+46017,Buffalo County,South Dakota, 111 , 22.38 
+46019,Butte County,South Dakota, 359 , 8.49 
+46021,Campbell County,South Dakota, 40 , 5.68 
+46023,Charles Mix County,South Dakota, 407 , 13.54 
+46025,Clark County,South Dakota, 31 , 2.34 
+46027,Clay County,South Dakota, 602 , 10.83 
+46029,Codington County,South Dakota, 859 , 6.95 
+46031,Corson County,South Dakota, 295 , 26.53 
+46033,Custer County,South Dakota, 201 , 4.98 
+46035,Davison County,South Dakota, 710 , 8.15 
+46037,Day County,South Dakota, 158 , 6.74 
+46039,Deuel County,South Dakota, 46 , 2.56 
+46041,Dewey County,South Dakota, 331 , 19.69 
+46043,Douglas County,South Dakota, 23 , 2.06 
+46045,Edmunds County,South Dakota, 65 , 4.09 
+46047,Fall River County,South Dakota, 409 , 11.88 
+46049,Faulk County,South Dakota, 8 , 0.96 
+46051,Grant County,South Dakota, 173 , 5.79 
+46053,Gregory County,South Dakota, 132 , 8.07 
+46055,Haakon County,South Dakota, 32 , 4.75 
+46057,Hamlin County,South Dakota, 48 , 2.20 
+46059,Hand County,South Dakota, 55 , 4.01 
+46061,Hanson County,South Dakota, 21 , 1.85 
+46063,Harding County,South Dakota, 3 , 0.61 
+46065,Hughes County,South Dakota, 473 , 6.47 
+46067,Hutchinson County,South Dakota, 203 , 6.90 
+46069,Hyde County,South Dakota, 17 , 3.18 
+46071,Jackson County,South Dakota, 213 , 28.78 
+46073,Jerauld County,South Dakota, 46 , 5.56 
+46075,Jones County,South Dakota, 6 , 1.69 
+46077,Kingsbury County,South Dakota, 67 , 3.30 
+46079,Lake County,South Dakota, 251 , 5.42 
+46081,Lawrence County,South Dakota, 995 , 8.42 
+46083,Lincoln County,South Dakota, 791 , 2.97 
+46085,Lyman County,South Dakota, 139 , 11.73 
+46091,Marshall County,South Dakota, 24 , 1.46 
+46087,McCook County,South Dakota, 122 , 5.50 
+46089,McPherson County,South Dakota, 38 , 4.24 
+46093,Meade County,South Dakota, 800 , 6.78 
+46095,Mellette County,South Dakota, 160 , 25.97 
+46097,Miner County,South Dakota, 77 , 8.41 
+46099,Minnehaha County,South Dakota," 7,225 ", 8.77 
+46101,Moody County,South Dakota, 162 , 6.47 
+46102,Oglala Lakota County,South Dakota," 1,318 ", 48.26 
+46103,Pennington County,South Dakota," 4,060 ", 8.88 
+46105,Perkins County,South Dakota, 107 , 8.53 
+46107,Potter County,South Dakota, 23 , 2.25 
+46109,Roberts County,South Dakota, 426 , 11.65 
+46111,Sanborn County,South Dakota, 57 , 6.14 
+46115,Spink County,South Dakota, 122 , 4.97 
+46117,Stanley County,South Dakota, 35 , 2.75 
+46119,Sully County,South Dakota, 33 , 5.29 
+46121,Todd County,South Dakota, 963 , 38.92 
+46123,Tripp County,South Dakota, 267 , 11.79 
+46125,Turner County,South Dakota, 312 , 8.83 
+46127,Union County,South Dakota, 322 , 4.52 
+46129,Walworth County,South Dakota, 129 , 5.38 
+46135,Yankton County,South Dakota, 589 , 6.02 
+46137,Ziebach County,South Dakota, 223 , 30.80 
+47001,Anderson County,Tennessee," 3,942 ", 12.29 
+47003,Bedford County,Tennessee," 2,194 ", 11.58 
+47005,Benton County,Tennessee," 1,183 ", 17.08 
+47007,Bledsoe County,Tennessee, 893 , 18.56 
+47009,Blount County,Tennessee," 3,371 ", 6.19 
+47011,Bradley County,Tennessee," 5,061 ", 12.08 
+47013,Campbell County,Tennessee," 3,255 ", 19.48 
+47015,Cannon County,Tennessee, 619 , 10.89 
+47017,Carroll County,Tennessee," 1,464 ", 13.00 
+47019,Carter County,Tennessee," 3,510 ", 14.51 
+47021,Cheatham County,Tennessee, 912 , 5.73 
+47023,Chester County,Tennessee, 823 , 13.00 
+47025,Claiborne County,Tennessee," 2,014 ", 14.97 
+47027,Clay County,Tennessee, 710 , 22.18 
+47029,Cocke County,Tennessee," 2,814 ", 18.61 
+47031,Coffee County,Tennessee," 2,536 ", 11.13 
+47033,Crockett County,Tennessee, 772 , 14.05 
+47035,Cumberland County,Tennessee," 2,814 ", 10.25 
+47037,Davidson County,Tennessee," 27,113 ", 8.62 
+47041,DeKalb County,Tennessee," 1,245 ", 14.66 
+47039,Decatur County,Tennessee, 719 , 16.20 
+47043,Dickson County,Tennessee," 1,875 ", 8.89 
+47045,Dyer County,Tennessee," 2,493 ", 16.75 
+47047,Fayette County,Tennessee," 1,732 ", 10.35 
+47049,Fentress County,Tennessee," 1,833 ", 23.79 
+47051,Franklin County,Tennessee," 1,472 ", 8.61 
+47053,Gibson County,Tennessee," 3,169 ", 15.77 
+47055,Giles County,Tennessee," 1,431 ", 12.22 
+47057,Grainger County,Tennessee," 1,172 ", 12.25 
+47059,Greene County,Tennessee," 3,057 ", 10.88 
+47061,Grundy County,Tennessee, 904 , 17.70 
+47063,Hamblen County,Tennessee," 3,557 ", 13.81 
+47065,Hamilton County,Tennessee," 14,540 ", 9.61 
+47067,Hancock County,Tennessee, 970 , 34.98 
+47069,Hardeman County,Tennessee," 1,687 ", 18.64 
+47071,Hardin County,Tennessee," 1,734 ", 16.01 
+47073,Hawkins County,Tennessee," 3,205 ", 13.88 
+47075,Haywood County,Tennessee," 1,985 ", 27.70 
+47077,Henderson County,Tennessee," 1,838 ", 16.82 
+47079,Henry County,Tennessee," 1,709 ", 12.94 
+47081,Hickman County,Tennessee," 1,200 ", 13.07 
+47083,Houston County,Tennessee, 511 , 16.02 
+47085,Humphreys County,Tennessee, 705 , 10.27 
+47087,Jackson County,Tennessee, 769 , 16.38 
+47089,Jefferson County,Tennessee," 2,402 ", 11.25 
+47091,Johnson County,Tennessee," 1,153 ", 16.08 
+47093,Knox County,Tennessee," 18,563 ", 9.41 
+47095,Lake County,Tennessee, 612 , 30.27 
+47097,Lauderdale County,Tennessee," 2,208 ", 23.96 
+47099,Lawrence County,Tennessee," 2,581 ", 15.45 
+47101,Lewis County,Tennessee, 919 , 17.83 
+47103,Lincoln County,Tennessee," 1,356 ", 9.29 
+47105,Loudon County,Tennessee," 1,562 ", 6.66 
+47111,Macon County,Tennessee," 1,459 ", 15.86 
+47113,Madison County,Tennessee," 6,496 ", 16.43 
+47115,Marion County,Tennessee," 1,718 ", 14.90 
+47117,Marshall County,Tennessee, 839 , 6.32 
+47119,Maury County,Tennessee," 3,032 ", 7.35 
+47107,McMinn County,Tennessee," 3,213 ", 14.96 
+47109,McNairy County,Tennessee," 1,408 ", 14.36 
+47121,Meigs County,Tennessee, 932 , 17.65 
+47123,Monroe County,Tennessee," 2,835 ", 14.70 
+47125,Montgomery County,Tennessee," 7,954 ", 9.43 
+47127,Moore County,Tennessee, 236 , 8.95 
+47129,Morgan County,Tennessee," 1,188 ", 16.53 
+47131,Obion County,Tennessee," 1,791 ", 14.31 
+47133,Overton County,Tennessee, 973 , 10.82 
+47135,Perry County,Tennessee, 481 , 15.82 
+47137,Pickett County,Tennessee, 454 , 21.56 
+47139,Polk County,Tennessee, 963 , 13.48 
+47141,Putnam County,Tennessee," 2,850 ", 8.62 
+47143,Rhea County,Tennessee," 2,169 ", 16.38 
+47145,Roane County,Tennessee," 3,036 ", 13.47 
+47147,Robertson County,Tennessee," 2,116 ", 7.62 
+47149,Rutherford County,Tennessee," 9,286 ", 7.38 
+47151,Scott County,Tennessee," 1,989 ", 23.03 
+47153,Sequatchie County,Tennessee," 1,078 ", 17.61 
+47155,Sevier County,Tennessee," 3,132 ", 7.99 
+47157,Shelby County,Tennessee," 57,744 ", 16.01 
+47159,Smith County,Tennessee, 922 , 12.10 
+47161,Stewart County,Tennessee, 571 , 11.04 
+47163,Sullivan County,Tennessee," 8,792 ", 12.85 
+47165,Sumner County,Tennessee," 5,032 ", 6.56 
+47167,Tipton County,Tennessee," 2,658 ", 11.79 
+47169,Trousdale County,Tennessee, 435 , 11.89 
+47171,Unicoi County,Tennessee," 1,158 ", 14.84 
+47173,Union County,Tennessee," 1,187 ", 15.27 
+47175,Van Buren County,Tennessee, 444 , 18.03 
+47177,Warren County,Tennessee," 2,452 ", 15.20 
+47179,Washington County,Tennessee," 4,744 ", 8.44 
+47181,Wayne County,Tennessee, 909 , 15.85 
+47183,Weakley County,Tennessee," 1,704 ", 12.84 
+47185,White County,Tennessee," 1,508 ", 13.71 
+47187,Williamson County,Tennessee," 1,898 ", 2.09 
+47189,Wilson County,Tennessee," 3,430 ", 6.06 
+48001,Anderson County,Texas," 2,731 ", 15.93 
+48003,Andrews County,Texas, 763 , 11.25 
+48005,Angelina County,Texas," 5,914 ", 18.38 
+48007,Aransas County,Texas," 1,369 ", 11.66 
+48009,Archer County,Texas, 260 , 7.56 
+48011,Armstrong County,Texas, 25 , 3.32 
+48013,Atascosa County,Texas," 2,782 ", 16.72 
+48015,Austin County,Texas," 1,029 ", 8.45 
+48017,Bailey County,Texas, 221 , 9.82 
+48019,Bandera County,Texas, 656 , 7.34 
+48021,Bastrop County,Texas," 2,724 ", 7.75 
+48023,Baylor County,Texas, 205 , 13.24 
+48025,Bee County,Texas," 1,326 ", 15.45 
+48027,Bell County,Texas," 18,193 ", 13.13 
+48029,Bexar County,Texas," 103,073 ", 13.92 
+48031,Blanco County,Texas, 245 , 4.90 
+48033,Borden County,Texas, 2 , 0.84 
+48035,Bosque County,Texas, 844 , 11.30 
+48037,Bowie County,Texas," 4,478 ", 12.87 
+48039,Brazoria County,Texas," 10,641 ", 8.11 
+48041,Brazos County,Texas," 7,899 ", 8.93 
+48043,Brewster County,Texas, 293 , 5.94 
+48045,Briscoe County,Texas, 22 , 3.96 
+48047,Brooks County,Texas, 963 , 33.39 
+48049,Brown County,Texas," 1,762 ", 11.76 
+48051,Burleson County,Texas, 902 , 11.64 
+48053,Burnet County,Texas," 1,323 ", 6.75 
+48055,Caldwell County,Texas," 1,512 ", 9.61 
+48057,Calhoun County,Texas," 1,349 ", 16.06 
+48059,Callahan County,Texas, 526 , 10.04 
+48061,Cameron County,Texas," 34,181 ", 25.24 
+48063,Camp County,Texas, 807 , 17.25 
+48065,Carson County,Texas, 88 , 3.82 
+48067,Cass County,Texas," 1,990 ", 16.90 
+48069,Castro County,Texas, 256 , 10.55 
+48071,Chambers County,Texas," 1,073 ", 6.48 
+48073,Cherokee County,Texas," 2,526 ", 13.97 
+48075,Childress County,Texas, 84 , 3.86 
+48077,Clay County,Texas, 336 , 7.95 
+48079,Cochran County,Texas, 225 , 23.71 
+48081,Coke County,Texas, 137 , 9.20 
+48083,Coleman County,Texas, 329 , 10.19 
+48085,Collin County,Texas," 12,177 ", 3.04 
+48087,Collingsworth County,Texas, 175 , 18.48 
+48089,Colorado County,Texas, 716 , 9.45 
+48091,Comal County,Texas," 3,081 ", 4.55 
+48093,Comanche County,Texas, 392 , 7.27 
+48095,Concho County,Texas, 69 , 8.13 
+48097,Cooke County,Texas," 1,692 ", 10.41 
+48099,Coryell County,Texas," 2,868 ", 10.99 
+48101,Cottle County,Texas, 136 , 23.82 
+48103,Crane County,Texas, 90 , 5.41 
+48105,Crockett County,Texas, -   , -   
+48107,Crosby County,Texas, 512 , 25.94 
+48109,Culberson County,Texas, 204 , 29.06 
+48111,Dallam County,Texas, 182 , 7.67 
+48113,Dallas County,Texas," 99,931 ", 10.28 
+48115,Dawson County,Texas, 787 , 18.95 
+48123,DeWitt County,Texas, 725 , 10.85 
+48117,Deaf Smith County,Texas, 805 , 13.48 
+48119,Delta County,Texas, 167 , 7.97 
+48121,Denton County,Texas," 15,953 ", 4.60 
+48125,Dickens County,Texas, 102 , 14.91 
+48127,Dimmit County,Texas," 1,017 ", 33.79 
+48129,Donley County,Texas, 62 , 5.15 
+48131,Duval County,Texas, 766 , 25.60 
+48133,Eastland County,Texas, 918 , 12.81 
+48135,Ector County,Texas," 6,808 ", 10.91 
+48137,Edwards County,Texas, 98 , 20.68 
+48141,El Paso County,Texas," 59,459 ", 20.06 
+48139,Ellis County,Texas," 5,045 ", 7.33 
+48143,Erath County,Texas, 987 , 6.03 
+48145,Falls County,Texas, 905 , 15.06 
+48147,Fannin County,Texas," 1,513 ", 11.83 
+48149,Fayette County,Texas, 722 , 7.33 
+48151,Fisher County,Texas, 163 , 10.25 
+48153,Floyd County,Texas, 296 , 15.27 
+48155,Foard County,Texas, 41 , 9.74 
+48157,Fort Bend County,Texas," 19,400 ", 6.90 
+48159,Franklin County,Texas, 272 , 6.90 
+48161,Freestone County,Texas," 1,064 ", 15.49 
+48163,Frio County,Texas," 1,166 ", 22.67 
+48165,Gaines County,Texas, 487 , 6.90 
+48167,Galveston County,Texas," 14,548 ", 10.49 
+48169,Garza County,Texas, 214 , 14.93 
+48171,Gillespie County,Texas, 443 , 3.93 
+48173,Glasscock County,Texas, 37 , 8.39 
+48175,Goliad County,Texas, 341 , 12.18 
+48177,Gonzales County,Texas," 1,076 ", 14.05 
+48179,Gray County,Texas," 1,039 ", 13.11 
+48181,Grayson County,Texas," 4,793 ", 8.99 
+48183,Gregg County,Texas," 6,176 ", 13.05 
+48185,Grimes County,Texas," 1,242 ", 12.07 
+48187,Guadalupe County,Texas," 5,511 ", 8.75 
+48189,Hale County,Texas," 2,307 ", 20.91 
+48191,Hall County,Texas, 153 , 13.21 
+48193,Hamilton County,Texas, 377 , 12.03 
+48195,Hansford County,Texas, 75 , 4.11 
+48197,Hardeman County,Texas, 169 , 13.02 
+48199,Hardin County,Texas," 2,851 ", 13.11 
+48201,Harris County,Texas," 228,656 ", 13.23 
+48203,Harrison County,Texas," 3,503 ", 13.68 
+48205,Hartley County,Texas, 88 , 5.38 
+48207,Haskell County,Texas, 375 , 17.79 
+48209,Hays County,Texas," 5,255 ", 5.56 
+48211,Hemphill County,Texas, 60 , 4.39 
+48213,Henderson County,Texas," 4,213 ", 12.92 
+48215,Hidalgo County,Texas," 74,440 ", 28.18 
+48217,Hill County,Texas," 1,603 ", 11.91 
+48219,Hockley County,Texas," 1,074 ", 13.33 
+48221,Hood County,Texas," 1,164 ", 4.66 
+48223,Hopkins County,Texas," 1,125 ", 8.11 
+48225,Houston County,Texas," 1,373 ", 17.61 
+48227,Howard County,Texas," 1,424 ", 11.94 
+48229,Hudspeth County,Texas, 213 , 25.15 
+48231,Hunt County,Texas," 4,764 ", 12.69 
+48233,Hutchinson County,Texas, 514 , 7.40 
+48235,Irion County,Texas, 23 , 3.80 
+48237,Jack County,Texas, 387 , 13.28 
+48239,Jackson County,Texas, 844 , 15.56 
+48241,Jasper County,Texas," 1,969 ", 14.41 
+48243,Jeff Davis County,Texas, 93 , 10.98 
+48245,Jefferson County,Texas," 14,798 ", 15.80 
+48247,Jim Hogg County,Texas, 388 , 31.78 
+48249,Jim Wells County,Texas," 2,784 ", 20.94 
+48251,Johnson County,Texas," 4,589 ", 7.23 
+48253,Jones County,Texas, 885 , 14.68 
+48255,Karnes County,Texas, 814 , 17.53 
+48257,Kaufman County,Texas," 4,766 ", 9.59 
+48259,Kendall County,Texas, 740 , 4.29 
+48261,Kenedy County,Texas, 1 , 5.88 
+48263,Kent County,Texas, 45 , 16.42 
+48265,Kerr County,Texas," 1,547 ", 6.95 
+48267,Kimble County,Texas, 138 , 7.43 
+48269,King County,Texas, -   , -   
+48271,Kinney County,Texas, 273 , 23.14 
+48273,Kleberg County,Texas," 2,420 ", 20.52 
+48275,Knox County,Texas, 120 , 9.55 
+48283,La Salle County,Texas, 285 , 16.93 
+48277,Lamar County,Texas," 2,548 ", 12.70 
+48279,Lamb County,Texas, 682 , 14.69 
+48281,Lampasas County,Texas, 751 , 9.22 
+48285,Lavaca County,Texas, 608 , 7.26 
+48287,Lee County,Texas, 719 , 10.70 
+48289,Leon County,Texas, 569 , 8.69 
+48291,Liberty County,Texas," 4,762 ", 15.87 
+48293,Limestone County,Texas," 1,374 ", 16.52 
+48295,Lipscomb County,Texas, 78 , 7.08 
+48297,Live Oak County,Texas, 713 , 16.94 
+48299,Llano County,Texas, 760 , 7.44 
+48301,Loving County,Texas, 5 , 13.89 
+48303,Lubbock County,Texas," 14,187 ", 11.44 
+48305,Lynn County,Texas, 267 , 12.92 
+48313,Madison County,Texas, 614 , 14.83 
+48315,Marion County,Texas, 784 , 18.66 
+48317,Martin County,Texas, 212 , 10.43 
+48319,Mason County,Texas, 91 , 5.87 
+48321,Matagorda County,Texas," 2,623 ", 17.69 
+48323,Maverick County,Texas," 5,384 ", 29.39 
+48307,McCulloch County,Texas, 279 , 9.08 
+48309,McLennan County,Texas," 11,540 ", 12.03 
+48311,McMullen County,Texas, 10 , 5.95 
+48325,Medina County,Texas," 1,942 ", 11.11 
+48327,Menard County,Texas, 94 , 11.28 
+48329,Midland County,Texas," 4,707 ", 7.02 
+48331,Milam County,Texas," 1,266 ", 12.60 
+48333,Mills County,Texas, 213 , 11.54 
+48335,Mitchell County,Texas, 379 , 14.80 
+48337,Montague County,Texas, 777 , 9.54 
+48339,Montgomery County,Texas," 16,287 ", 6.92 
+48341,Moore County,Texas, 543 , 7.46 
+48343,Morris County,Texas, 706 , 14.01 
+48345,Motley County,Texas, 36 , 7.56 
+48347,Nacogdoches County,Texas," 4,337 ", 17.27 
+48349,Navarro County,Texas," 2,655 ", 14.36 
+48351,Newton County,Texas, 777 , 15.86 
+48353,Nolan County,Texas," 1,093 ", 18.74 
+48355,Nueces County,Texas," 22,112 ", 16.91 
+48357,Ochiltree County,Texas, 330 , 8.78 
+48359,Oldham County,Texas, 21 , 3.33 
+48361,Orange County,Texas," 4,263 ", 13.39 
+48363,Palo Pinto County,Texas," 1,535 ", 14.02 
+48365,Panola County,Texas, 824 , 9.71 
+48367,Parker County,Texas," 2,708 ", 4.99 
+48369,Parmer County,Texas, 144 , 4.52 
+48371,Pecos County,Texas, 736 , 14.41 
+48373,Polk County,Texas," 3,065 ", 16.50 
+48375,Potter County,Texas," 6,133 ", 14.48 
+48377,Presidio County,Texas, 540 , 23.08 
+48379,Rains County,Texas, 545 , 11.54 
+48381,Randall County,Texas," 3,731 ", 6.69 
+48383,Reagan County,Texas, 67 , 6.41 
+48385,Real County,Texas, 185 , 18.12 
+48387,Red River County,Texas, 690 , 13.82 
+48389,Reeves County,Texas, 627 , 15.13 
+48391,Refugio County,Texas, 344 , 14.50 
+48393,Roberts County,Texas, 6 , 1.98 
+48395,Robertson County,Texas," 1,096 ", 16.91 
+48397,Rockwall County,Texas," 1,771 ", 4.48 
+48399,Runnels County,Texas, 406 , 10.68 
+48401,Rusk County,Texas," 2,203 ", 12.26 
+48403,Sabine County,Texas, 602 , 13.47 
+48405,San Augustine County,Texas, 671 , 22.24 
+48407,San Jacinto County,Texas," 1,899 ", 18.12 
+48409,San Patricio County,Texas," 3,680 ", 15.02 
+48411,San Saba County,Texas, 223 , 10.64 
+48413,Schleicher County,Texas, 57 , 6.20 
+48415,Scurry County,Texas, 503 , 8.48 
+48417,Shackelford County,Texas, 83 , 6.25 
+48419,Shelby County,Texas," 1,314 ", 14.32 
+48421,Sherman County,Texas, 19 , 2.26 
+48423,Smith County,Texas," 7,452 ", 9.12 
+48425,Somervell County,Texas, 201 , 5.64 
+48427,Starr County,Texas," 7,738 ", 41.40 
+48429,Stephens County,Texas, 313 , 8.79 
+48431,Sterling County,Texas, 37 , 9.20 
+48433,Stonewall County,Texas, 62 , 13.03 
+48435,Sutton County,Texas, 70 , 5.66 
+48437,Swisher County,Texas, 318 , 12.96 
+48439,Tarrant County,Texas," 75,734 ", 9.84 
+48441,Taylor County,Texas," 5,996 ", 11.02 
+48443,Terrell County,Texas, -   , -   
+48445,Terry County,Texas, 901 , 21.10 
+48447,Throckmorton County,Texas, 53 , 7.73 
+48449,Titus County,Texas," 1,938 ", 17.60 
+48451,Tom Green County,Texas," 4,421 ", 9.59 
+48453,Travis County,Texas," 33,274 ", 5.93 
+48455,Trinity County,Texas, 843 , 13.97 
+48457,Tyler County,Texas," 1,217 ", 17.21 
+48459,Upshur County,Texas," 1,938 ", 12.61 
+48461,Upton County,Texas, 128 , 9.66 
+48463,Uvalde County,Texas," 1,981 ", 23.52 
+48465,Val Verde County,Texas," 3,334 ", 19.96 
+48467,Van Zandt County,Texas," 2,550 ", 11.31 
+48469,Victoria County,Texas," 4,386 ", 12.85 
+48471,Walker County,Texas," 2,708 ", 10.75 
+48473,Waller County,Texas," 2,046 ", 11.38 
+48475,Ward County,Texas, 502 , 11.55 
+48477,Washington County,Texas," 1,342 ", 8.78 
+48479,Webb County,Texas," 19,133 ", 24.04 
+48481,Wharton County,Texas," 2,023 ", 13.12 
+48483,Wheeler County,Texas, 228 , 12.33 
+48485,Wichita County,Texas," 5,574 ", 11.39 
+48487,Wilbarger County,Texas, 659 , 13.91 
+48489,Willacy County,Texas," 1,678 ", 29.59 
+48491,Williamson County,Texas," 10,899 ", 4.51 
+48493,Wilson County,Texas," 1,343 ", 7.55 
+48495,Winkler County,Texas, 511 , 18.37 
+48497,Wise County,Texas," 2,125 ", 8.64 
+48499,Wood County,Texas," 2,052 ", 11.26 
+48501,Yoakum County,Texas, 170 , 6.50 
+48503,Young County,Texas, 846 , 10.90 
+48505,Zapata County,Texas," 1,447 ", 31.37 
+48507,Zavala County,Texas," 1,396 ", 40.93 
+49001,Beaver County,Utah, 103 , 4.32 
+49003,Box Elder County,Utah," 1,286 ", 6.72 
+49005,Cache County,Utah," 2,057 ", 4.77 
+49007,Carbon County,Utah," 1,175 ", 14.65 
+49009,Daggett County,Utah, 17 , 6.49 
+49011,Davis County,Utah," 5,077 ", 4.43 
+49013,Duchesne County,Utah, 711 , 10.59 
+49015,Emery County,Utah, 319 , 9.31 
+49017,Garfield County,Utah, 82 , 4.05 
+49019,Grand County,Utah, 335 , 7.50 
+49021,Iron County,Utah," 1,728 ", 8.79 
+49023,Juab County,Utah, 223 , 5.94 
+49025,Kane County,Utah, 92 , 2.88 
+49027,Millard County,Utah, 218 , 5.11 
+49029,Morgan County,Utah, 15 , 0.42 
+49031,Piute County,Utah, 51 , 8.99 
+49033,Rich County,Utah, 46 , 5.63 
+49035,Salt Lake County,Utah," 21,094 ", 5.06 
+49037,San Juan County,Utah, 690 , 14.84 
+49039,Sanpete County,Utah, 651 , 7.44 
+49041,Sevier County,Utah, 836 , 11.31 
+49043,Summit County,Utah, 249 , 1.72 
+49045,Tooele County,Utah," 1,552 ", 6.73 
+49047,Uintah County,Utah," 1,632 ", 13.67 
+49049,Utah County,Utah," 8,373 ", 4.28 
+49051,Wasatch County,Utah, 165 , 1.38 
+49053,Washington County,Utah," 3,135 ", 4.69 
+49055,Wayne County,Utah, 88 , 8.11 
+49057,Weber County,Utah," 6,154 ", 6.66 
+50001,Addison County,Vermont," 1,260 ", 8.61 
+50003,Bennington County,Vermont," 2,152 ", 14.70 
+50005,Caledonia County,Vermont," 1,978 ", 15.36 
+50007,Chittenden County,Vermont," 5,385 ", 7.64 
+50009,Essex County,Vermont, 515 , 18.87 
+50011,Franklin County,Vermont," 2,276 ", 11.61 
+50013,Grand Isle County,Vermont, 320 , 10.40 
+50015,Lamoille County,Vermont," 1,090 ", 9.54 
+50017,Orange County,Vermont," 1,270 ", 9.93 
+50019,Orleans County,Vermont," 1,651 ", 14.00 
+50021,Rutland County,Vermont," 2,758 ", 10.84 
+50023,Washington County,Vermont," 2,632 ", 10.33 
+50025,Windham County,Vermont," 2,589 ", 13.17 
+50027,Windsor County,Vermont," 2,380 ", 9.57 
+51001,Accomack County,Virginia," 1,790 ", 12.52 
+51003,Albemarle County,Virginia," 1,723 ", 3.82 
+51510,Alexandria city,Virginia," 3,902 ", 5.18 
+51005,Alleghany County,Virginia, 555 , 8.82 
+51007,Amelia County,Virginia, 668 , 12.64 
+51009,Amherst County,Virginia," 1,577 ", 12.42 
+51011,Appomattox County,Virginia, 906 , 13.80 
+51013,Arlington County,Virginia," 3,783 ", 3.39 
+51015,Augusta County,Virginia," 1,901 ", 6.20 
+51017,Bath County,Virginia, 183 , 10.28 
+51019,Bedford County,Virginia," 2,084 ", 6.37 
+51021,Bland County,Virginia, 174 , 7.42 
+51023,Botetourt County,Virginia, 357 , 2.72 
+51520,Bristol city,Virginia," 1,557 ", 21.25 
+51025,Brunswick County,Virginia," 1,363 ", 21.33 
+51027,Buchanan County,Virginia," 1,868 ", 25.41 
+51029,Buckingham County,Virginia," 1,063 ", 17.54 
+51530,Buena Vista city,Virginia, 345 , 13.21 
+51031,Campbell County,Virginia," 2,526 ", 11.44 
+51033,Caroline County,Virginia," 1,457 ", 12.47 
+51035,Carroll County,Virginia," 1,791 ", 14.34 
+51036,Charles City County,Virginia, 331 , 11.23 
+51037,Charlotte County,Virginia," 1,161 ", 25.12 
+51540,Charlottesville city,Virginia," 1,942 ", 9.86 
+51550,Chesapeake city,Virginia," 6,376 ", 6.90 
+51041,Chesterfield County,Virginia," 8,316 ", 6.07 
+51043,Clarke County,Virginia, 149 , 2.64 
+51570,Colonial Heights city,Virginia, 863 , 11.44 
+51580,Covington city,Virginia, 387 , 15.52 
+51045,Craig County,Virginia, 235 , 13.41 
+51047,Culpeper County,Virginia," 1,752 ", 9.43 
+51049,Cumberland County,Virginia, 806 , 19.31 
+51590,Danville city,Virginia," 4,802 ", 25.77 
+51051,Dickenson County,Virginia," 1,553 ", 27.16 
+51053,Dinwiddie County,Virginia," 1,468 ", 14.08 
+51595,Emporia city,Virginia, 770 , 34.70 
+51057,Essex County,Virginia, 664 , 15.10 
+51059,Fairfax County,Virginia," 17,203 ", 4.17 
+51600,Fairfax city,Virginia, 231 , 2.52 
+51610,Falls Church city,Virginia, 110 , 1.82 
+51061,Fauquier County,Virginia," 1,342 ", 5.11 
+51063,Floyd County,Virginia, 485 , 7.29 
+51065,Fluvanna County,Virginia, 535 , 5.22 
+51067,Franklin County,Virginia," 2,600 ", 11.56 
+51620,Franklin city,Virginia, 815 , 24.06 
+51069,Frederick County,Virginia," 2,145 ", 6.25 
+51630,Fredericksburg city,Virginia," 1,359 ", 11.88 
+51640,Galax city,Virginia, 544 , 19.93 
+51071,Giles County,Virginia, 687 , 10.15 
+51073,Gloucester County,Virginia," 1,117 ", 7.39 
+51075,Goochland County,Virginia, 432 , 4.31 
+51077,Grayson County,Virginia," 1,064 ", 17.16 
+51079,Greene County,Virginia, 780 , 9.86 
+51081,Greensville County,Virginia, 552 , 17.85 
+51083,Halifax County,Virginia," 2,876 ", 21.03 
+51650,Hampton city,Virginia," 8,705 ", 15.08 
+51085,Hanover County,Virginia," 2,027 ", 4.82 
+51660,Harrisonburg city,Virginia," 1,829 ", 10.55 
+51087,Henrico County,Virginia," 10,791 ", 7.96 
+51089,Henry County,Virginia," 3,252 ", 15.86 
+51091,Highland County,Virginia, 56 , 5.58 
+51670,Hopewell city,Virginia," 2,353 ", 24.98 
+51093,Isle of Wight County,Virginia," 1,214 ", 7.87 
+51095,James City County,Virginia," 1,768 ", 5.64 
+51099,King George County,Virginia, 722 , 7.31 
+51101,King William County,Virginia, 578 , 8.12 
+51097,King and Queen County,Virginia, 373 , 13.26 
+51103,Lancaster County,Virginia, 597 , 10.92 
+51105,Lee County,Virginia," 2,320 ", 27.47 
+51678,Lexington city,Virginia, 395 , 19.17 
+51107,Loudoun County,Virginia," 4,506 ", 3.20 
+51109,Louisa County,Virginia," 1,786 ", 11.74 
+51111,Lunenburg County,Virginia, 953 , 20.41 
+51680,Lynchburg city,Virginia," 3,974 ", 13.85 
+51113,Madison County,Virginia, 424 , 7.86 
+51685,Manassas Park city,Virginia, 584 , 11.31 
+51683,Manassas city,Virginia, 982 , 6.99 
+51690,Martinsville city,Virginia," 1,222 ", 21.75 
+51115,Mathews County,Virginia, 213 , 5.65 
+51117,Mecklenburg County,Virginia," 1,933 ", 14.43 
+51119,Middlesex County,Virginia, 535 , 11.30 
+51121,Montgomery County,Virginia," 1,696 ", 4.62 
+51125,Nelson County,Virginia, 757 , 11.70 
+51127,New Kent County,Virginia, 489 , 5.41 
+51700,Newport News city,Virginia," 10,590 ", 13.97 
+51710,Norfolk city,Virginia," 15,365 ", 16.27 
+51131,Northampton County,Virginia, 773 , 14.48 
+51133,Northumberland County,Virginia, 360 , 6.62 
+51720,Norton city,Virginia, 489 , 31.49 
+51135,Nottoway County,Virginia, 721 , 13.13 
+51137,Orange County,Virginia," 1,080 ", 7.36 
+51139,Page County,Virginia," 1,145 ", 12.04 
+51141,Patrick County,Virginia, 955 , 12.25 
+51730,Petersburg city,Virginia," 3,489 ", 23.49 
+51143,Pittsylvania County,Virginia," 3,400 ", 13.80 
+51735,Poquoson city,Virginia, 84 , 1.80 
+51740,Portsmouth city,Virginia," 7,638 ", 19.25 
+51145,Powhatan County,Virginia, 212 , 1.90 
+51147,Prince Edward County,Virginia," 1,520 ", 20.11 
+51149,Prince George County,Virginia," 1,028 ", 8.08 
+51153,Prince William County,Virginia," 8,581 ", 5.55 
+51155,Pulaski County,Virginia," 2,007 ", 13.95 
+51750,Radford city,Virginia, 622 , 11.31 
+51157,Rappahannock County,Virginia, 161 , 5.63 
+51159,Richmond County,Virginia, 425 , 14.50 
+51760,Richmond city,Virginia," 14,943 ", 14.63 
+51161,Roanoke County,Virginia," 2,512 ", 6.40 
+51770,Roanoke city,Virginia," 7,218 ", 16.62 
+51163,Rockbridge County,Virginia, 919 , 9.62 
+51165,Rockingham County,Virginia," 1,819 ", 5.68 
+51167,Russell County,Virginia," 2,009 ", 19.19 
+51775,Salem city,Virginia, 832 , 8.21 
+51169,Scott County,Virginia," 1,877 ", 20.97 
+51171,Shenandoah County,Virginia," 1,975 ", 11.11 
+51173,Smyth County,Virginia," 1,989 ", 15.87 
+51175,Southampton County,Virginia, 991 , 14.39 
+51177,Spotsylvania County,Virginia," 3,233 ", 6.30 
+51179,Stafford County,Virginia," 2,309 ", 4.50 
+51790,Staunton city,Virginia," 1,446 ", 12.73 
+51800,Suffolk city,Virginia," 4,144 ", 11.16 
+51181,Surry County,Virginia, 305 , 11.07 
+51183,Sussex County,Virginia, 706 , 19.06 
+51185,Tazewell County,Virginia," 2,347 ", 14.71 
+51810,Virginia Beach city,Virginia," 11,673 ", 6.49 
+51187,Warren County,Virginia," 1,556 ", 10.13 
+51191,Washington County,Virginia," 2,740 ", 12.39 
+51820,Waynesboro city,Virginia," 1,324 ", 13.76 
+51193,Westmoreland County,Virginia," 1,480 ", 18.43 
+51830,Williamsburg city,Virginia, 271 , 5.45 
+51840,Winchester city,Virginia," 1,233 ", 10.96 
+51195,Wise County,Virginia," 2,980 ", 21.20 
+51197,Wythe County,Virginia," 1,685 ", 13.59 
+51199,York County,Virginia, 881 , 3.33 
+53001,Adams County,Washington," 1,107 ", 17.57 
+53003,Asotin County,Washington," 1,754 ", 18.58 
+53005,Benton County,Washington," 11,014 ", 14.36 
+53007,Chelan County,Washington," 3,509 ", 11.38 
+53009,Clallam County,Washington," 4,395 ", 12.78 
+53011,Clark County,Washington," 23,395 ", 12.10 
+53013,Columbia County,Washington, 283 , 14.96 
+53015,Cowlitz County,Washington," 8,069 ", 18.59 
+53017,Douglas County,Washington," 2,092 ", 13.32 
+53019,Ferry County,Washington, 558 , 17.78 
+53021,Franklin County,Washington," 5,688 ", 19.53 
+53023,Garfield County,Washington, 144 , 13.69 
+53025,Grant County,Washington," 5,415 ", 15.69 
+53027,Grays Harbor County,Washington," 5,574 ", 18.59 
+53029,Island County,Washington," 2,377 ", 6.69 
+53031,Jefferson County,Washington," 1,421 ", 8.80 
+53033,King County,Washington," 75,651 ", 8.15 
+53035,Kitsap County,Washington," 10,381 ", 9.68 
+53037,Kittitas County,Washington," 2,258 ", 11.52 
+53039,Klickitat County,Washington," 1,229 ", 12.57 
+53041,Lewis County,Washington," 5,228 ", 16.18 
+53043,Lincoln County,Washington, 459 , 9.85 
+53045,Mason County,Washington," 3,845 ", 15.15 
+53047,Okanogan County,Washington," 2,979 ", 17.31 
+53049,Pacific County,Washington," 1,724 ", 16.03 
+53051,Pend Oreille County,Washington," 1,067 ", 18.31 
+53053,Pierce County,Washington," 40,978 ", 11.82 
+53055,San Juan County,Washington, 490 , 5.48 
+53057,Skagit County,Washington," 6,372 ", 12.37 
+53059,Skamania County,Washington, 626 , 12.61 
+53061,Snohomish County,Washington," 28,348 ", 9.09 
+53063,Spokane County,Washington," 34,595 ", 16.03 
+53065,Stevens County,Washington," 2,870 ", 15.12 
+53067,Thurston County,Washington," 13,368 ", 11.41 
+53069,Wahkiakum County,Washington, 119 , 5.87 
+53071,Walla Walla County,Washington," 2,894 ", 12.37 
+53073,Whatcom County,Washington," 10,519 ", 11.38 
+53075,Whitman County,Washington," 1,810 ", 10.08 
+53077,Yakima County,Washington," 18,843 ", 21.74 
+54001,Barbour County,West Virginia, 979 , 16.68 
+54003,Berkeley County,West Virginia," 5,620 ", 11.38 
+54005,Boone County,West Virginia," 1,749 ", 22.16 
+54007,Braxton County,West Virginia," 1,017 ", 21.49 
+54009,Brooke County,West Virginia," 1,505 ", 15.95 
+54011,Cabell County,West Virginia," 6,595 ", 16.85 
+54013,Calhoun County,West Virginia, 517 , 21.62 
+54015,Clay County,West Virginia, 865 , 29.22 
+54017,Doddridge County,West Virginia, 219 , 9.07 
+54019,Fayette County,West Virginia," 3,563 ", 22.12 
+54021,Gilmer County,West Virginia, 487 , 21.86 
+54023,Grant County,West Virginia, 663 , 15.48 
+54025,Greenbrier County,West Virginia," 2,599 ", 17.67 
+54027,Hampshire County,West Virginia," 1,132 ", 13.55 
+54029,Hancock County,West Virginia," 2,222 ", 17.24 
+54031,Hardy County,West Virginia," 1,091 ", 18.46 
+54033,Harrison County,West Virginia," 3,817 ", 14.67 
+54035,Jackson County,West Virginia," 2,076 ", 18.34 
+54037,Jefferson County,West Virginia," 2,437 ", 11.09 
+54039,Kanawha County,West Virginia," 11,947 ", 15.55 
+54041,Lewis County,West Virginia," 1,546 ", 22.28 
+54043,Lincoln County,West Virginia," 1,891 ", 24.21 
+54045,Logan County,West Virginia," 3,468 ", 27.98 
+54049,Marion County,West Virginia," 3,485 ", 15.18 
+54051,Marshall County,West Virginia," 2,493 ", 19.96 
+54053,Mason County,West Virginia," 1,826 ", 17.76 
+54047,McDowell County,West Virginia," 2,350 ", 36.24 
+54055,Mercer County,West Virginia," 5,401 ", 22.12 
+54057,Mineral County,West Virginia," 1,780 ", 16.64 
+54059,Mingo County,West Virginia," 3,235 ", 35.89 
+54061,Monongalia County,West Virginia," 4,078 ", 9.19 
+54063,Monroe County,West Virginia, 756 , 15.96 
+54065,Morgan County,West Virginia, 878 , 12.18 
+54067,Nicholas County,West Virginia," 2,081 ", 21.69 
+54069,Ohio County,West Virginia," 3,203 ", 17.66 
+54071,Pendleton County,West Virginia, 352 , 15.31 
+54073,Pleasants County,West Virginia, 400 , 14.39 
+54075,Pocahontas County,West Virginia, 675 , 21.83 
+54077,Preston County,West Virginia," 2,308 ", 18.04 
+54079,Putnam County,West Virginia," 2,764 ", 12.14 
+54081,Raleigh County,West Virginia," 5,545 ", 19.08 
+54083,Randolph County,West Virginia," 1,567 ", 15.09 
+54085,Ritchie County,West Virginia, 550 , 16.53 
+54087,Roane County,West Virginia," 1,230 ", 22.23 
+54089,Summers County,West Virginia," 1,337 ", 27.78 
+54091,Taylor County,West Virginia," 1,277 ", 19.26 
+54093,Tucker County,West Virginia, 350 , 12.26 
+54095,Tyler County,West Virginia, 550 , 17.45 
+54097,Upshur County,West Virginia," 1,737 ", 18.12 
+54099,Wayne County,West Virginia," 3,226 ", 20.75 
+54101,Webster County,West Virginia, 911 , 32.10 
+54103,Wetzel County,West Virginia," 1,073 ", 18.11 
+54105,Wirt County,West Virginia, 432 , 20.86 
+54107,Wood County,West Virginia," 6,257 ", 17.52 
+54109,Wyoming County,West Virginia," 1,644 ", 20.74 
+55001,Adams County,Wisconsin," 1,361 ", 14.55 
+55003,Ashland County,Wisconsin," 1,087 ", 15.88 
+55005,Barron County,Wisconsin," 2,201 ", 11.22 
+55007,Bayfield County,Wisconsin, 867 , 11.62 
+55009,Brown County,Wisconsin," 11,201 ", 10.16 
+55011,Buffalo County,Wisconsin, 575 , 10.10 
+55013,Burnett County,Wisconsin, 894 , 12.61 
+55015,Calumet County,Wisconsin," 1,341 ", 6.39 
+55017,Chippewa County,Wisconsin," 2,830 ", 10.65 
+55019,Clark County,Wisconsin," 1,355 ", 10.68 
+55021,Columbia County,Wisconsin," 2,116 ", 8.73 
+55023,Crawford County,Wisconsin, 687 , 10.31 
+55025,Dane County,Wisconsin," 18,424 ", 7.50 
+55027,Dodge County,Wisconsin," 3,454 ", 9.67 
+55029,Door County,Wisconsin," 1,152 ", 8.01 
+55031,Douglas County,Wisconsin," 2,214 ", 11.69 
+55033,Dunn County,Wisconsin," 2,017 ", 11.61 
+55035,Eau Claire County,Wisconsin," 4,306 ", 9.95 
+55037,Florence County,Wisconsin, 234 , 11.09 
+55039,Fond du Lac County,Wisconsin," 3,770 ", 8.76 
+55041,Forest County,Wisconsin, 589 , 14.90 
+55043,Grant County,Wisconsin," 2,049 ", 10.29 
+55045,Green County,Wisconsin," 1,274 ", 8.16 
+55047,Green Lake County,Wisconsin, 955 , 11.73 
+55049,Iowa County,Wisconsin, 797 , 8.01 
+55051,Iron County,Wisconsin, 404 , 13.70 
+55053,Jackson County,Wisconsin," 1,145 ", 13.97 
+55055,Jefferson County,Wisconsin," 3,023 ", 8.77 
+55057,Juneau County,Wisconsin," 1,562 ", 14.47 
+55059,Kenosha County,Wisconsin," 8,279 ", 12.24 
+55061,Kewaunee County,Wisconsin, 468 , 5.64 
+55063,La Crosse County,Wisconsin," 4,438 ", 8.78 
+55065,Lafayette County,Wisconsin, 641 , 9.59 
+55067,Langlade County,Wisconsin," 1,089 ", 12.65 
+55069,Lincoln County,Wisconsin," 1,456 ", 11.58 
+55071,Manitowoc County,Wisconsin," 3,630 ", 10.36 
+55073,Marathon County,Wisconsin," 5,305 ", 9.33 
+55075,Marinette County,Wisconsin," 2,078 ", 11.15 
+55077,Marquette County,Wisconsin, 812 , 11.80 
+55078,Menominee County,Wisconsin, 301 , 22.53 
+55079,Milwaukee County,Wisconsin," 78,474 ", 20.17 
+55081,Monroe County,Wisconsin," 2,596 ", 14.20 
+55083,Oconto County,Wisconsin," 1,411 ", 8.49 
+55085,Oneida County,Wisconsin," 1,130 ", 6.74 
+55087,Outagamie County,Wisconsin," 5,548 ", 7.18 
+55089,Ozaukee County,Wisconsin," 1,753 ", 4.64 
+55091,Pepin County,Wisconsin, 264 , 8.66 
+55093,Pierce County,Wisconsin, 847 , 5.37 
+55095,Polk County,Wisconsin," 1,704 ", 9.05 
+55097,Portage County,Wisconsin," 2,283 ", 7.70 
+55099,Price County,Wisconsin, 822 , 12.52 
+55101,Racine County,Wisconsin," 9,633 ", 12.18 
+55103,Richland County,Wisconsin, 902 , 12.67 
+55105,Rock County,Wisconsin," 8,565 ", 12.85 
+55107,Rusk County,Wisconsin," 1,000 ", 15.98 
+55111,Sauk County,Wisconsin," 2,453 ", 8.94 
+55113,Sawyer County,Wisconsin," 1,179 ", 13.83 
+55115,Shawano County,Wisconsin," 1,656 ", 9.81 
+55117,Sheboygan County,Wisconsin," 4,460 ", 9.02 
+55109,St. Croix County,Wisconsin," 1,966 ", 5.35 
+55119,Taylor County,Wisconsin, 746 , 9.39 
+55121,Trempealeau County,Wisconsin," 1,149 ", 9.23 
+55123,Vernon County,Wisconsin, 965 , 7.92 
+55125,Vilas County,Wisconsin," 1,058 ", 9.73 
+55127,Walworth County,Wisconsin," 3,122 ", 7.36 
+55129,Washburn County,Wisconsin, 870 , 11.56 
+55131,Washington County,Wisconsin," 2,633 ", 4.66 
+55133,Waukesha County,Wisconsin," 7,451 ", 4.47 
+55135,Waupaca County,Wisconsin," 2,017 ", 9.01 
+55137,Waushara County,Wisconsin," 1,341 ", 12.98 
+55139,Winnebago County,Wisconsin," 6,631 ", 9.22 
+55141,Wood County,Wisconsin," 4,234 ", 13.26 
+56001,Albany County,Wyoming, 613 , 3.69 
+56003,Big Horn County,Wyoming, 213 , 4.89 
+56005,Campbell County,Wyoming, 467 , 2.61 
+56007,Carbon County,Wyoming, 372 , 6.32 
+56009,Converse County,Wyoming, 350 , 6.13 
+56011,Crook County,Wyoming, 11 , 0.38 
+56013,Fremont County,Wyoming," 1,141 ", 7.70 
+56015,Goshen County,Wyoming, 422 , 8.35 
+56017,Hot Springs County,Wyoming, 168 , 8.08 
+56019,Johnson County,Wyoming, 62 , 1.58 
+56021,Laramie County,Wyoming," 2,318 ", 5.45 
+56023,Lincoln County,Wyoming, 291 , 3.70 
+56025,Natrona County,Wyoming," 1,975 ", 5.93 
+56027,Niobrara County,Wyoming, 74 , 6.49 
+56029,Park County,Wyoming, 505 , 3.83 
+56031,Platte County,Wyoming, 321 , 8.28 
+56033,Sheridan County,Wyoming, 445 , 3.29 
+56035,Sublette County,Wyoming, 33 , 0.89 
+56037,Sweetwater County,Wyoming," 1,272 ", 7.54 
+56039,Teton County,Wyoming, 110 , 1.17 
+56041,Uinta County,Wyoming, 446 , 5.96 
+56043,Washakie County,Wyoming, 170 , 4.98 
+56045,Weston County,Wyoming, 111 , 4.03
