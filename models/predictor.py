@@ -37,9 +37,7 @@ def save_results(results: pd.DataFrame, output_dir: Optional[Path] = None) -> Pa
     return output_path
 
 
-# ------------------------------------------------------------
-# Main Execution
-# ------------------------------------------------------------
+# Main execution
 if __name__ == "__main__":
     try:
         print("Starting risk prediction pipeline...")
