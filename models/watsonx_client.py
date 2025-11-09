@@ -8,17 +8,6 @@ from urllib3.util import Retry
 import logging
 import os
 from pathlib import Path
-import warnings
-
-# Suppress urllib3 NotOpenSSLWarning when Python is linked against LibreSSL (common on macOS)
-# This is an environment-level warning; silencing it here keeps logs cleaner while you decide
-# whether to rebuild Python with OpenSSL or install an OpenSSL-backed Python.
-try:
-    from urllib3.exceptions import NotOpenSSLWarning
-    warnings.filterwarnings("ignore", category=NotOpenSSLWarning)
-except Exception:
-    # If urllib3 changes or import fails, just ignore and continue
-    pass
 
 # Replace with your actual IBM Cloud IAM token (optional). We'll load API_KEY from environment or .env.
 # Keep IAM_TOKEN for backward compatibility if you want to supply it directly.

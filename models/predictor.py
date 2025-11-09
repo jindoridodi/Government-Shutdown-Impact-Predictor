@@ -1,97 +1,138 @@
-
-# predictor.py
+"""
+AI-Driven Regional Risk Forecasting using IBM watsonx.ai Granite Time Series Model
+This script preprocesses socioeconomic datasets and forecasts regional economic risk
+using IBM watsonx.ai Time Series Foundation Models (Granite TinyTimeMixers).
+"""
 
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
+import requests
 import logging
+from pathlib import Path
+from ibm_watsonx_ai import APIClient
+from ibm_watsonx_ai.foundation_models import TSModelInference
+from ibm_watsonx_ai.foundation_models.schema import TSForecastParameters
 
-# Configure logging
-logging.basicConfig(filename='predictor.log', level=logging.INFO, 
+# ------------------------------------------------------------
+# Logging Configuration
+# ------------------------------------------------------------
+logging.basicConfig(filename='predictor.log', level=logging.INFO,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
+# ------------------------------------------------------------
+# IBM watsonx.ai Configuration (use your credentials)
+# ------------------------------------------------------------
+PROJECT_ID = "adf0626a-5f99-4f48-b3eb-2f46a450c059"
+API_KEY = "MIDUEQgmSHM17CEJ0WDRZiSTjZ18eZFt8Ko66vrJQZNV"
+ENDPOINT = "https://us-south.ml.cloud.ibm.com"
+
+# Generate IAM token
+def get_iam_token(api_key):
+    url = "https://iam.cloud.ibm.com/identity/token"
+    data = {
+        "grant_type": "urn:ibm:params:oauth:grant-type:apikey",
+        "apikey": api_key
+    }
+    headers = {"Content-Type": "application/x-www-form-urlencoded"}
+    response = requests.post(url, data=data, headers=headers)
+    response.raise_for_status()
+    token = response.json()["access_token"]
+    return token
+
+# Initialize IBM watsonx.ai client
+def initialize_client():
+    logging.info("Initializing watsonx.ai client...")
+    token = get_iam_token(API_KEY)
+    client = APIClient(api_key=API_KEY, project_id=PROJECT_ID, service_url=ENDPOINT)
+    logging.info("watsonx.ai client initialized.")
+    return client
+
+# ------------------------------------------------------------
+# Data Preprocessing
+# ------------------------------------------------------------
 def preprocess_data():
     """
-    Loads, cleans, and merges datasets by region.
-    Calculates a composite 'risk_score' based on weighted factors.
-    Returns a DataFrame with 'risk_score' for each region.
+    Load and merge all datasets to compute a composite socioeconomic index per county.
     """
     logging.info("Starting data preprocessing...")
 
-    # Load datasets
-    federal_employment = pd.read_csv('/data/raw/federal_employment.csv')
-    contracts = pd.read_csv('/data/raw/government_contracts.csv')
-    unemployment = pd.read_csv('/data/raw/unemployment.csv')
-    benefits = pd.read_csv('/data/raw/benefits.csv')
+    # Load datasets from the project's data/ directory
+    repo_root = Path(__file__).resolve().parents[1]
+    data_dir = repo_root / 'data'
 
-    # Cleaning and merging (assuming 'region' column exists in all files)
-    merged_data = pd.merge(federal_employment, contracts, on='region', how='left')
-    merged_data = pd.merge(merged_data, unemployment, on='region', how='left')
-    merged_data = pd.merge(merged_data, benefits, on='region', how='left')
+    # Build full paths and read CSVs
+    federal = pd.read_csv(data_dir / "Federal Employment.csv")
+    snap = pd.read_csv(data_dir / "SNAPParticipation.csv")
+    unemployment = pd.read_csv(data_dir / "unemployment.csv")
+    cost = pd.read_csv(data_dir / "CostOfLiving.csv")
 
-    # Calculate risk_score
-    merged_data['federal_employment_density'] = merged_data['federal_employment'] / merged_data['population']  # Assuming 'population' column exists
-    merged_data['contractor_dependence'] = merged_data['contract_value'] / merged_data['gdp']  # Assuming 'contract_value' and 'gdp' columns exist
-    merged_data['unemployment_rate'] = merged_data['unemployment_rate'] / 100  # Normalize to percentage
-    merged_data['benefit_dependency'] = merged_data['benefit_recipients'] / merged_data['population']
+    # Merge on common keys (assume 'county' and 'state' columns exist)
+    data = federal.merge(snap, on=["county", "state"], how="left") \
+                  .merge(unemployment, on=["county", "state"], how="left") \
+                  .merge(cost, on=["county", "state"], how="left")
 
-    merged_data['risk_score'] = (
-        0.4 * merged_data['federal_employment_density'] +
-        0.3 * merged_data['contractor_dependence'] +
-        0.2 * merged_data['unemployment_rate'] +
-        0.1 * merged_data['benefit_dependency']
+    # Compute derived features
+    data["employment_ratio"] = data["federal_employment"] / data["population"]
+    data["snap_rate"] = data["snap_households"] / data["population"]
+    data["unemployment_rate"] = data["unemployment_rate"] / 100
+    data["cost_index_norm"] = data["cost_index"] / data["cost_index"].max()
+
+    # Composite socioeconomic risk index
+    data["risk_index"] = (
+        0.4 * data["employment_ratio"] +
+        0.3 * data["unemployment_rate"] +
+        0.2 * data["snap_rate"] +
+        0.1 * data["cost_index_norm"]
     )
 
     logging.info("Data preprocessing completed.")
-    return merged_data
+    return data
 
-def train_model(data):
+# ------------------------------------------------------------
+# Forecasting with watsonx.ai Granite Model
+# ------------------------------------------------------------
+def forecast_risk(data, client):
     """
-    Trains a RandomForestRegressor on the preprocessed data.
+    Uses IBM watsonx.ai Granite Time Series model to forecast regional risk scores.
     """
-    logging.info("Starting model training...")
+    logging.info("Starting time series forecasting...")
 
-    X = data[['federal_employment_density', 'contractor_dependence', 'unemployment_rate', 'benefit_dependency']]
-    y = data['risk_score']
+    # Define model and parameters
+    model_id = client.foundation_models.TimeSeriesModels.GRANITE_TTM_512_96_R2
+    ts_model = TSModelInference(model_id=model_id, api_client=client)
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    params = TSForecastParameters(
+        timestamp_column="date",
+        freq="M",  # monthly frequency
+        target_columns=["risk_index"]
+    )
 
-    model = RandomForestRegressor(n_estimators=100, random_state=42)
-    model.fit(X_train, y_train)
+    # Prepare data (assume sorted by date)
+    data = data.sort_values(by="date")
 
-    logging.info("Model training completed.")
-    return model
+    # Forecast future values
+    results = ts_model.forecast(data=data, params=params)["results"][0]
 
-def predict_future_risk(model, new_data):
-    """
-    Predicts risk_scores for new data using the trained model.
-    """
-    logging.info("Starting risk predictions...")
-    predictions = model.predict(new_data)
-    return predictions
+    logging.info("Forecasting completed.")
+    return pd.DataFrame(results)
 
-def save_results(predictions, region_list):
-    """
-    Saves predictions to a CSV file.
-    """
-    logging.info("Saving predictions to file...")
-    result_df = pd.DataFrame({'region': region_list, 'predicted_risk_score': predictions})
-    result_df.to_csv('/data/processed/regional_risk.csv', index=False)
-    logging.info("Predictions saved.")
+# ------------------------------------------------------------
+# Save Results
+# ------------------------------------------------------------
+def save_results(results, filename="predicted_regional_risk.csv"):
+    logging.info("Saving forecast results...")
+    results.to_csv(filename, index=False)
+    logging.info(f"Forecast results saved to {filename}.")
 
+# ------------------------------------------------------------
+# Main Execution
+# ------------------------------------------------------------
 if __name__ == "__main__":
-    # Preprocess data
-    data = preprocess_data()
-
-    # Train the model
-    model = train_model(data)
-
-    # Load new data for prediction (example - replace with actual data loading)
-    new_data = pd.read_csv('/data/raw/new_regional_data.csv')  # Assuming new data has the same features
-
-    # Make predictions
-    predictions = predict_future_risk(model, new_data)
-
-    # Save results
-    save_results(predictions, new_data['region'].tolist())
-
+    try:
+        data = preprocess_data()
+        client = initialize_client()
+        forecast_results = forecast_risk(data, client)
+        save_results(forecast_results)
+        print("Forecast completed successfully. Results saved.")
+    except Exception as e:
+        logging.error(f"Error: {str(e)}")
+        print(f"Error occurred: {str(e)}")
