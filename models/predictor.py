@@ -3,8 +3,15 @@ AI-Driven Regional Risk Forecasting using IBM watsonx.ai Granite Time Series Mod
 Main orchestrator script that coordinates data preprocessing and forecasting.
 """
 
-import pandas as pd
+import sys
 from pathlib import Path
+
+# Add parent directory to path to allow importing from utils and models
+_repo_root = Path(__file__).resolve().parents[1]
+if str(_repo_root) not in sys.path:
+    sys.path.insert(0, str(_repo_root))
+
+import pandas as pd
 from typing import Optional
 from utils.data_processing import preprocess_data
 from models.forecasting import forecast_risk_by_county
