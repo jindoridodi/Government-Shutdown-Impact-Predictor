@@ -250,3 +250,87 @@ def get_county_coordinates(county_name, state_name):
 
     return (39.8283, -98.5795)
 
+
+def geocode_dataframe(df, county_col='county', state_col='state', lat_col='lat', lng_col='lng'):
+    """Geocode a pandas DataFrame or a list-of-dicts in-place (or return a new list).
+
+    - If a pandas DataFrame is provided, the function will add/overwrite
+      the columns named by ``lat_col`` and ``lng_col`` and return the DataFrame.
+    - If a list of dicts is provided, the function returns a new list where
+      each dict has the lat/lng keys added.
+
+    The function uses ``get_county_coordinates`` which looks up coordinates in
+    ``data/uscounties.csv`` and falls back to per-state centers or the US center.
+    """
+    # Try pandas.DataFrame path first
+    try:
+        import pandas as _pd
+    except Exception:
+        _pd = None
+
+    if _pd is not None and hasattr(df, 'iterrows'):
+        # pandas DataFrame
+        def _coords_for_row(row):
+            # row may be a Series
+            county = row.get(county_col) if hasattr(row, 'get') else row[county_col]
+            state = row.get(state_col) if hasattr(row, 'get') else row[state_col]
+            lat, lng = get_county_coordinates(county, state)
+            return _pd.Series({lat_col: lat, lng_col: lng})
+
+        coords = df.apply(_coords_for_row, axis=1)
+        df[lat_col] = coords[lat_col]
+        df[lng_col] = coords[lng_col]
+        return df
+
+    # Otherwise, assume iterable of dict-like rows
+    out = []
+    for row in df:
+        county = row.get(county_col) if isinstance(row, dict) else None
+        state = row.get(state_col) if isinstance(row, dict) else None
+        lat, lng = get_county_coordinates(county, state)
+        newrow = dict(row)
+        newrow[lat_col] = lat
+        newrow[lng_col] = lng
+        out.append(newrow)
+    return out
+
+
+def geocode_csv(input_path, output_path=None, county_col='county', state_col='state', lat_col='lat', lng_col='lng', encoding='utf-8'):
+    """Read a CSV, geocode rows using county/state columns, and optionally write output.
+
+    Returns the geocoded pandas DataFrame (if pandas is available) or a list of dicts.
+    """
+    try:
+        import pandas as pd
+        df = pd.read_csv(input_path, dtype=str, encoding=encoding)
+        df_geocoded = geocode_dataframe(df, county_col=county_col, state_col=state_col, lat_col=lat_col, lng_col=lng_col)
+        if output_path:
+            df_geocoded.to_csv(output_path, index=False, encoding='utf-8')
+        return df_geocoded
+    except Exception:
+        # Fallback to stdlib csv module if pandas not available or read failed
+        import csv
+        rows = []
+        with open(input_path, newline='', encoding=encoding) as fh:
+            r = csv.DictReader(fh)
+            for row in r:
+                rows.append(row)
+
+        geocoded = geocode_dataframe(rows, county_col=county_col, state_col=state_col, lat_col=lat_col, lng_col=lng_col)
+
+        if output_path:
+            # write with csv.DictWriter, ensure lat/lng in fieldnames
+            fieldnames = list(geocoded[0].keys()) if geocoded else []
+            # ensure deterministic ordering: original fields then lat/lng
+            if lat_col not in fieldnames:
+                fieldnames.append(lat_col)
+            if lng_col not in fieldnames:
+                fieldnames.append(lng_col)
+            with open(output_path, 'w', newline='', encoding='utf-8') as outfh:
+                w = csv.DictWriter(outfh, fieldnames=fieldnames)
+                w.writeheader()
+                for row in geocoded:
+                    w.writerow(row)
+
+        return geocoded
+
