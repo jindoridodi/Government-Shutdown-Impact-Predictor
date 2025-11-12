@@ -126,43 +126,8 @@ def _load_county_lookup():
             return lookup
 
     # handle both pandas DataFrame (if pandas used) and list-of-dicts (csv.DictReader)
-    if hasattr(df, 'columns'):
-        # pandas DataFrame path
-        for col in ['county', 'county_ascii', 'county_full', 'state_id', 'lat', 'lng']:
-            if col not in df.columns:
-                df[col] = None
-
-        # Build normalized county name column
-        df['_county_norms'] = df.apply(lambda r: list({
-            _normalize_county_name(r.get('county')),
-            _normalize_county_name(r.get('county_ascii')),
-            _normalize_county_name(r.get('county_full'))
-        } - {''}), axis=1)
-
-    # populate lookup for each normalized variant (use normalized 2-letter codes)
-        for _, row in df.iterrows():
-            state_raw = row.get('state_id')
-            state_code = normalize_state_name(state_raw)
-            lat = row.get('lat')
-            lng = row.get('lng')
-            try:
-                latf = float(lat) if lat not in (None, '') else None
-                lngf = float(lng) if lng not in (None, '') else None
-            except Exception:
-                latf = None
-                lngf = None
-
-            if state_code is None:
-                # skip rows missing a recognizable state
-                continue
-
-            norms = row.get('_county_norms') or []
-            for n in norms:
-                key = (n, state_code)
-                # prefer first seen (dataset likely unique)
-                if key not in lookup and latf is not None and lngf is not None:
-                    lookup[key] = (latf, lngf)
-    else:
+    # Use an explicit isinstance check so static analyzers can narrow types.
+    if isinstance(df, list):
         # list-of-dicts path (csv.DictReader) - normalize fields the same way
         for row in df:
             state_raw = row.get('state_id') or row.get('state') or row.get('state_name')
@@ -183,6 +148,56 @@ def _load_county_lookup():
             norms = set()
             for col in ('county', 'county_ascii', 'county_full'):
                 norms.add(_normalize_county_name(row.get(col)))
+            norms.discard('')
+
+            for n in norms:
+                key = (n, state_code)
+                if key not in lookup and latf is not None and lngf is not None:
+                    lookup[key] = (latf, lngf)
+    else:
+        # pandas DataFrame path - assume DataFrame (df was set from pandas.read_csv earlier)
+        # ensure expected columns exist
+        for col in ['county', 'county_ascii', 'county_full', 'state_id', 'lat', 'lng']:
+            if col not in df.columns:
+                df[col] = None
+
+        # Iterate rows with iterrows to build normalized variants
+        for _, row in df.iterrows():
+            # row is a pandas Series; avoid calling .get on unknown types in the list branch
+            try:
+                state_raw = row['state_id'] if 'state_id' in row.index else None
+            except Exception:
+                state_raw = None
+
+            state_code = normalize_state_name(state_raw)
+            try:
+                lat = row['lat'] if 'lat' in row.index else None
+            except Exception:
+                lat = None
+            try:
+                lng = row['lng'] if 'lng' in row.index else None
+            except Exception:
+                lng = None
+
+            try:
+                latf = float(lat) if lat not in (None, '') else None
+                lngf = float(lng) if lng not in (None, '') else None
+            except Exception:
+                latf = None
+                lngf = None
+
+            if state_code is None:
+                # skip rows missing a recognizable state
+                continue
+
+            norms = set()
+            for col in ('county', 'county_ascii', 'county_full'):
+                try:
+                    val = row[col] if col in row.index else None
+                except Exception:
+                    val = None
+                # _normalize_county_name safely handles empty strings; ensure we pass a str
+                norms.add(_normalize_county_name(val if val is not None else ''))
             norms.discard('')
 
             for n in norms:
@@ -268,12 +283,18 @@ def geocode_dataframe(df, county_col='county', state_col='state', lat_col='lat',
     except Exception:
         _pd = None
 
-    if _pd is not None and hasattr(df, 'iterrows'):
-        # pandas DataFrame
+    if _pd is not None and not isinstance(df, list):
+        # pandas DataFrame path
         def _coords_for_row(row):
-            # row may be a Series
-            county = row.get(county_col) if hasattr(row, 'get') else row[county_col]
-            state = row.get(state_col) if hasattr(row, 'get') else row[state_col]
+            # row is a pandas Series; use indexing which is faster and well-typed
+            try:
+                county = row[county_col]
+            except Exception:
+                county = None
+            try:
+                state = row[state_col]
+            except Exception:
+                state = None
             lat, lng = get_county_coordinates(county, state)
             return _pd.Series({lat_col: lat, lng_col: lng})
 
@@ -305,7 +326,21 @@ def geocode_csv(input_path, output_path=None, county_col='county', state_col='st
         df = pd.read_csv(input_path, dtype=str, encoding=encoding)
         df_geocoded = geocode_dataframe(df, county_col=county_col, state_col=state_col, lat_col=lat_col, lng_col=lng_col)
         if output_path:
-            df_geocoded.to_csv(output_path, index=False, encoding='utf-8')
+            # df_geocoded may be a DataFrame or (unexpectedly) a list; handle both
+            if isinstance(df_geocoded, list):
+                import csv as _csv
+                fieldnames = list(df_geocoded[0].keys()) if df_geocoded else []
+                if lat_col not in fieldnames:
+                    fieldnames.append(lat_col)
+                if lng_col not in fieldnames:
+                    fieldnames.append(lng_col)
+                with open(output_path, 'w', newline='', encoding='utf-8') as outfh:
+                    w = _csv.DictWriter(outfh, fieldnames=fieldnames)
+                    w.writeheader()
+                    for row in df_geocoded:
+                        w.writerow(row)
+            else:
+                df_geocoded.to_csv(output_path, index=False, encoding='utf-8')
         return df_geocoded
     except Exception:
         # Fallback to stdlib csv module if pandas not available or read failed

@@ -40,10 +40,14 @@ def read_csv_flexible(file_path: Path) -> pd.DataFrame:
 
     # If all encodings fail, try with error handling replacing invalid bytes
     try:
-        return pd.read_csv(file_path, encoding='utf-8', errors='replace', low_memory=False)
+        # Open the file with replacement for invalid bytes and let pandas read from the file object.
+        # This avoids passing the 'errors' parameter directly to pandas.read_csv which some type stubs don't accept.
+        with open(file_path, 'r', encoding='utf-8', errors='replace') as fh:
+            return pd.read_csv(fh, low_memory=False)
     except Exception:
-        # Final fallback: python engine and skip bad lines
-        return pd.read_csv(file_path, encoding='utf-8', engine='python', on_bad_lines='skip')
+        # Final fallback: python engine and skip bad lines, also using a file handle with errors replaced
+        with open(file_path, 'r', encoding='utf-8', errors='replace') as fh:
+            return pd.read_csv(fh, engine='python', on_bad_lines='skip')
 
 
 def clean_numeric_column(series: pd.Series) -> pd.Series:
@@ -177,7 +181,11 @@ def parse_period_to_date(period: str) -> Optional[pd.Timestamp]:
     
     # Try pandas to_datetime as fallback
     try:
-        return pd.to_datetime(period_str, errors='coerce')
+        result = pd.to_datetime(period_str, errors='coerce')
+        # pd.to_datetime with errors='coerce' may return NaT; convert NaT to None for Optional[pd.Timestamp] return type
+        if pd.isna(result):
+            return None
+        return pd.Timestamp(result)
     except (ValueError, TypeError):
         return None
 
