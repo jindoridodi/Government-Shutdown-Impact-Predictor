@@ -201,7 +201,12 @@ def forecast_risk_by_county(data: pd.DataFrame, client: APIClient, forecast_hori
         raise ValueError(error_msg)
     
     # Initialize model
-    model_id = client.foundation_models.TimeSeriesModels.GRANITE_TTM_512_96_R2
+    # Use getattr with a fallback string identifier to avoid static attribute access errors
+    model_id = getattr(client.foundation_models.TimeSeriesModels, "GRANITE_TTM_512_96_R2", None)
+    if model_id is None:
+        # Fallback to string identifier if the SDK does not expose the attribute
+        model_id = "GRANITE_TTM_512_96_R2"
+        logger.debug("TimeSeriesModels constant not found on client; using string identifier fallback for model_id.")
     ts_model = TSModelInference(model_id=model_id, api_client=client)
     
     logger.info(f"Using model {model_id} which requires at least {MIN_DATA_POINTS} data points per county")

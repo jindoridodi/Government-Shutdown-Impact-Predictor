@@ -2,3 +2,6 @@ venv
 .env
 .venv
 .github
+/models/__pycache__
+/data/processed
+/utils/__pycache__

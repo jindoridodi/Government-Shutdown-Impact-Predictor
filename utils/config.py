@@ -1,4 +1,15 @@
-# config.py
+# utils/config.py
+"""Configuration loader for environment variables and data paths.
+
+This module centralizes environment and path configuration for the project.
+It attempts to load a `.env` file (using python-dotenv) but falls back to
+reading environment variables directly. Other modules should import
+constants (e.g. API_KEY, PROJECT_ID) or call `get_config()`.
+
+Behavior notes:
+- prints a small message when a .env file is loaded successfully
+- does not raise if .env is missing or malformatted; dotenv is optional
+"""
 
 import os
 from dotenv import load_dotenv
